@@ -1,0 +1,137 @@
+Angelscript log opened
+Server started logging Angelscript on map 'stadium4' at: 2018-09-18 19:15:12
+ERROR: c:/svends/svencoop_addon/scripts/plugins/AFKManager.as (7, 1) : Unexpected token '<'
+ERROR: c:/svends/svencoop_addon/scripts/plugins/AFKManager.as (444, 193) : Unexpected token '<string constant>'
+ERROR: c:/svends/svencoop_addon/scripts/plugins/AFKManager.as (495, 1) : Unexpected token '<'
+ERROR: Plugin script compilation failed
+1 Plugin(s) failed compilation
+Server stopped logging Angelscript at: 2018-09-18 19:19:10
+Angelscript log opened
+Server started logging Angelscript on map 'stadium4' at: 2018-09-18 19:29:21
+ERROR: c:/svends/svencoop_addon/scripts/plugins/AFKManager.as (7, 1) : Unexpected token '<'
+ERROR: c:/svends/svencoop_addon/scripts/plugins/AFKManager.as (444, 193) : Unexpected token '<string constant>'
+ERROR: c:/svends/svencoop_addon/scripts/plugins/AFKManager.as (495, 1) : Unexpected token '<'
+ERROR: Plugin script compilation failed
+ERROR: c:/svends/svencoop_addon/scripts/plugins/InfiniteFlashlight.as (7, 1) : Unexpected token '<'
+ERROR: c:/svends/svencoop_addon/scripts/plugins/InfiniteFlashlight.as (444, 193) : Unexpected token '<string constant>'
+ERROR: c:/svends/svencoop_addon/scripts/plugins/InfiniteFlashlight.as (494, 1) : Unexpected token '<'
+ERROR: Plugin script compilation failed
+2 Plugin(s) failed compilation
+Not allowed: in section 'c:/svends/svencoop_addon/scripts/plugins/ChatSounds.as', at (24, 20): Function MapInit:
+Message: Null pointer access
+ERROR: CASBaseCallable::Call: Execution of function '::MapInit' failed!
+Not allowed: in section 'c:/svends/svencoop_addon/scripts/plugins/ChatSounds.as', at (61, 20): Function listsounds:
+Message: Null pointer access
+ERROR: CASBaseCallable::Call: Execution of function '::listsounds' failed!
+Server stopped logging Angelscript at: 2018-09-18 19:33:51
+Angelscript log opened
+Server started logging Angelscript on map 'stadium4' at: 2018-09-18 19:34:12
+ERROR: c:/svends/svencoop_addon/scripts/plugins/AFKManager.as (7, 1) : Unexpected token '<'
+ERROR: c:/svends/svencoop_addon/scripts/plugins/AFKManager.as (444, 193) : Unexpected token '<string constant>'
+ERROR: c:/svends/svencoop_addon/scripts/plugins/AFKManager.as (495, 1) : Unexpected token '<'
+ERROR: Plugin script compilation failed
+ERROR: c:/svends/svencoop_addon/scripts/plugins/InfiniteFlashlight.as (7, 1) : Unexpected token '<'
+ERROR: c:/svends/svencoop_addon/scripts/plugins/InfiniteFlashlight.as (444, 193) : Unexpected token '<string constant>'
+ERROR: c:/svends/svencoop_addon/scripts/plugins/InfiniteFlashlight.as (494, 1) : Unexpected token '<'
+ERROR: Plugin script compilation failed
+2 Plugin(s) failed compilation
+Not allowed: in section 'c:/svends/svencoop_addon/scripts/plugins/ChatSounds.as', at (24, 20): Function MapInit:
+Message: Null pointer access
+ERROR: CASBaseCallable::Call: Execution of function '::MapInit' failed!
+Not allowed: in section 'c:/svends/svencoop_addon/scripts/plugins/ChatSounds.as', at (61, 20): Function listsounds:
+Message: Null pointer access
+ERROR: CASBaseCallable::Call: Execution of function '::listsounds' failed!
+Server stopped logging Angelscript at: 2018-09-18 19:38:53
+Angelscript log opened
+Server started logging Angelscript on map 'stadium4' at: 2018-09-18 19:40:15
+ERROR: c:/svends/svencoop_addon/scripts/plugins/AFKManager.as (7, 1) : Unexpected token '<'
+ERROR: c:/svends/svencoop_addon/scripts/plugins/AFKManager.as (444, 193) : Unexpected token '<string constant>'
+ERROR: c:/svends/svencoop_addon/scripts/plugins/AFKManager.as (495, 1) : Unexpected token '<'
+ERROR: Plugin script compilation failed
+ERROR: c:/svends/svencoop_addon/scripts/plugins/InfiniteFlashlight.as (7, 1) : Unexpected token '<'
+ERROR: c:/svends/svencoop_addon/scripts/plugins/InfiniteFlashlight.as (444, 193) : Unexpected token '<string constant>'
+ERROR: c:/svends/svencoop_addon/scripts/plugins/InfiniteFlashlight.as (494, 1) : Unexpected token '<'
+ERROR: Plugin script compilation failed
+2 Plugin(s) failed compilation
+Not allowed: in section 'c:/svends/svencoop_addon/scripts/plugins/ChatSounds.as', at (24, 20): Function MapInit:
+Message: Null pointer access
+ERROR: CASBaseCallable::Call: Execution of function '::MapInit' failed!
+Server stopped logging Angelscript at: 2018-09-18 19:42:24
+Angelscript log opened
+Server started logging Angelscript on map 'stadium4' at: 2018-09-18 19:49:11
+ERROR: c:/svends/svencoop_addon/scripts/plugins/AFKManager.as (7, 1) : Unexpected token '<'
+ERROR: c:/svends/svencoop_addon/scripts/plugins/AFKManager.as (444, 193) : Unexpected token '<string constant>'
+ERROR: c:/svends/svencoop_addon/scripts/plugins/AFKManager.as (495, 1) : Unexpected token '<'
+ERROR: Plugin script compilation failed
+ERROR: c:/svends/svencoop_addon/scripts/plugins/InfiniteFlashlight.as (7, 1) : Unexpected token '<'
+ERROR: c:/svends/svencoop_addon/scripts/plugins/InfiniteFlashlight.as (444, 193) : Unexpected token '<string constant>'
+ERROR: c:/svends/svencoop_addon/scripts/plugins/InfiniteFlashlight.as (494, 1) : Unexpected token '<'
+ERROR: Plugin script compilation failed
+2 Plugin(s) failed compilation
+Not allowed: in section 'c:/svends/svencoop_addon/scripts/plugins/ChatSounds.as', at (24, 20): Function MapInit:
+Message: Null pointer access
+ERROR: CASBaseCallable::Call: Execution of function '::MapInit' failed!
+Server stopped logging Angelscript at: 2018-09-18 19:53:01
+Angelscript log opened
+Server started logging Angelscript on map 'stadium4' at: 2018-09-18 19:53:47
+ERROR: c:/svends/svencoop_addon/scripts/plugins/AFKManager.as (7, 1) : Unexpected token '<'
+ERROR: c:/svends/svencoop_addon/scripts/plugins/AFKManager.as (444, 193) : Unexpected token '<string constant>'
+ERROR: c:/svends/svencoop_addon/scripts/plugins/AFKManager.as (495, 1) : Unexpected token '<'
+ERROR: Plugin script compilation failed
+ERROR: c:/svends/svencoop_addon/scripts/plugins/InfiniteFlashlight.as (7, 1) : Unexpected token '<'
+ERROR: c:/svends/svencoop_addon/scripts/plugins/InfiniteFlashlight.as (444, 193) : Unexpected token '<string constant>'
+ERROR: c:/svends/svencoop_addon/scripts/plugins/InfiniteFlashlight.as (494, 1) : Unexpected token '<'
+ERROR: Plugin script compilation failed
+2 Plugin(s) failed compilation
+Not allowed: in section 'c:/svends/svencoop_addon/scripts/plugins/ChatSounds.as', at (24, 20): Function MapInit:
+Message: Null pointer access
+ERROR: CASBaseCallable::Call: Execution of function '::MapInit' failed!
+Not allowed: in section 'c:/svends/svencoop_addon/scripts/plugins/ChatSounds.as', at (61, 20): Function listsounds:
+Message: Null pointer access
+ERROR: CASBaseCallable::Call: Execution of function '::listsounds' failed!
+Server stopped logging Angelscript at: 2018-09-18 19:58:33
+Angelscript log opened
+Server started logging Angelscript on map 'stadium4' at: 2018-09-18 20:10:57
+ERROR: c:/svends/svencoop_addon/scripts/plugins/AFKManager.as (7, 1) : Unexpected token '<'
+ERROR: c:/svends/svencoop_addon/scripts/plugins/AFKManager.as (444, 193) : Unexpected token '<string constant>'
+ERROR: c:/svends/svencoop_addon/scripts/plugins/AFKManager.as (495, 1) : Unexpected token '<'
+ERROR: Plugin script compilation failed
+ERROR: c:/svends/svencoop_addon/scripts/plugins/InfiniteFlashlight.as (7, 1) : Unexpected token '<'
+ERROR: c:/svends/svencoop_addon/scripts/plugins/InfiniteFlashlight.as (444, 193) : Unexpected token '<string constant>'
+ERROR: c:/svends/svencoop_addon/scripts/plugins/InfiniteFlashlight.as (494, 1) : Unexpected token '<'
+ERROR: Plugin script compilation failed
+2 Plugin(s) failed compilation
+Not allowed: in section 'c:/svends/svencoop_addon/scripts/plugins/ChatSounds.as', at (24, 20): Function MapInit:
+Message: Null pointer access
+ERROR: CASBaseCallable::Call: Execution of function '::MapInit' failed!
+Not allowed: in section 'c:/svends/svencoop_addon/scripts/plugins/ChatSounds.as', at (61, 20): Function listsounds:
+Message: Null pointer access
+ERROR: CASBaseCallable::Call: Execution of function '::listsounds' failed!
+Not allowed: in section 'c:/svends/svencoop_addon/scripts/plugins/ChatSounds.as', at (61, 20): Function listsounds:
+Message: Null pointer access
+ERROR: CASBaseCallable::Call: Execution of function '::listsounds' failed!
+Server stopped logging Angelscript at: 2018-09-18 20:13:34
+Angelscript log opened
+Server started logging Angelscript on map 'stadium4' at: 2018-09-18 20:43:20
+ERROR: c:/svends/svencoop/scripts/plugins/AFKManager.as (7, 1) : Unexpected token '<'
+ERROR: c:/svends/svencoop/scripts/plugins/AFKManager.as (444, 193) : Unexpected token '<string constant>'
+ERROR: c:/svends/svencoop/scripts/plugins/AFKManager.as (495, 1) : Unexpected token '<'
+ERROR: Plugin script compilation failed
+ERROR: c:/svends/svencoop/scripts/plugins/InfiniteFlashlight.as (7, 1) : Unexpected token '<'
+ERROR: c:/svends/svencoop/scripts/plugins/InfiniteFlashlight.as (444, 193) : Unexpected token '<string constant>'
+ERROR: c:/svends/svencoop/scripts/plugins/InfiniteFlashlight.as (494, 1) : Unexpected token '<'
+ERROR: Plugin script compilation failed
+2 Plugin(s) failed compilation
+Server stopped logging Angelscript at: 2018-09-18 20:46:37
+Angelscript log opened
+Server started logging Angelscript on map 'stadium4' at: 2018-09-18 20:47:16
+ERROR: c:/svends/svencoop/scripts/plugins/AFKManager.as (7, 1) : Unexpected token '<'
+ERROR: c:/svends/svencoop/scripts/plugins/AFKManager.as (444, 193) : Unexpected token '<string constant>'
+ERROR: c:/svends/svencoop/scripts/plugins/AFKManager.as (495, 1) : Unexpected token '<'
+ERROR: Plugin script compilation failed
+ERROR: c:/svends/svencoop/scripts/plugins/InfiniteFlashlight.as (7, 1) : Unexpected token '<'
+ERROR: c:/svends/svencoop/scripts/plugins/InfiniteFlashlight.as (444, 193) : Unexpected token '<string constant>'
+ERROR: c:/svends/svencoop/scripts/plugins/InfiniteFlashlight.as (494, 1) : Unexpected token '<'
+ERROR: Plugin script compilation failed
+2 Plugin(s) failed compilation
+Server stopped logging Angelscript at: 2018-09-18 20:48:38

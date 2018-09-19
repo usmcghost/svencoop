@@ -121,8 +121,6 @@ lmao incoming/df.wav
 retry holo/tr_holo_retry.wav
 
 otherwise gman/gman_otherwise.wav
-
-lift ambience/liftmuzak.wav
 awoo awoo.ogg
 sad2 gta2/faces.ogg
 continue sanksound/Efectos/continued.wav
@@ -184,7 +182,6 @@ boomheadshot sanksound/Efectos/headshot.wav
 shroom sanksound/Efectos/hongos.wav
 ahaha sanksound/Efectos/jaaa.wav
 ah! sanksound/Efectos/marmota2.wav
-niverga sanksound/Efectos/nimerga.wav
 no! sanksound/Efectos/no.wav
 pwnd sanksound/Efectos/pwnd.wav
 showup sanksound/Efectos/showup.wav
@@ -198,13 +195,11 @@ wohoho sanksound/Efectos/wojojo.wav
 wombo sanksound/Efectos/wombocombo.wav
 wtf sanksound/Efectos/wtf.wav
 ha sanksound/Efectos/wujaja.wav
-nuts sanksound/Efectos/yijaja.wav
 planted sank/bombpl.wav
 boom sank/boomheadshot.mp3
 brb sank/brb_n01.mp3
 buhbye sank/bye_n01.mp3
 combobreaker sank/combobreaker.mp3
-cum sank/cum_n01.mp3
 fucku sank/dafuq_n01.mp3
 damnson sank/damnson_n01.mp3
 defeat sank/defeat.mp3
@@ -249,7 +244,6 @@ penta sank/pentakill.mp3
 pills sank/pills_n01.mp3
 prank sank/prank.mp3
 predator sank/predator.mp3
-punch sank/punch_n01.mp3
 pussy sank/pussy_n01.mp3
 rape sank/rape.mp3
 failed sank/retard2_n01.mp3
@@ -268,22 +262,17 @@ yeee sank/yee2_n01.mp3
 aaaa sandwich/aaaa.ogg
 argh sandwich/aaaah.wav
 beatit sandwich/beatit.ogg
-benny sandwich/bennyhill.ogg
 crawling sandwich/crawling.ogg
-d2 sandwich/d2pal.ogg
 ffs sandwich/ffs.ogg
 maga sandwich/greatagain.ogg
 hehehe sandwich/huehuehue.ogg
-needweapon sandwich/needweapon.ogg
 noooo sandwich/noo.wav
 noplease sandwich/noplease.wav
 ohno! sandwich/ohno.wav
-porno sandwich/rickroll2.ogg
 jaja sandwich/risitas.wav
 sanic sandwich/sanic.ogg
 sonic sandwich/soniic.ogg
 thriller sandwich/thriller.ogg
-toasty sandwich/toasty.ogg
 unusual sandwich/tomjones.ogg
 wall sandwich/trumpwall.ogg
 eastwood sandwich/whistle.ogg
@@ -313,7 +302,6 @@ christmas keen/dukechristmas.wav
 bye keen/goodbyetele.wav
 die 4ways/die1.wav
 sad69 sad69.ogg
-ultra ultra2.ogg
 jurassic jurassic.ogg
 pirates pirates.ogg
 kamehameha kamehameha.ogg
@@ -328,13 +316,10 @@ gmi2 chatsounds/gmi2.ogg
 daway daway.ogg
 allclear allclear.wav
 kawaii kawaii.wav
-konichiwa konichiwa.wav
 minecraft mineraft.wav
-nani nani.wav
 omaewa omaewa.wav
 run1 run.wav
 sad4 sad4.wav
-sueltame sueltame.wav
 tengomiedo tengomiedo.wav
 mwahaha freezer.ogg
 hohoho hohoho.ogg

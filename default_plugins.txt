@@ -58,24 +58,10 @@
 		"name" "SinkingShip"
 		"script" "cubemath/SinkingShip2"
 	}
-
-	"plugin"
-	{
-		"name" "AFKKick"
-		"script" "admin/KickIdlePlayers"
-		"concommandns" "afkkick"
-	}
-
 	"plugin"
 	{
 		"name" "EntityManager"
 		"script" "EntityManager"
 		"concommandns" "entmngr"
-	}
-
-	"plugin"
-	{
-		"name" "DynamicDifficulty7"
-		"script" "DynamicDifficulty7"
 	}
 }

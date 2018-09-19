@@ -936,3 +936,97 @@ L 18/09/2018 - 22:58:08: Started map "eshq01" (CRC "-847317178")
 L 18/09/2018 - 22:58:27: Welcome to HVRDCORE HVLF-LIFE - PREPARE TO DIE!!!
 L 18/09/2018 - 22:58:58: Server shutdown
 L 18/09/2018 - 22:58:58: Log file closed
+L 18/09/2018 - 23:29:20: Log file started (file "logs\2018-09-18.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 18/09/2018 - 23:29:20: [AFB] AFBase 1.3.2 PUBLIC - Plugin init
+L 18/09/2018 - 23:29:20: [AFB] Loading expansions.
+L 18/09/2018 - 23:29:20: [AFB] Registering expansion: AdminFuckery Base (SID: AFB) by Zode
+L 18/09/2018 - 23:29:20: [AFB] Registering expansion: AdminFuckery2 Player Commands (SID: AF2P) by Zode
+L 18/09/2018 - 23:29:20: [AFB] Registering expansion: AdminFuckery2 Entity Commands (SID: AF2E) by Zode
+L 18/09/2018 - 23:29:20: [AFB] Registering expansion: AdminFuckery2 Fun Commands (SID: AF2F) by Zode
+L 18/09/2018 - 23:29:20: [AFB] Expansions loaded!
+L 18/09/2018 - 23:29:20: Server cvar "mp_banana" = "1"
+L 18/09/2018 - 23:29:20: Server cvar "sv_maxspeed" = "270"
+L 18/09/2018 - 23:29:20: [AFB] Map init.
+L 18/09/2018 - 23:29:21: Started map "eshq01" (CRC "-847317178")
+L 18/09/2018 - 23:29:21: Server cvar "sv_voiceenable" = "1"
+L 18/09/2018 - 23:29:22: Server cvar "sv_voiceenable" = "0"
+L 18/09/2018 - 23:29:22: Log file closed
+L 18/09/2018 - 23:29:22: Log file started (file "logs\2018-09-18.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 18/09/2018 - 23:29:33: "kek<1><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 18/09/2018 - 23:29:33: [AFB] User kek connected from 47.132.2.210:27005
+L 18/09/2018 - 23:29:34: "kek<1><STEAM_0:1:105068535><>" STEAM USERID validated
+L 18/09/2018 - 23:29:35: "kek<2><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 18/09/2018 - 23:29:35: [AFB] User kek connected from 47.132.2.210:27005
+L 18/09/2018 - 23:29:35: "kek<2><STEAM_0:1:105068535><>" STEAM USERID validated
+L 18/09/2018 - 23:29:47: [AFB] Granted access (abcdefghijklmnopqrstuvwyxz) to STEAM_0:1:105068535
+L 18/09/2018 - 23:29:47: "kek<2><STEAM_0:1:105068535><players>" has entered the game
+L 18/09/2018 - 23:30:06: "kek<2><STEAM_0:1:105068535><players>" disconnected
+L 18/09/2018 - 23:30:37: Log file closed
+L 18/09/2018 - 23:30:37: Log file started (file "logs\2018-09-18.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 18/09/2018 - 23:30:37: Loading map "eshq01"
+L 18/09/2018 - 23:30:37: Server cvars start
+L 18/09/2018 - 23:30:37: Server cvar "adminsfile" = "admins.txt"
+L 18/09/2018 - 23:30:37: Server cvar "allow_spectators" = "1.0"
+L 18/09/2018 - 23:30:37: Server cvar "coop" = "0"
+L 18/09/2018 - 23:30:37: Server cvar "deathmatch" = "1"
+L 18/09/2018 - 23:30:37: Server cvar "edgefriction" = "2"
+L 18/09/2018 - 23:30:37: Server cvar "gamebuild" = "6142"
+L 18/09/2018 - 23:30:37: Server cvar "gamename" = "Sven Co-op"
+L 18/09/2018 - 23:30:37: Server cvar "gameversion" = "5.17"
+L 18/09/2018 - 23:30:37: Server cvar "gameversionnum" = "5.17"
+L 18/09/2018 - 23:30:37: Server cvar "mapvotecfgfile" = "mapvote.cfg"
+L 18/09/2018 - 23:30:37: Server cvar "max_queries_sec" = "3.0"
+L 18/09/2018 - 23:30:37: Server cvar "max_queries_sec_global" = "30"
+L 18/09/2018 - 23:30:37: Server cvar "max_queries_window" = "60"
+L 18/09/2018 - 23:30:37: Server cvar "mp_banana" = "1"
+L 18/09/2018 - 23:30:37: Server cvar "mp_consistency" = "0"
+L 18/09/2018 - 23:30:37: Server cvar "mp_footsteps" = "1"
+L 18/09/2018 - 23:30:37: Server cvar "mp_logfile" = "1"
+L 18/09/2018 - 23:30:37: Server cvar "mp_nextmap_cycle" = "campaign_vote1"
+L 18/09/2018 - 23:30:37: Server cvar "mp_notimelimit" = "0.0"
+L 18/09/2018 - 23:30:37: Server cvar "pausable" = "0"
+L 18/09/2018 - 23:30:37: Server cvar "skillcfgfile" = "skill.cfg"
+L 18/09/2018 - 23:30:37: Server cvar "sv_accelerate" = "10"
+L 18/09/2018 - 23:30:37: Server cvar "sv_admin_icon" = "gfx/icons/admin.tga"
+L 18/09/2018 - 23:30:37: Server cvar "sv_aim" = "0"
+L 18/09/2018 - 23:30:37: Server cvar "sv_airaccelerate" = "10"
+L 18/09/2018 - 23:30:37: Server cvar "sv_allowupload" = "1"
+L 18/09/2018 - 23:30:37: Server cvar "sv_alltalk" = "0"
+L 18/09/2018 - 23:30:37: Server cvar "sv_bounce" = "1"
+L 18/09/2018 - 23:30:37: Server cvar "sv_cheats" = "2"
+L 18/09/2018 - 23:30:37: Server cvar "sv_clienttrace" = "1"
+L 18/09/2018 - 23:30:37: Server cvar "sv_contact" = ""
+L 18/09/2018 - 23:30:37: Server cvar "sv_friction" = "4"
+L 18/09/2018 - 23:30:37: Server cvar "sv_gravity" = "800"
+L 18/09/2018 - 23:30:37: Server cvar "sv_logblocks" = "0"
+L 18/09/2018 - 23:30:37: Server cvar "sv_maxrate" = "0"
+L 18/09/2018 - 23:30:37: Server cvar "sv_maxspeed" = "270"
+L 18/09/2018 - 23:30:37: Server cvar "sv_minrate" = "0"
+L 18/09/2018 - 23:30:37: Server cvar "sv_password" = ""
+L 18/09/2018 - 23:30:37: Server cvar "sv_proxies" = "1"
+L 18/09/2018 - 23:30:37: Server cvar "sv_stepsize" = "18"
+L 18/09/2018 - 23:30:37: Server cvar "sv_stopspeed" = "100"
+L 18/09/2018 - 23:30:37: Server cvar "sv_uploadmax" = "0.5"
+L 18/09/2018 - 23:30:37: Server cvar "sv_voiceenable" = "0"
+L 18/09/2018 - 23:30:37: Server cvar "sv_wateraccelerate" = "10"
+L 18/09/2018 - 23:30:37: Server cvar "sv_waterfriction" = "1"
+L 18/09/2018 - 23:30:37: Server cvars end
+L 18/09/2018 - 23:30:37: Log file closed
+L 18/09/2018 - 23:30:37: Log file started (file "logs\2018-09-18.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 18/09/2018 - 23:30:37: [AFB] Map init.
+L 18/09/2018 - 23:30:37: Started map "eshq01" (CRC "-847317178")
+L 18/09/2018 - 23:32:20: Server shutdown
+L 18/09/2018 - 23:32:20: Log file closed
+L 18/09/2018 - 23:32:32: Log file started (file "logs\2018-09-18.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 18/09/2018 - 23:32:32: [AFB] AFBase 1.3.2 PUBLIC - Plugin init
+L 18/09/2018 - 23:32:32: [AFB] Loading expansions.
+L 18/09/2018 - 23:32:32: [AFB] Registering expansion: AdminFuckery Base (SID: AFB) by Zode
+L 18/09/2018 - 23:32:32: [AFB] Registering expansion: AdminFuckery2 Player Commands (SID: AF2P) by Zode
+L 18/09/2018 - 23:32:32: [AFB] Registering expansion: AdminFuckery2 Entity Commands (SID: AF2E) by Zode
+L 18/09/2018 - 23:32:32: [AFB] Registering expansion: AdminFuckery2 Fun Commands (SID: AF2F) by Zode
+L 18/09/2018 - 23:32:32: [AFB] Expansions loaded!
+L 18/09/2018 - 23:32:32: [AFB] Map init.
+L 18/09/2018 - 23:32:33: Started map "eshq01" (CRC "-847317178")
+L 18/09/2018 - 23:32:33: Server cvar "sv_voiceenable" = "1"
+L 18/09/2018 - 23:32:33: Server cvar "sv_voiceenable" = "0"
+L 18/09/2018 - 23:32:33: Log file closed

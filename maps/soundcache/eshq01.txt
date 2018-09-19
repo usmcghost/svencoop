@@ -162,6 +162,7 @@ keen/goodbyetele.wav
 otis/candy.wav
 nickwade/cashmeoutside.ogg
 cena.wav
+nickwade/china.ogg
 gman/gman_choose2.wav
 keen/dukechristmas.wav
 sanksound/Musica2/sonic.mp3
@@ -183,6 +184,7 @@ voice_commands/tucumanos/enemydown.wav
 sank/defeat.mp3
 sank/denied_n01.mp3
 sanksound/Efectos/denunciado.wav
+nickwade/destroythechild.ogg
 4ways/die1.wav
 keen/disneyland.wav
 sank/done_n01.mp3
@@ -332,6 +334,7 @@ sank/peanuts_n01.mp3
 pirates.ogg
 sank/bombpl.wav
 voice_commands/tucumanos/com_getinpos.wav
+nickwade/potc.ogg
 sank/prank.mp3
 nickwade/yousoprecious.ogg
 sank/predator.mp3

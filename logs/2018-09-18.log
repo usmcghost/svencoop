@@ -355,3 +355,347 @@ L 18/09/2018 - 20:48:38: Server cvar "sv_wateraccelerate" = "10"
 L 18/09/2018 - 20:48:38: Server cvar "sv_waterfriction" = "1"
 L 18/09/2018 - 20:48:38: Server cvars end
 L 18/09/2018 - 20:48:38: Log file closed
+L 18/09/2018 - 20:48:38: Log file started (file "logs\2018-09-18.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 18/09/2018 - 20:48:39: [AFB] Map init.
+L 18/09/2018 - 20:48:40: Started map "stadium4" (CRC "-1537396155")
+L 18/09/2018 - 20:48:59: Welcome to HVRDCORE HVLF-LIFE - PREPARE TO DIE!!!
+L 18/09/2018 - 20:59:51: Server shutdown
+L 18/09/2018 - 20:59:51: Log file closed
+L 18/09/2018 - 21:00:04: Log file started (file "logs\2018-09-18.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 18/09/2018 - 21:00:04: [AFB] AFBase 1.3.2 PUBLIC - Plugin init
+L 18/09/2018 - 21:00:04: [AFB] Loading expansions.
+L 18/09/2018 - 21:00:04: [AFB] Registering expansion: AdminFuckery Base (SID: AFB) by Zode
+L 18/09/2018 - 21:00:04: [AFB] Registering expansion: AdminFuckery2 Player Commands (SID: AF2P) by Zode
+L 18/09/2018 - 21:00:04: [AFB] Registering expansion: AdminFuckery2 Entity Commands (SID: AF2E) by Zode
+L 18/09/2018 - 21:00:04: [AFB] Registering expansion: AdminFuckery2 Fun Commands (SID: AF2F) by Zode
+L 18/09/2018 - 21:00:04: [AFB] Expansions loaded!
+L 18/09/2018 - 21:00:04: Server cvar "mp_banana" = "1"
+L 18/09/2018 - 21:00:04: Server cvar "sv_maxspeed" = "270"
+L 18/09/2018 - 21:00:05: [AFB] Map init.
+L 18/09/2018 - 21:00:06: Started map "stadium4" (CRC "-1537396155")
+L 18/09/2018 - 21:00:06: Server cvar "sv_voiceenable" = "1"
+L 18/09/2018 - 21:00:06: Server cvar "sv_voiceenable" = "0"
+L 18/09/2018 - 21:00:06: Log file closed
+L 18/09/2018 - 21:00:06: Log file started (file "logs\2018-09-18.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 18/09/2018 - 21:00:16: "kek<1><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 18/09/2018 - 21:00:16: [AFB] User kek connected from 47.132.2.210:27005
+L 18/09/2018 - 21:00:16: "kek<1><STEAM_0:1:105068535><>" STEAM USERID validated
+L 18/09/2018 - 21:00:21: [AFB] Granted access (abcdefghijklmnopqrstuvwyxz) to STEAM_0:1:105068535
+L 18/09/2018 - 21:00:21: "kek<1><STEAM_0:1:105068535><players>" has entered the game
+L 18/09/2018 - 21:00:26: Welcome to HVRDCORE HVLF-LIFE - PREPARE TO DIE!!!
+L 18/09/2018 - 21:00:28: "kek<1><STEAM_0:1:105068535><players>" say "bogies"
+L 18/09/2018 - 21:00:32: "kek<1><STEAM_0:1:105068535><players>" say "hostiles"
+L 18/09/2018 - 21:00:34: "kek<1><STEAM_0:1:105068535><players>" say "hostiles"
+L 18/09/2018 - 21:00:39: "kek<1><STEAM_0:1:105068535><players>" say "negative"
+L 18/09/2018 - 21:00:43: "kek<1><STEAM_0:1:105068535><players>" say "roger"
+L 18/09/2018 - 21:00:45: "kek<1><STEAM_0:1:105068535><players>" say "roger"
+L 18/09/2018 - 21:00:51: "kek<1><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="100" 
+L 18/09/2018 - 21:00:52: "kek<1><STEAM_0:1:105068535><players>" say "bogies"
+L 18/09/2018 - 21:00:57: "kek<1><STEAM_0:1:105068535><players>" say "shit"
+L 18/09/2018 - 21:01:01: "kek<1><STEAM_0:1:105068535><players>" say "ass"
+L 18/09/2018 - 21:01:03: "kek<1><STEAM_0:1:105068535><players>" say "ass"
+L 18/09/2018 - 21:01:06: "kek<1><STEAM_0:1:105068535><players>" disconnected
+L 18/09/2018 - 21:01:06: DIFFICULTY: Client disconnected: Median next map HARDCOREL 18/09/2018 - 21:01:16: Log file closed
+L 18/09/2018 - 21:01:16: Log file started (file "logs\2018-09-18.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 18/09/2018 - 21:01:16: Loading map "stadium4"
+L 18/09/2018 - 21:01:16: Server cvars start
+L 18/09/2018 - 21:01:16: Server cvar "adminsfile" = "admins.txt"
+L 18/09/2018 - 21:01:16: Server cvar "allow_spectators" = "1.0"
+L 18/09/2018 - 21:01:16: Server cvar "coop" = "0"
+L 18/09/2018 - 21:01:16: Server cvar "deathmatch" = "1"
+L 18/09/2018 - 21:01:16: Server cvar "edgefriction" = "2"
+L 18/09/2018 - 21:01:16: Server cvar "gamebuild" = "6142"
+L 18/09/2018 - 21:01:16: Server cvar "gamename" = "Sven Co-op"
+L 18/09/2018 - 21:01:16: Server cvar "gameversion" = "5.17"
+L 18/09/2018 - 21:01:16: Server cvar "gameversionnum" = "5.17"
+L 18/09/2018 - 21:01:16: Server cvar "mapvotecfgfile" = "mapvote.cfg"
+L 18/09/2018 - 21:01:16: Server cvar "max_queries_sec" = "3.0"
+L 18/09/2018 - 21:01:16: Server cvar "max_queries_sec_global" = "30"
+L 18/09/2018 - 21:01:16: Server cvar "max_queries_window" = "60"
+L 18/09/2018 - 21:01:16: Server cvar "mp_banana" = "1"
+L 18/09/2018 - 21:01:16: Server cvar "mp_consistency" = "0"
+L 18/09/2018 - 21:01:16: Server cvar "mp_footsteps" = "1"
+L 18/09/2018 - 21:01:16: Server cvar "mp_logfile" = "1"
+L 18/09/2018 - 21:01:16: Server cvar "mp_nextmap_cycle" = "campaign_vote1"
+L 18/09/2018 - 21:01:16: Server cvar "mp_notimelimit" = "0.0"
+L 18/09/2018 - 21:01:16: Server cvar "pausable" = "0"
+L 18/09/2018 - 21:01:16: Server cvar "skillcfgfile" = "scripts/plugins/store/skill.cfg"
+L 18/09/2018 - 21:01:16: Server cvar "sv_accelerate" = "10"
+L 18/09/2018 - 21:01:16: Server cvar "sv_admin_icon" = "gfx/icons/admin.tga"
+L 18/09/2018 - 21:01:16: Server cvar "sv_aim" = "0"
+L 18/09/2018 - 21:01:16: Server cvar "sv_airaccelerate" = "10"
+L 18/09/2018 - 21:01:16: Server cvar "sv_allowupload" = "1"
+L 18/09/2018 - 21:01:16: Server cvar "sv_alltalk" = "0"
+L 18/09/2018 - 21:01:16: Server cvar "sv_bounce" = "1"
+L 18/09/2018 - 21:01:16: Server cvar "sv_cheats" = "2"
+L 18/09/2018 - 21:01:16: Server cvar "sv_clienttrace" = "1"
+L 18/09/2018 - 21:01:16: Server cvar "sv_contact" = ""
+L 18/09/2018 - 21:01:16: Server cvar "sv_friction" = "4"
+L 18/09/2018 - 21:01:16: Server cvar "sv_gravity" = "800"
+L 18/09/2018 - 21:01:16: Server cvar "sv_logblocks" = "0"
+L 18/09/2018 - 21:01:16: Server cvar "sv_maxrate" = "0"
+L 18/09/2018 - 21:01:16: Server cvar "sv_maxspeed" = "270"
+L 18/09/2018 - 21:01:16: Server cvar "sv_minrate" = "0"
+L 18/09/2018 - 21:01:16: Server cvar "sv_password" = ""
+L 18/09/2018 - 21:01:16: Server cvar "sv_proxies" = "1"
+L 18/09/2018 - 21:01:16: Server cvar "sv_stepsize" = "18"
+L 18/09/2018 - 21:01:16: Server cvar "sv_stopspeed" = "100"
+L 18/09/2018 - 21:01:16: Server cvar "sv_uploadmax" = "0.5"
+L 18/09/2018 - 21:01:16: Server cvar "sv_voiceenable" = "0"
+L 18/09/2018 - 21:01:16: Server cvar "sv_wateraccelerate" = "10"
+L 18/09/2018 - 21:01:16: Server cvar "sv_waterfriction" = "1"
+L 18/09/2018 - 21:01:16: Server cvars end
+L 18/09/2018 - 21:01:16: Log file closed
+L 18/09/2018 - 21:01:16: Log file started (file "logs\2018-09-18.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 18/09/2018 - 21:01:17: [AFB] Map init.
+L 18/09/2018 - 21:01:18: Started map "stadium4" (CRC "-1537396155")
+L 18/09/2018 - 21:01:29: Server shutdown
+L 18/09/2018 - 21:01:29: Log file closed
+L 18/09/2018 - 21:03:06: Log file started (file "logs\2018-09-18.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 18/09/2018 - 21:03:06: [AFB] AFBase 1.3.2 PUBLIC - Plugin init
+L 18/09/2018 - 21:03:06: [AFB] Loading expansions.
+L 18/09/2018 - 21:03:06: [AFB] Registering expansion: AdminFuckery Base (SID: AFB) by Zode
+L 18/09/2018 - 21:03:06: [AFB] Registering expansion: AdminFuckery2 Player Commands (SID: AF2P) by Zode
+L 18/09/2018 - 21:03:06: [AFB] Registering expansion: AdminFuckery2 Entity Commands (SID: AF2E) by Zode
+L 18/09/2018 - 21:03:06: [AFB] Registering expansion: AdminFuckery2 Fun Commands (SID: AF2F) by Zode
+L 18/09/2018 - 21:03:06: [AFB] Expansions loaded!
+L 18/09/2018 - 21:03:06: Server cvar "mp_banana" = "1"
+L 18/09/2018 - 21:03:06: Server cvar "sv_maxspeed" = "270"
+L 18/09/2018 - 21:03:07: [AFB] Map init.
+L 18/09/2018 - 21:03:08: Started map "stadium4" (CRC "-1537396155")
+L 18/09/2018 - 21:03:08: Server cvar "sv_voiceenable" = "1"
+L 18/09/2018 - 21:03:09: Server cvar "sv_voiceenable" = "0"
+L 18/09/2018 - 21:03:09: Log file closed
+L 18/09/2018 - 21:03:09: Log file started (file "logs\2018-09-18.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 18/09/2018 - 21:03:20: "kek<1><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 18/09/2018 - 21:03:20: [AFB] User kek connected from 47.132.2.210:27005
+L 18/09/2018 - 21:03:21: "kek<1><STEAM_0:1:105068535><>" STEAM USERID validated
+L 18/09/2018 - 21:03:25: [AFB] Granted access (abcdefghijklmnopqrstuvwyxz) to STEAM_0:1:105068535
+L 18/09/2018 - 21:03:25: "kek<1><STEAM_0:1:105068535><players>" has entered the game
+L 18/09/2018 - 21:03:29: Welcome to HVRDCORE HVLF-LIFE - PREPARE TO DIE!!!
+L 18/09/2018 - 21:03:35: "kek<1><STEAM_0:1:105068535><players>" say "ass"
+L 18/09/2018 - 21:03:39: "kek<1><STEAM_0:1:105068535><players>" say "ass!"
+L 18/09/2018 - 21:03:41: "kek<1><STEAM_0:1:105068535><players>" say "ass!"
+L 18/09/2018 - 21:03:46: "kek<1><STEAM_0:1:105068535><players>" say "shit"
+L 18/09/2018 - 21:03:51: "kek<1><STEAM_0:1:105068535><players>" say "affirmative"
+L 18/09/2018 - 21:03:53: "kek<1><STEAM_0:1:105068535><players>" say "roger"
+L 18/09/2018 - 21:03:55: "kek<1><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="100" 
+L 18/09/2018 - 21:03:59: "kek<1><STEAM_0:1:105068535><players>" say "negative"
+L 18/09/2018 - 21:04:04: "kek<1><STEAM_0:1:105068535><players>" say "bogies"
+L 18/09/2018 - 21:04:05: "kek<1><STEAM_0:1:105068535><players>" say "bogies"
+L 18/09/2018 - 21:04:10: "kek<1><STEAM_0:1:105068535><players>" say "shit"
+L 18/09/2018 - 21:04:12: "kek<1><STEAM_0:1:105068535><players>" disconnected
+L 18/09/2018 - 21:04:12: DIFFICULTY: Client disconnected: Median next map HARDCOREL 18/09/2018 - 21:04:22: Log file closed
+L 18/09/2018 - 21:04:22: Log file started (file "logs\2018-09-18.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 18/09/2018 - 21:04:22: Loading map "stadium4"
+L 18/09/2018 - 21:04:22: Server cvars start
+L 18/09/2018 - 21:04:22: Server cvar "adminsfile" = "admins.txt"
+L 18/09/2018 - 21:04:22: Server cvar "allow_spectators" = "1.0"
+L 18/09/2018 - 21:04:22: Server cvar "coop" = "0"
+L 18/09/2018 - 21:04:22: Server cvar "deathmatch" = "1"
+L 18/09/2018 - 21:04:22: Server cvar "edgefriction" = "2"
+L 18/09/2018 - 21:04:22: Server cvar "gamebuild" = "6142"
+L 18/09/2018 - 21:04:22: Server cvar "gamename" = "Sven Co-op"
+L 18/09/2018 - 21:04:22: Server cvar "gameversion" = "5.17"
+L 18/09/2018 - 21:04:22: Server cvar "gameversionnum" = "5.17"
+L 18/09/2018 - 21:04:22: Server cvar "mapvotecfgfile" = "mapvote.cfg"
+L 18/09/2018 - 21:04:22: Server cvar "max_queries_sec" = "3.0"
+L 18/09/2018 - 21:04:22: Server cvar "max_queries_sec_global" = "30"
+L 18/09/2018 - 21:04:22: Server cvar "max_queries_window" = "60"
+L 18/09/2018 - 21:04:22: Server cvar "mp_banana" = "1"
+L 18/09/2018 - 21:04:22: Server cvar "mp_consistency" = "0"
+L 18/09/2018 - 21:04:22: Server cvar "mp_footsteps" = "1"
+L 18/09/2018 - 21:04:22: Server cvar "mp_logfile" = "1"
+L 18/09/2018 - 21:04:22: Server cvar "mp_nextmap_cycle" = "campaign_vote1"
+L 18/09/2018 - 21:04:22: Server cvar "mp_notimelimit" = "0.0"
+L 18/09/2018 - 21:04:22: Server cvar "pausable" = "0"
+L 18/09/2018 - 21:04:22: Server cvar "skillcfgfile" = "scripts/plugins/store/skill.cfg"
+L 18/09/2018 - 21:04:22: Server cvar "sv_accelerate" = "10"
+L 18/09/2018 - 21:04:22: Server cvar "sv_admin_icon" = "gfx/icons/admin.tga"
+L 18/09/2018 - 21:04:22: Server cvar "sv_aim" = "0"
+L 18/09/2018 - 21:04:22: Server cvar "sv_airaccelerate" = "10"
+L 18/09/2018 - 21:04:22: Server cvar "sv_allowupload" = "1"
+L 18/09/2018 - 21:04:22: Server cvar "sv_alltalk" = "0"
+L 18/09/2018 - 21:04:22: Server cvar "sv_bounce" = "1"
+L 18/09/2018 - 21:04:22: Server cvar "sv_cheats" = "2"
+L 18/09/2018 - 21:04:22: Server cvar "sv_clienttrace" = "1"
+L 18/09/2018 - 21:04:22: Server cvar "sv_contact" = ""
+L 18/09/2018 - 21:04:22: Server cvar "sv_friction" = "4"
+L 18/09/2018 - 21:04:22: Server cvar "sv_gravity" = "800"
+L 18/09/2018 - 21:04:22: Server cvar "sv_logblocks" = "0"
+L 18/09/2018 - 21:04:22: Server cvar "sv_maxrate" = "0"
+L 18/09/2018 - 21:04:22: Server cvar "sv_maxspeed" = "270"
+L 18/09/2018 - 21:04:22: Server cvar "sv_minrate" = "0"
+L 18/09/2018 - 21:04:22: Server cvar "sv_password" = ""
+L 18/09/2018 - 21:04:22: Server cvar "sv_proxies" = "1"
+L 18/09/2018 - 21:04:22: Server cvar "sv_stepsize" = "18"
+L 18/09/2018 - 21:04:22: Server cvar "sv_stopspeed" = "100"
+L 18/09/2018 - 21:04:22: Server cvar "sv_uploadmax" = "0.5"
+L 18/09/2018 - 21:04:22: Server cvar "sv_voiceenable" = "0"
+L 18/09/2018 - 21:04:22: Server cvar "sv_wateraccelerate" = "10"
+L 18/09/2018 - 21:04:22: Server cvar "sv_waterfriction" = "1"
+L 18/09/2018 - 21:04:22: Server cvars end
+L 18/09/2018 - 21:04:22: Log file closed
+L 18/09/2018 - 21:04:22: Log file started (file "logs\2018-09-18.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 18/09/2018 - 21:04:23: [AFB] Map init.
+L 18/09/2018 - 21:04:23: Started map "stadium4" (CRC "-1537396155")
+L 18/09/2018 - 21:04:24: Server shutdown
+L 18/09/2018 - 21:04:24: Log file closed
+L 18/09/2018 - 22:03:36: Log file started (file "logs\2018-09-18.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 18/09/2018 - 22:03:36: [AFB] AFBase 1.3.2 PUBLIC - Plugin init
+L 18/09/2018 - 22:03:36: [AFB] Loading expansions.
+L 18/09/2018 - 22:03:36: [AFB] Registering expansion: AdminFuckery Base (SID: AFB) by Zode
+L 18/09/2018 - 22:03:36: [AFB] Registering expansion: AdminFuckery2 Player Commands (SID: AF2P) by Zode
+L 18/09/2018 - 22:03:36: [AFB] Registering expansion: AdminFuckery2 Entity Commands (SID: AF2E) by Zode
+L 18/09/2018 - 22:03:36: [AFB] Registering expansion: AdminFuckery2 Fun Commands (SID: AF2F) by Zode
+L 18/09/2018 - 22:03:36: [AFB] Expansions loaded!
+L 18/09/2018 - 22:03:36: Server cvar "mp_banana" = "1"
+L 18/09/2018 - 22:03:36: Server cvar "sv_maxspeed" = "270"
+L 18/09/2018 - 22:03:37: [AFB] Map init.
+L 18/09/2018 - 22:03:38: Started map "stadium4" (CRC "-1537396155")
+L 18/09/2018 - 22:03:38: Server cvar "sv_voiceenable" = "1"
+L 18/09/2018 - 22:03:39: Server cvar "sv_voiceenable" = "0"
+L 18/09/2018 - 22:03:39: Log file closed
+L 18/09/2018 - 22:03:39: Log file started (file "logs\2018-09-18.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 18/09/2018 - 22:03:45: "kek<1><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 18/09/2018 - 22:03:45: [AFB] User kek connected from 47.132.2.210:27005
+L 18/09/2018 - 22:03:45: "kek<1><STEAM_0:1:105068535><>" STEAM USERID validated
+L 18/09/2018 - 22:03:59: Welcome to HVRDCORE HVLF-LIFE - PREPARE TO DIE!!!
+L 18/09/2018 - 22:04:35: [AFB] Granted access (abcdefghijklmnopqrstuvwyxz) to STEAM_0:1:105068535
+L 18/09/2018 - 22:04:35: "kek<1><STEAM_0:1:105068535><players>" has entered the game
+L 18/09/2018 - 22:04:43: "kek<1><STEAM_0:1:105068535><players>" say "skidaddle"
+L 18/09/2018 - 22:04:58: "kek<1><STEAM_0:1:105068535><players>" say "oof"
+L 18/09/2018 - 22:05:02: "kek<1><STEAM_0:1:105068535><players>" say "ass"
+L 18/09/2018 - 22:05:03: "kek<1><STEAM_0:1:105068535><players>" say "ass"
+L 18/09/2018 - 22:05:05: "kek<1><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="100" 
+L 18/09/2018 - 22:05:06: "kek<1><STEAM_0:1:105068535><players>" say "ass!"
+L 18/09/2018 - 22:05:10: "kek<1><STEAM_0:1:105068535><players>" say "ass!"
+L 18/09/2018 - 22:05:16: "kek<1><STEAM_0:1:105068535><players>" say "shroom"
+L 18/09/2018 - 22:05:22: "kek<1><STEAM_0:1:105068535><players>" say "win"
+L 18/09/2018 - 22:05:28: "kek<1><STEAM_0:1:105068535><players>" say "retard"
+L 18/09/2018 - 22:05:34: "kek<1><STEAM_0:1:105068535><players>" say "rape"
+L 18/09/2018 - 22:05:35: "kek<1><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="100" 
+L 18/09/2018 - 22:05:39: "kek<1><STEAM_0:1:105068535><players>" say "sad2"
+L 18/09/2018 - 22:05:47: "kek<1><STEAM_0:1:105068535><players>" say "number9"
+L 18/09/2018 - 22:06:04: "kek<1><STEAM_0:1:105068535><players>" say "yes!"
+L 18/09/2018 - 22:06:05: "kek<1><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="100" 
+L 18/09/2018 - 22:06:21: "kek<1><STEAM_0:1:105068535><players>" say "zombie"
+L 18/09/2018 - 22:06:35: "kek<1><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="100" 
+L 18/09/2018 - 22:06:36: "kek<1><STEAM_0:1:105068535><players>" say "yesyes"
+L 18/09/2018 - 22:06:47: "kek<1><STEAM_0:1:105068535><players>" say "yesgo"
+L 18/09/2018 - 22:06:56: "kek<1><STEAM_0:1:105068535><players>" say "yes!"
+L 18/09/2018 - 22:07:05: "kek<1><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="100" 
+L 18/09/2018 - 22:07:05: "kek<1><STEAM_0:1:105068535><players>" say "yes"
+L 18/09/2018 - 22:07:09: "kek<1><STEAM_0:1:105068535><players>" say "yep"
+L 18/09/2018 - 22:07:11: "kek<1><STEAM_0:1:105068535><players>" say "yep"
+L 18/09/2018 - 22:07:20: "kek<1><STEAM_0:1:105068535><players>" say "yeee"
+L 18/09/2018 - 22:07:27: "kek<1><STEAM_0:1:105068535><players>" say "yee"
+L 18/09/2018 - 22:07:32: "kek<1><STEAM_0:1:105068535><players>" say "yeaaa"
+L 18/09/2018 - 22:07:35: "kek<1><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="100" 
+L 18/09/2018 - 22:07:41: "kek<1><STEAM_0:1:105068535><players>" say "wtfyoudoing"
+L 18/09/2018 - 22:07:50: "kek<1><STEAM_0:1:105068535><players>" say "wtfboom"
+L 18/09/2018 - 22:07:58: "kek<1><STEAM_0:1:105068535><players>" say "wtf!"
+L 18/09/2018 - 22:08:02: "kek<1><STEAM_0:1:105068535><players>" say "wtf"
+L 18/09/2018 - 22:08:04: "kek<1><STEAM_0:1:105068535><players>" say "wtf"
+L 18/09/2018 - 22:08:05: "kek<1><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="100" 
+L 18/09/2018 - 22:08:10: "kek<1><STEAM_0:1:105068535><players>" say "wow!"
+L 18/09/2018 - 22:08:18: "kek<1><STEAM_0:1:105068535><players>" say "wow"
+L 18/09/2018 - 22:08:22: "kek<1><STEAM_0:1:105068535><players>" say "wombo"
+L 18/09/2018 - 22:08:23: "kek<1><STEAM_0:1:105068535><players>" say "wombo"
+L 18/09/2018 - 22:08:35: "kek<1><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="100" 
+L 18/09/2018 - 22:08:36: "kek<1><STEAM_0:1:105068535><players>" say "wohoho"
+L 18/09/2018 - 22:08:40: "kek<1><STEAM_0:1:105068535><players>" say "win2"
+L 18/09/2018 - 22:08:41: "kek<1><STEAM_0:1:105068535><players>" say "win2"
+L 18/09/2018 - 22:08:58: "kek<1><STEAM_0:1:105068535><players>" say "win1"
+L 18/09/2018 - 22:09:05: "kek<1><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="100" 
+L 18/09/2018 - 22:09:06: "kek<1><STEAM_0:1:105068535><players>" say "win"
+L 18/09/2018 - 22:09:17: "kek<1><STEAM_0:1:105068535><players>" say "whathappen"
+L 18/09/2018 - 22:09:26: "kek<1><STEAM_0:1:105068535><players>" say "wazzap"
+L 18/09/2018 - 22:09:32: "kek<1><STEAM_0:1:105068535><players>" say "wassap"
+L 18/09/2018 - 22:09:35: "kek<1><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="100" 
+L 18/09/2018 - 22:09:35: "kek<1><STEAM_0:1:105068535><players>" say "wassup"
+L 18/09/2018 - 22:09:48: "kek<1><STEAM_0:1:105068535><players>" say "wall"
+L 18/09/2018 - 22:09:54: "kek<1><STEAM_0:1:105068535><players>" say "wait"
+L 18/09/2018 - 22:09:58: "kek<1><STEAM_0:1:105068535><players>" say "vow"
+L 18/09/2018 - 22:10:00: "kek<1><STEAM_0:1:105068535><players>" say "vow"
+L 18/09/2018 - 22:10:05: "kek<1><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="100" 
+L 18/09/2018 - 22:10:07: "kek<1><STEAM_0:1:105068535><players>" say "victory"
+L 18/09/2018 - 22:10:14: "kek<1><STEAM_0:1:105068535><players>" say "urgay"
+L 18/09/2018 - 22:10:23: "kek<1><STEAM_0:1:105068535><players>" say "up"
+L 18/09/2018 - 22:10:29: "kek<1><STEAM_0:1:105068535><players>" say "unusual"
+L 18/09/2018 - 22:10:35: "kek<1><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="100" 
+L 18/09/2018 - 22:11:05: "kek<1><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="100" 
+L 18/09/2018 - 22:11:30: "kek<1><STEAM_0:1:105068535><players>" say "ultra"
+L 18/09/2018 - 22:11:35: "kek<1><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="100" 
+L 18/09/2018 - 22:12:05: "kek<1><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="100" 
+L 18/09/2018 - 22:12:30: "kek<1><STEAM_0:1:105068535><players>" say "snark"
+L 18/09/2018 - 22:12:34: "kek<1><STEAM_0:1:105068535><players>" say "sob"
+L 18/09/2018 - 22:12:35: "kek<1><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="100" 
+L 18/09/2018 - 22:12:37: "kek<1><STEAM_0:1:105068535><players>" say "sob"
+L 18/09/2018 - 22:12:43: "kek<1><STEAM_0:1:105068535><players>" say "sape"
+L 18/09/2018 - 22:12:52: "kek<1><STEAM_0:1:105068535><players>" say "stahp"
+L 18/09/2018 - 22:12:57: "kek<1><STEAM_0:1:105068535><players>" say "uguu"
+L 18/09/2018 - 22:12:58: "kek<1><STEAM_0:1:105068535><players>" say "uguu"
+L 18/09/2018 - 22:13:05: "kek<1><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="100" 
+L 18/09/2018 - 22:13:06: "kek<1><STEAM_0:1:105068535><players>" say "triple"
+L 18/09/2018 - 22:13:13: "kek<1><STEAM_0:1:105068535><players>" say "tooez"
+L 18/09/2018 - 22:13:21: "kek<1><STEAM_0:1:105068535><players>" say "op4song"
+L 18/09/2018 - 22:13:35: "kek<1><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="100" 
+L 18/09/2018 - 22:13:52: "kek<1><STEAM_0:1:105068535><players>" disconnected
+L 18/09/2018 - 22:13:52: DIFFICULTY: Client disconnected: Median next map HARDCOREL 18/09/2018 - 22:14:02: Log file closed
+L 18/09/2018 - 22:14:02: Log file started (file "logs\2018-09-18.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 18/09/2018 - 22:14:02: Loading map "stadium4"
+L 18/09/2018 - 22:14:02: Server cvars start
+L 18/09/2018 - 22:14:02: Server cvar "adminsfile" = "admins.txt"
+L 18/09/2018 - 22:14:02: Server cvar "allow_spectators" = "1.0"
+L 18/09/2018 - 22:14:02: Server cvar "coop" = "0"
+L 18/09/2018 - 22:14:02: Server cvar "deathmatch" = "1"
+L 18/09/2018 - 22:14:02: Server cvar "edgefriction" = "2"
+L 18/09/2018 - 22:14:02: Server cvar "gamebuild" = "6142"
+L 18/09/2018 - 22:14:02: Server cvar "gamename" = "Sven Co-op"
+L 18/09/2018 - 22:14:02: Server cvar "gameversion" = "5.17"
+L 18/09/2018 - 22:14:02: Server cvar "gameversionnum" = "5.17"
+L 18/09/2018 - 22:14:02: Server cvar "mapvotecfgfile" = "mapvote.cfg"
+L 18/09/2018 - 22:14:02: Server cvar "max_queries_sec" = "3.0"
+L 18/09/2018 - 22:14:02: Server cvar "max_queries_sec_global" = "30"
+L 18/09/2018 - 22:14:02: Server cvar "max_queries_window" = "60"
+L 18/09/2018 - 22:14:02: Server cvar "mp_banana" = "1"
+L 18/09/2018 - 22:14:02: Server cvar "mp_consistency" = "0"
+L 18/09/2018 - 22:14:02: Server cvar "mp_footsteps" = "1"
+L 18/09/2018 - 22:14:02: Server cvar "mp_logfile" = "1"
+L 18/09/2018 - 22:14:02: Server cvar "mp_nextmap_cycle" = "campaign_vote1"
+L 18/09/2018 - 22:14:02: Server cvar "mp_notimelimit" = "0.0"
+L 18/09/2018 - 22:14:02: Server cvar "pausable" = "0"
+L 18/09/2018 - 22:14:02: Server cvar "skillcfgfile" = "scripts/plugins/store/skill.cfg"
+L 18/09/2018 - 22:14:02: Server cvar "sv_accelerate" = "10"
+L 18/09/2018 - 22:14:02: Server cvar "sv_admin_icon" = "gfx/icons/admin.tga"
+L 18/09/2018 - 22:14:02: Server cvar "sv_aim" = "0"
+L 18/09/2018 - 22:14:02: Server cvar "sv_airaccelerate" = "10"
+L 18/09/2018 - 22:14:02: Server cvar "sv_allowupload" = "1"
+L 18/09/2018 - 22:14:02: Server cvar "sv_alltalk" = "0"
+L 18/09/2018 - 22:14:02: Server cvar "sv_bounce" = "1"
+L 18/09/2018 - 22:14:02: Server cvar "sv_cheats" = "2"
+L 18/09/2018 - 22:14:02: Server cvar "sv_clienttrace" = "1"
+L 18/09/2018 - 22:14:02: Server cvar "sv_contact" = ""
+L 18/09/2018 - 22:14:02: Server cvar "sv_friction" = "4"
+L 18/09/2018 - 22:14:02: Server cvar "sv_gravity" = "800"
+L 18/09/2018 - 22:14:02: Server cvar "sv_logblocks" = "0"
+L 18/09/2018 - 22:14:02: Server cvar "sv_maxrate" = "0"
+L 18/09/2018 - 22:14:02: Server cvar "sv_maxspeed" = "270"
+L 18/09/2018 - 22:14:02: Server cvar "sv_minrate" = "0"
+L 18/09/2018 - 22:14:02: Server cvar "sv_password" = ""
+L 18/09/2018 - 22:14:02: Server cvar "sv_proxies" = "1"
+L 18/09/2018 - 22:14:02: Server cvar "sv_stepsize" = "18"
+L 18/09/2018 - 22:14:02: Server cvar "sv_stopspeed" = "100"
+L 18/09/2018 - 22:14:02: Server cvar "sv_uploadmax" = "0.5"
+L 18/09/2018 - 22:14:02: Server cvar "sv_voiceenable" = "0"
+L 18/09/2018 - 22:14:02: Server cvar "sv_wateraccelerate" = "10"
+L 18/09/2018 - 22:14:02: Server cvar "sv_waterfriction" = "1"
+L 18/09/2018 - 22:14:02: Server cvars end
+L 18/09/2018 - 22:14:02: Log file closed
+L 18/09/2018 - 22:14:02: Log file started (file "logs\2018-09-18.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 18/09/2018 - 22:14:03: [AFB] Map init.
+L 18/09/2018 - 22:14:03: Started map "stadium4" (CRC "-1537396155")
+L 18/09/2018 - 22:14:22: Welcome to HVRDCORE HVLF-LIFE - PREPARE TO DIE!!!
+L 18/09/2018 - 22:14:33: Server shutdown
+L 18/09/2018 - 22:14:33: Log file closed

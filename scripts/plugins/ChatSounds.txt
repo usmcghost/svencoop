@@ -12,72 +12,116 @@ hostiles hgrunt/hostiles!.wav
 negative hgrunt/negative.wav
 roger hgrunt/roger.wav
 yes hgrunt/yessir.wav
-
-yay cards/yay.ogg
-finish ambience/goal_1.wav
-horror ambience/the_horror1.wav
-fool scientist/c3a2_sci_fool.wav
-freeman scientist/c3a2_sci_fool.wav
-walter scientist/of4a1_sc01.wav
-fall scientist/scream1.wav
-crab scientist/scream02.wav
-headcrab scientist/scream08.wav
-no scientist/scream10.wav
-headcrabs scientist/seeheadcrab.wav
-yesgo scientist/yesletsgo.wav
-scream scientist/c1a0_sci_catscream.wav
-rotors scientist/c1a0_sci_dis1b.wav
-good2 scientist/c1a0_sci_dis1d.wav
-doomed scientist/c1a3_sci_silo2a.wav
-0 vox/zero.wav
-1 vox/one.wav
-2 vox/two.wav
-3 vox/three.wav
-4 vox/four.wav
-5 vox/five.wav
-nice vox/nice.wav
-hound houndeye/he_attack3.wav
-houndeye houndeye/he_attack1.wav
-zombie zombie/zo_attack1.wav
-tentacle tentacle/te_death2.wav
-snark squeek/sqk_deploy1.wav
-choose gman/gman_choose2.wav
-noreg gman/gman_noreg.wav
-damn otis/imdead.wav
-mmm otis/mmmm.wav
-ded otis/another.wav
-yes scientist/yees.wav
-medic tfc/speech/saveme2.wav
-rip otis/of1a5_ot01.wav
-haha svencoop2/weirdlaugh1.wav
-lol svencoop2/weirdlaugh2.wav
-stahp scientist/sci_pain3.wav
-run hunger/thambs/runmanrun.wav
+shit hgrunt/shit.wav
 ass! hgrunt/ass!.wav
-ass vox/ass.wav
+
+// VOX KEKS
+
+nice vox/nice.wav
 adios vox/adios.wav
-cp vox/checkpoint.wav
-down vox/down.wav
-door vox/door.wav
 prestige vox/endgame.wav
 failure vox/failure.wav
 fast vox/fast.wav
 goodbye vox/goodbye.wav
 ok vox/ok.wav
-up vox/up.wav
+
+
+// SCIENTIST KEKS
+
+ahh scientist/scream15.wav
+no scientist/scream10.wav
+fool scientist/c3a2_sci_fool.wav
+headcrab scientist/seeheadcrab.wav
+yesgo scientist/yesletsgo.wav
+scream scientist/c1a0_sci_catscream.wav
+rotors scientist/c1a0_sci_dis1c.wav
+good scientist/c1a0_sci_dis1d.wav
+emitters scientist/c1a0_sci_dis5a
+wtfyoudoing scientist/c1a0_sci_dis13a.wav
+gtfo scientist/c1a0_sci_dis14a.wav
+notshuttingdown scientist/c1a0_sci_dis15a.wav
+stahp scientist/sci_pain3.wav
+yes scientist/yees.wav
+
+// HEV KEKS
+
+morphine fvox/morphine_shot.wav
+critical fvox/near_death.wav
+seekmedic fvox/seek_medic.wav 
+fracture fvox/minor_fracture.wav
+HEV fvox/hev_shutdown.wav
+
+// OTIS KEKS
+
+candy otis/candy.wav
+damn otis/imdead.wav
+mmm otis/mmmm.wav
+yep otis/youbet.wav
+rip otis/of1a5_ot01.wav
+
+// NICKWADE
+cashmeoutside nickwade/cashmeoutside.ogg
+failed nickwade/cod_missionfailed.ogg
+footlettuce nickwade/footlettuce.ogg
+fortnitedeath nickwade/fortnitedeath.ogg
+johncena nickwade/johncena.ogg
+oof nickwade/oof.ogg
+skidaddle nickwade/skidaddle.ogg
+precious nickwade/yousoprecious.ogg
+blyat nickwade/blyat.ogg
+cyka nickwade/cyka.ogg
+flickadawrist nickwade/flickadawrist.ogg
+fusrodah nickwade/fusrodah.ogg
+gay nickwade/gay.ogg
+gotcha nickwade/gotcha.ogg
+justdoit nickwade/justdoit.ogg
+leedle nickwade/leedle.ogg
+faggot nickwade/megafaggot.ogg
+milk nickwade/milk.ogg
+mlgsad nickwade/mlgsad.ogg
+mom nickwade/momgetthecamera.ogg
+nein nickwade/nein.ogg
+nigga nickwade/nigga.ogg
+ohyeahmrkrabs nickwade/ohyeahmrkrabs.ogg
+shutupcyka nickwade/shutupcyka.ogg
+slip nickwade/slip.ogg
+titanic nickwade/titanic.ogg
+spaget nickwade/touchamyspaget.ogg
+profanity nickwade/watchyourprofanity.ogg
+supersuit nickwade/wheresmysupersuit.ogg
+startup nickwade/xpstartupsound.ogg
+shutdown nickwade/xpshutdownsound.ogg
+youdonethis nickwade/youdonethis.ogg
+fine nickwade/yourefine.ogg
+jump nickwade/jump.ogg
+
+congrats ambience/goal_1.wav
+hound houndeye/he_attack3.wav
+houndeye houndeye/he_alert1.wav
+tentacle tentacle/te_sing1.wav
+snark squeek/sqk_hunt3.wav
+choose gman/gman_choose2.wav
+
+
+medic tfc/speech/saveme2.wav
+
+haha svencoop2/weirdlaugh1.wav
+lol svencoop2/weirdlaugh2.wav
+run hunger/thambs/runmanrun.wav
+
+
+
+
 cover speech/grenade1.wav
 321 puchi/spportal/threetwoone.wav
 takecover misc/bbcover.wav
 reminder misc/broken_tram3.wav
 party misc/party2.wav
-roger misc/roger2.wav
 lmao incoming/df.wav
 retry holo/tr_holo_retry.wav
-shit hgrunt/shit.wav
+
 otherwise gman/gman_otherwise.wav
-morphine fvox/morphine_shot.wav
-adrenaline fvox/adrenaline_shot.wav
-critical fvox/near_death.wav
+
 lift ambience/liftmuzak.wav
 awoo awoo.ogg
 sad2 gta2/faces.ogg
@@ -121,23 +165,18 @@ clear voice_commands/tucumanos/clear.wav
 position voice_commands/tucumanos/com_getinpos.wav
 go voice_commands/tucumanos/com_go.wav
 enemy voice_commands/tucumanos/ct_enemys.wav
-win voice_commands/tucumanos/ctwin.wav
 dead voice_commands/tucumanos/enemydown.wav
 fallback voice_commands/tucumanos/fallback.wav
 grenade voice_commands/tucumanos/fire.wav
 assistance voice_commands/tucumanos/fireassis.wav
 follow voice_commands/tucumanos/followme.wav
 gaben voice_commands/tucumanos/gaben.ogg
-negative voice_commands/tucumanos/negative.wav
 nono voice_commands/tucumanos/negative03.wav
 wait voice_commands/tucumanos/position.wav
 regroup voice_commands/tucumanos/regroup.wav
 sad voice_commands/tucumanos/rip_n01.mp3
 win2 sonic_the_hedgehog/sonic_ending.wav
 boss sonic_the_hedgehog/sonic_final_boss.wav
-good sectore/goodwork.wav
-wassup sectore/supb.wav
-op4song sectore/xenop4music_once.mp3
 akbar sanksound/Efectos/allahu.wav
 ahhhh sanksound/Efectos/argh.wav
 denunciado sanksound/Efectos/denunciado.wav
@@ -151,14 +190,12 @@ pwnd sanksound/Efectos/pwnd.wav
 showup sanksound/Efectos/showup.wav
 teemo sanksound/Efectos/teemo.wav
 tooez sanksound/Efectos/tooeasy.wav
-uguu sanksound/Efectos/uguu.wav
 sad1 sanksound/Efectos/visteado.wav
 cool sanksound/Efectos/wascool.wav
 honk sanksound/Efectos/wiki2.wav
 win1 sanksound/Efectos/win.wav
 wohoho sanksound/Efectos/wojojo.wav
 wombo sanksound/Efectos/wombocombo.wav
-wow! sanksound/Efectos/wow_.wav
 wtf sanksound/Efectos/wtf.wav
 ha sanksound/Efectos/wujaja.wav
 nuts sanksound/Efectos/yijaja.wav
@@ -224,12 +261,9 @@ grove sank/thug_n01.mp3
 triple sank/triple_n01.mp3
 victory sank/victory2.mp3
 sick sank/wickedsick.mp3
-vow sank/wow_n01.mp3
-wtfboom sank/wtfboom_n01.mp3
 yeaaa sank/yeaaa.mp3
 yee sank/yee_n01.mp3
 yeee sank/yee2_n01.mp3
-yes! sank/yess_n01.mp3
 2pac sandwich/2pac.ogg
 aaaa sandwich/aaaa.ogg
 argh sandwich/aaaah.wav
@@ -252,8 +286,6 @@ thriller sandwich/thriller.ogg
 toasty sandwich/toasty.ogg
 unusual sandwich/tomjones.ogg
 wall sandwich/trumpwall.ogg
-urgay sandwich/urgay.ogg
-wazzap sandwich/wazza.ogg
 eastwood sandwich/whistle.ogg
 aesthetic misc/motv/aesthetic.mp3
 curb misc/motv/enthusiasm.mp3
@@ -273,7 +305,6 @@ ezpz mikutron/chatsounds/ez.wav
 gta mikutron/chatsounds/GTA.wav
 niconico mikutron/chatsounds/nico_nico_nii.wav
 riders mikutron/chatsounds/riders.wav
-whathappen mikutron/chatsounds/whathappend.wav
 ambience keenzone/x2s_1.wav
 nonono keen/apunono.wav
 sor keen/cg_rdmtrain01.wav
@@ -292,7 +323,6 @@ jiji chatsounds/jiji.mp3
 nononono chatsounds/jojo_nono.mp3
 ohmygod chatsounds/jojo_ohmygod.mp3
 ohhno chatsounds/jojo_ohno.mp3
-yesyes chatsounds/jojo_yesyes.mp3
 kombat kombat.ogg
 gmi2 chatsounds/gmi2.ogg
 daway daway.ogg
@@ -304,7 +334,6 @@ nani nani.wav
 omaewa omaewa.wav
 run1 run.wav
 sad4 sad4.wav
-sape sape.wav
 sueltame sueltame.wav
 tengomiedo tengomiedo.wav
 mwahaha freezer.ogg

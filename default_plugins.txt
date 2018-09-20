@@ -1,26 +1,39 @@
 "plugins"
 {
-	 "plugin"
+	"plugin"
 	{
-		     "name" "AntiRush"
-	     	 "script" "AntiRush"
-		     "concommandns" "rush"
-	}
-
-     "plugin"
-    {
              "name" "SimpleGlow"
              "script" "Zode/SimpleGlow"
              "concommandns" "sglow"
-    }
-     "plugin"
-    {
+	}
+   	 "plugin"
+	{
              "name" "ChatSounds"
              "script" "ChatSounds"
-    }
-	 "plugin"
-	{
-			 "name" "Vox"
-			 "script" "Vox"
 	}
+    "plugin"
+    {
+        "name" "InfiniteFlashlight"
+        "script" "InfiniteFlashlight"
+        "concommandns" "ifl"
+    }
+    "plugin"
+    {
+        "name" "AmmoExtRegene"
+        "script" "AmmoExtRegene"
+        "concommandns" "AmmoExt"
+    }
+    "plugin"
+    {
+        "name" "PlayerRegen"
+        "script" "PlayerRegen"
+        "concommandns" "pregen"
+    }
+"plugin"
+{
+	"name" "AntiFlood"
+	"script" "Zode/AntiFlood"
+	"concommandns" "antiflood"
+}
+
 }

@@ -335,11 +335,14 @@ sank/yeaaa.mp3
 sank/yee2_n01.mp3
 otis/youbet.wav
 scientist/yees.wav
+tfc/items/inv3.wav
+ambience/flameburst1.wav
+zode/thunder.ogg
+weapons/cbar_hitbod1.wav
 items/smallmedkit1.wav
 items/airtank1.wav
 weapons/cbar_hit1.wav
 weapons/cbar_hit2.wav
-weapons/cbar_hitbod1.wav
 weapons/cbar_hitbod2.wav
 weapons/cbar_hitbod3.wav
 weapons/cbar_miss1.wav

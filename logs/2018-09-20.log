@@ -214,3 +214,720 @@ L 20/09/2018 - 11:56:52: "kek<2><STEAM_0:1:105068535><players>" has entered the 
 L 20/09/2018 - 11:57:09: "kek<2><STEAM_0:1:105068535><players>" disconnected
 L 20/09/2018 - 11:58:12: Server shutdown
 L 20/09/2018 - 11:58:12: Log file closed
+L 20/09/2018 - 12:03:14: Log file started (file "logs\2018-09-20.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 20/09/2018 - 12:03:15: Started map "eshq27" (CRC "-320390915")
+L 20/09/2018 - 12:03:15: Server cvar "sv_voiceenable" = "1"
+L 20/09/2018 - 12:03:15: Server cvar "sv_voiceenable" = "0"
+L 20/09/2018 - 12:03:15: Log file closed
+L 20/09/2018 - 12:03:15: Log file started (file "logs\2018-09-20.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 20/09/2018 - 12:03:24: "kek<1><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 20/09/2018 - 12:03:24: "kek<1><STEAM_0:1:105068535><>" STEAM USERID validated
+L 20/09/2018 - 12:03:26: "kek<2><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 20/09/2018 - 12:03:27: "kek<2><STEAM_0:1:105068535><>" STEAM USERID validated
+L 20/09/2018 - 12:03:30: "kek<2><STEAM_0:1:105068535><players>" has entered the game
+L 20/09/2018 - 12:03:46: "kek<2><STEAM_0:1:105068535><players>" disconnected
+L 20/09/2018 - 12:04:21: Server shutdown
+L 20/09/2018 - 12:04:21: Log file closed
+L 20/09/2018 - 12:14:48: Log file started (file "logs\2018-09-20.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 20/09/2018 - 12:14:48: Server cvar "mp_banana" = "1"
+L 20/09/2018 - 12:14:48: Server cvar "sv_gravity" = "750"
+L 20/09/2018 - 12:14:48: Server cvar "sv_maxspeed" = "280"
+L 20/09/2018 - 12:14:49: Started map "eshq27" (CRC "-320390915")
+L 20/09/2018 - 12:14:49: Server cvar "sv_voiceenable" = "1"
+L 20/09/2018 - 12:14:50: Server cvar "sv_voiceenable" = "0"
+L 20/09/2018 - 12:14:50: Log file closed
+L 20/09/2018 - 12:14:50: Log file started (file "logs\2018-09-20.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 20/09/2018 - 12:15:00: "kek<1><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 20/09/2018 - 12:15:01: "kek<1><STEAM_0:1:105068535><>" STEAM USERID validated
+L 20/09/2018 - 12:15:02: "kek<2><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 20/09/2018 - 12:15:03: "kek<2><STEAM_0:1:105068535><>" STEAM USERID validated
+L 20/09/2018 - 12:15:06: "kek<2><STEAM_0:1:105068535><players>" has entered the game
+L 20/09/2018 - 12:15:23: "kek<2><STEAM_0:1:105068535><players>" disconnected
+L 20/09/2018 - 12:15:29: Server shutdown
+L 20/09/2018 - 12:15:29: Log file closed
+L 20/09/2018 - 12:25:09: Log file started (file "logs\2018-09-20.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 20/09/2018 - 12:25:09: Server cvar "mp_banana" = "1"
+L 20/09/2018 - 12:25:09: Server cvar "sv_gravity" = "750"
+L 20/09/2018 - 12:25:09: Server cvar "sv_maxspeed" = "280"
+L 20/09/2018 - 12:25:10: Started map "eshq27" (CRC "-320390915")
+L 20/09/2018 - 12:25:10: Server cvar "sv_voiceenable" = "1"
+L 20/09/2018 - 12:25:10: Server cvar "sv_voiceenable" = "0"
+L 20/09/2018 - 12:25:10: Log file closed
+L 20/09/2018 - 12:25:10: Log file started (file "logs\2018-09-20.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 20/09/2018 - 12:25:28: "kek<1><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 20/09/2018 - 12:25:28: "kek<1><STEAM_0:1:105068535><>" STEAM USERID validated
+L 20/09/2018 - 12:25:30: "kek<2><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 20/09/2018 - 12:25:30: "kek<2><STEAM_0:1:105068535><>" STEAM USERID validated
+L 20/09/2018 - 12:25:33: "kek<2><STEAM_0:1:105068535><players>" has entered the game
+L 20/09/2018 - 12:25:42: "kek<2><STEAM_0:1:105068535><players>" say "diff 100"
+L 20/09/2018 - 12:26:03: "kek<2><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="100" 
+L 20/09/2018 - 12:26:33: "kek<2><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="100" 
+L 20/09/2018 - 12:26:48: "kek<2><STEAM_0:1:105068535><players>" disconnected
+L 20/09/2018 - 12:26:58: Log file closed
+L 20/09/2018 - 12:26:58: Log file started (file "logs\2018-09-20.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 20/09/2018 - 12:26:58: Loading map "eshq27"
+L 20/09/2018 - 12:26:58: Server cvars start
+L 20/09/2018 - 12:26:58: Server cvar "adminsfile" = "admins.txt"
+L 20/09/2018 - 12:26:58: Server cvar "allow_spectators" = "1.0"
+L 20/09/2018 - 12:26:58: Server cvar "coop" = "0"
+L 20/09/2018 - 12:26:58: Server cvar "deathmatch" = "1"
+L 20/09/2018 - 12:26:58: Server cvar "edgefriction" = "2"
+L 20/09/2018 - 12:26:58: Server cvar "gamebuild" = "6142"
+L 20/09/2018 - 12:26:58: Server cvar "gamename" = "Sven Co-op"
+L 20/09/2018 - 12:26:58: Server cvar "gameversion" = "5.17"
+L 20/09/2018 - 12:26:58: Server cvar "gameversionnum" = "5.17"
+L 20/09/2018 - 12:26:58: Server cvar "mapvotecfgfile" = "mapvote.cfg"
+L 20/09/2018 - 12:26:58: Server cvar "max_queries_sec" = "3.0"
+L 20/09/2018 - 12:26:58: Server cvar "max_queries_sec_global" = "30"
+L 20/09/2018 - 12:26:58: Server cvar "max_queries_window" = "60"
+L 20/09/2018 - 12:26:58: Server cvar "mp_banana" = "1"
+L 20/09/2018 - 12:26:58: Server cvar "mp_consistency" = "0"
+L 20/09/2018 - 12:26:58: Server cvar "mp_footsteps" = "1"
+L 20/09/2018 - 12:26:58: Server cvar "mp_logfile" = "1"
+L 20/09/2018 - 12:26:58: Server cvar "mp_nextmap_cycle" = "campaign_vote1"
+L 20/09/2018 - 12:26:58: Server cvar "mp_notimelimit" = "0.0"
+L 20/09/2018 - 12:26:58: Server cvar "pausable" = "0"
+L 20/09/2018 - 12:26:58: Server cvar "skillcfgfile" = "scripts/plugins/store/skill.cfg"
+L 20/09/2018 - 12:26:58: Server cvar "sv_accelerate" = "10"
+L 20/09/2018 - 12:26:58: Server cvar "sv_admin_icon" = "gfx/icons/admin.tga"
+L 20/09/2018 - 12:26:58: Server cvar "sv_aim" = "0"
+L 20/09/2018 - 12:26:58: Server cvar "sv_airaccelerate" = "10"
+L 20/09/2018 - 12:26:58: Server cvar "sv_allowupload" = "1"
+L 20/09/2018 - 12:26:58: Server cvar "sv_alltalk" = "0"
+L 20/09/2018 - 12:26:58: Server cvar "sv_bounce" = "1"
+L 20/09/2018 - 12:26:58: Server cvar "sv_cheats" = "2"
+L 20/09/2018 - 12:26:58: Server cvar "sv_clienttrace" = "1"
+L 20/09/2018 - 12:26:58: Server cvar "sv_contact" = ""
+L 20/09/2018 - 12:26:58: Server cvar "sv_friction" = "4"
+L 20/09/2018 - 12:26:58: Server cvar "sv_gravity" = "750"
+L 20/09/2018 - 12:26:58: Server cvar "sv_logblocks" = "0"
+L 20/09/2018 - 12:26:58: Server cvar "sv_maxrate" = "0"
+L 20/09/2018 - 12:26:58: Server cvar "sv_maxspeed" = "280"
+L 20/09/2018 - 12:26:58: Server cvar "sv_minrate" = "0"
+L 20/09/2018 - 12:26:58: Server cvar "sv_password" = ""
+L 20/09/2018 - 12:26:58: Server cvar "sv_proxies" = "1"
+L 20/09/2018 - 12:26:58: Server cvar "sv_stepsize" = "18"
+L 20/09/2018 - 12:26:58: Server cvar "sv_stopspeed" = "100"
+L 20/09/2018 - 12:26:58: Server cvar "sv_uploadmax" = "0.5"
+L 20/09/2018 - 12:26:58: Server cvar "sv_voiceenable" = "0"
+L 20/09/2018 - 12:26:58: Server cvar "sv_wateraccelerate" = "10"
+L 20/09/2018 - 12:26:58: Server cvar "sv_waterfriction" = "1"
+L 20/09/2018 - 12:26:58: Server cvars end
+L 20/09/2018 - 12:26:58: Server cvar "sv_gravity" = "800"
+L 20/09/2018 - 12:26:58: Log file closed
+L 20/09/2018 - 12:26:58: Log file started (file "logs\2018-09-20.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 20/09/2018 - 12:26:58: Server cvar "sv_gravity" = "750"
+L 20/09/2018 - 12:26:58: Started map "eshq27" (CRC "-320390915")
+L 20/09/2018 - 12:30:18: Server shutdown
+L 20/09/2018 - 12:30:18: Log file closed
+L 20/09/2018 - 12:36:00: Log file started (file "logs\2018-09-20.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 20/09/2018 - 12:36:00: Server cvar "mp_banana" = "1"
+L 20/09/2018 - 12:36:00: Server cvar "sv_gravity" = "750"
+L 20/09/2018 - 12:36:00: Server cvar "sv_maxspeed" = "280"
+L 20/09/2018 - 12:36:01: Started map "osprey" (CRC "1324875629")
+L 20/09/2018 - 12:36:01: Server cvar "sv_voiceenable" = "1"
+L 20/09/2018 - 12:36:01: Server cvar "sv_voiceenable" = "0"
+L 20/09/2018 - 12:36:01: Log file closed
+L 20/09/2018 - 12:36:01: Log file started (file "logs\2018-09-20.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 20/09/2018 - 12:36:12: "kek<1><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 20/09/2018 - 12:36:12: "kek<1><STEAM_0:1:105068535><>" STEAM USERID validated
+L 20/09/2018 - 12:36:14: "kek<2><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 20/09/2018 - 12:36:14: "kek<2><STEAM_0:1:105068535><>" STEAM USERID validated
+L 20/09/2018 - 12:36:18: "kek<2><STEAM_0:1:105068535><players>" has entered the game
+L 20/09/2018 - 12:36:48: "kek<2><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="10" 
+L 20/09/2018 - 12:37:18: "kek<2><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="10" 
+L 20/09/2018 - 12:37:48: "kek<2><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="10" 
+L 20/09/2018 - 12:38:18: "kek<2><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="10" 
+L 20/09/2018 - 12:38:46: "kek<2><STEAM_0:1:105068535><players>" disconnected
+L 20/09/2018 - 12:38:51: Server shutdown
+L 20/09/2018 - 12:38:51: Log file closed
+L 20/09/2018 - 13:05:33: Log file started (file "logs\2018-09-20.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 20/09/2018 - 13:05:33: Server cvar "sv_maxrate" = "100000"
+L 20/09/2018 - 13:05:33: Server cvar "sv_aim" = "0"
+L 20/09/2018 - 13:05:33: Server cvar "sv_voiceenable" = "0"
+L 20/09/2018 - 13:05:33: Server cvar "sv_cheats" = "2"
+L 20/09/2018 - 13:05:33: Server cvar "mp_banana" = "1"
+L 20/09/2018 - 13:05:33: Server cvar "sv_gravity" = "750"
+L 20/09/2018 - 13:05:33: Server cvar "sv_maxspeed" = "280"
+L 20/09/2018 - 13:05:34: Started map "osprey" (CRC "1324875629")
+L 20/09/2018 - 13:05:34: Server cvar "sv_voiceenable" = "1"
+L 20/09/2018 - 13:05:34: Log file closed
+L 20/09/2018 - 13:05:34: Log file started (file "logs\2018-09-20.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 20/09/2018 - 13:05:34: Server cvar "sv_voiceenable" = "0"
+L 20/09/2018 - 13:05:42: "kek<1><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 20/09/2018 - 13:05:43: "kek<1><STEAM_0:1:105068535><>" STEAM USERID validated
+L 20/09/2018 - 13:05:44: "kek<2><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 20/09/2018 - 13:05:44: "kek<2><STEAM_0:1:105068535><>" STEAM USERID validated
+L 20/09/2018 - 13:05:48: "kek<2><STEAM_0:1:105068535><players>" has entered the game
+L 20/09/2018 - 13:06:18: "kek<2><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="50" 
+L 20/09/2018 - 13:06:48: "kek<2><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="49" 
+L 20/09/2018 - 13:07:05: "kek<2><STEAM_0:1:105068535><players>" disconnected
+L 20/09/2018 - 13:07:10: Server shutdown
+L 20/09/2018 - 13:07:10: Log file closed
+L 20/09/2018 - 13:08:09: Log file started (file "logs\2018-09-20.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 20/09/2018 - 13:08:09: Server cvar "sv_maxrate" = "100000"
+L 20/09/2018 - 13:08:09: Server cvar "sv_aim" = "0"
+L 20/09/2018 - 13:08:09: Server cvar "sv_voiceenable" = "0"
+L 20/09/2018 - 13:08:09: Server cvar "sv_cheats" = "2"
+L 20/09/2018 - 13:08:09: Server cvar "mp_banana" = "1"
+L 20/09/2018 - 13:08:09: Server cvar "sv_gravity" = "750"
+L 20/09/2018 - 13:08:09: Server cvar "sv_maxspeed" = "280"
+L 20/09/2018 - 13:08:10: Started map "osprey" (CRC "1324875629")
+L 20/09/2018 - 13:08:10: Server cvar "sv_voiceenable" = "1"
+L 20/09/2018 - 13:08:11: Log file closed
+L 20/09/2018 - 13:08:11: Log file started (file "logs\2018-09-20.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 20/09/2018 - 13:08:11: Server cvar "sv_voiceenable" = "0"
+L 20/09/2018 - 13:08:22: "kek<1><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 20/09/2018 - 13:08:22: "kek<1><STEAM_0:1:105068535><>" STEAM USERID validated
+L 20/09/2018 - 13:08:24: "kek<2><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 20/09/2018 - 13:08:24: "kek<2><STEAM_0:1:105068535><>" STEAM USERID validated
+L 20/09/2018 - 13:08:27: "kek<2><STEAM_0:1:105068535><players>" has entered the game
+L 20/09/2018 - 13:08:57: "kek<2><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="1" 
+L 20/09/2018 - 13:09:13: "kek<2><STEAM_0:1:105068535><players>" disconnected
+L 20/09/2018 - 13:09:23: Log file closed
+L 20/09/2018 - 13:09:23: Log file started (file "logs\2018-09-20.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 20/09/2018 - 13:09:23: Loading map "osprey"
+L 20/09/2018 - 13:09:23: Server cvars start
+L 20/09/2018 - 13:09:23: Server cvar "adminsfile" = "admins.txt"
+L 20/09/2018 - 13:09:23: Server cvar "allow_spectators" = "1.0"
+L 20/09/2018 - 13:09:23: Server cvar "coop" = "0"
+L 20/09/2018 - 13:09:23: Server cvar "deathmatch" = "1"
+L 20/09/2018 - 13:09:23: Server cvar "edgefriction" = "2"
+L 20/09/2018 - 13:09:23: Server cvar "gamebuild" = "6142"
+L 20/09/2018 - 13:09:23: Server cvar "gamename" = "Sven Co-op"
+L 20/09/2018 - 13:09:23: Server cvar "gameversion" = "5.17"
+L 20/09/2018 - 13:09:23: Server cvar "gameversionnum" = "5.17"
+L 20/09/2018 - 13:09:23: Server cvar "mapvotecfgfile" = "mapvote.cfg"
+L 20/09/2018 - 13:09:23: Server cvar "max_queries_sec" = "3.0"
+L 20/09/2018 - 13:09:23: Server cvar "max_queries_sec_global" = "30"
+L 20/09/2018 - 13:09:23: Server cvar "max_queries_window" = "60"
+L 20/09/2018 - 13:09:23: Server cvar "mp_banana" = "1"
+L 20/09/2018 - 13:09:23: Server cvar "mp_consistency" = "0"
+L 20/09/2018 - 13:09:23: Server cvar "mp_footsteps" = "1"
+L 20/09/2018 - 13:09:23: Server cvar "mp_logfile" = "1"
+L 20/09/2018 - 13:09:23: Server cvar "mp_nextmap_cycle" = "campaign_vote1"
+L 20/09/2018 - 13:09:23: Server cvar "mp_notimelimit" = "0.0"
+L 20/09/2018 - 13:09:23: Server cvar "pausable" = "0"
+L 20/09/2018 - 13:09:23: Server cvar "skillcfgfile" = "skill.cfg"
+L 20/09/2018 - 13:09:23: Server cvar "sv_accelerate" = "10"
+L 20/09/2018 - 13:09:23: Server cvar "sv_admin_icon" = "gfx/icons/admin.tga"
+L 20/09/2018 - 13:09:23: Server cvar "sv_aim" = "0"
+L 20/09/2018 - 13:09:23: Server cvar "sv_airaccelerate" = "10"
+L 20/09/2018 - 13:09:23: Server cvar "sv_allowupload" = "1"
+L 20/09/2018 - 13:09:23: Server cvar "sv_alltalk" = "0"
+L 20/09/2018 - 13:09:23: Server cvar "sv_bounce" = "1"
+L 20/09/2018 - 13:09:23: Server cvar "sv_cheats" = "2"
+L 20/09/2018 - 13:09:23: Server cvar "sv_clienttrace" = "1"
+L 20/09/2018 - 13:09:23: Server cvar "sv_contact" = ""
+L 20/09/2018 - 13:09:23: Server cvar "sv_friction" = "4"
+L 20/09/2018 - 13:09:23: Server cvar "sv_gravity" = "750"
+L 20/09/2018 - 13:09:23: Server cvar "sv_logblocks" = "0"
+L 20/09/2018 - 13:09:23: Server cvar "sv_maxrate" = "100000"
+L 20/09/2018 - 13:09:23: Server cvar "sv_maxspeed" = "280"
+L 20/09/2018 - 13:09:23: Server cvar "sv_minrate" = "0"
+L 20/09/2018 - 13:09:23: Server cvar "sv_password" = ""
+L 20/09/2018 - 13:09:23: Server cvar "sv_proxies" = "1"
+L 20/09/2018 - 13:09:23: Server cvar "sv_stepsize" = "18"
+L 20/09/2018 - 13:09:23: Server cvar "sv_stopspeed" = "100"
+L 20/09/2018 - 13:09:23: Server cvar "sv_uploadmax" = "0.5"
+L 20/09/2018 - 13:09:23: Server cvar "sv_voiceenable" = "0"
+L 20/09/2018 - 13:09:23: Server cvar "sv_wateraccelerate" = "10"
+L 20/09/2018 - 13:09:23: Server cvar "sv_waterfriction" = "1"
+L 20/09/2018 - 13:09:23: Server cvars end
+L 20/09/2018 - 13:09:23: Server cvar "sv_gravity" = "800"
+L 20/09/2018 - 13:09:23: Log file closed
+L 20/09/2018 - 13:09:23: Log file started (file "logs\2018-09-20.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 20/09/2018 - 13:09:23: Server cvar "sv_gravity" = "750"
+L 20/09/2018 - 13:09:24: Started map "osprey" (CRC "1324875629")
+L 20/09/2018 - 13:11:07: "kek<3><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 20/09/2018 - 13:11:08: "kek<3><STEAM_0:1:105068535><>" STEAM USERID validated
+L 20/09/2018 - 13:11:09: "kek<4><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 20/09/2018 - 13:11:10: "kek<4><STEAM_0:1:105068535><>" STEAM USERID validated
+L 20/09/2018 - 13:11:13: "kek<4><STEAM_0:1:105068535><players>" has entered the game
+L 20/09/2018 - 13:11:42: "kek<4><STEAM_0:1:105068535><players>" disconnected
+L 20/09/2018 - 13:12:03: Log file closed
+L 20/09/2018 - 13:12:03: Log file started (file "logs\2018-09-20.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 20/09/2018 - 13:12:03: Loading map "osprey"
+L 20/09/2018 - 13:12:03: Server cvars start
+L 20/09/2018 - 13:12:03: Server cvar "adminsfile" = "admins.txt"
+L 20/09/2018 - 13:12:03: Server cvar "allow_spectators" = "1.0"
+L 20/09/2018 - 13:12:03: Server cvar "coop" = "0"
+L 20/09/2018 - 13:12:03: Server cvar "deathmatch" = "1"
+L 20/09/2018 - 13:12:03: Server cvar "edgefriction" = "2"
+L 20/09/2018 - 13:12:03: Server cvar "gamebuild" = "6142"
+L 20/09/2018 - 13:12:03: Server cvar "gamename" = "Sven Co-op"
+L 20/09/2018 - 13:12:03: Server cvar "gameversion" = "5.17"
+L 20/09/2018 - 13:12:03: Server cvar "gameversionnum" = "5.17"
+L 20/09/2018 - 13:12:03: Server cvar "mapvotecfgfile" = "mapvote.cfg"
+L 20/09/2018 - 13:12:03: Server cvar "max_queries_sec" = "3.0"
+L 20/09/2018 - 13:12:03: Server cvar "max_queries_sec_global" = "30"
+L 20/09/2018 - 13:12:03: Server cvar "max_queries_window" = "60"
+L 20/09/2018 - 13:12:03: Server cvar "mp_banana" = "1"
+L 20/09/2018 - 13:12:03: Server cvar "mp_consistency" = "0"
+L 20/09/2018 - 13:12:03: Server cvar "mp_footsteps" = "1"
+L 20/09/2018 - 13:12:03: Server cvar "mp_logfile" = "1"
+L 20/09/2018 - 13:12:03: Server cvar "mp_nextmap_cycle" = "campaign_vote1"
+L 20/09/2018 - 13:12:03: Server cvar "mp_notimelimit" = "0.0"
+L 20/09/2018 - 13:12:03: Server cvar "pausable" = "0"
+L 20/09/2018 - 13:12:03: Server cvar "skillcfgfile" = "skill.cfg"
+L 20/09/2018 - 13:12:03: Server cvar "sv_accelerate" = "10"
+L 20/09/2018 - 13:12:03: Server cvar "sv_admin_icon" = "gfx/icons/admin.tga"
+L 20/09/2018 - 13:12:03: Server cvar "sv_aim" = "0"
+L 20/09/2018 - 13:12:03: Server cvar "sv_airaccelerate" = "10"
+L 20/09/2018 - 13:12:03: Server cvar "sv_allowupload" = "1"
+L 20/09/2018 - 13:12:03: Server cvar "sv_alltalk" = "0"
+L 20/09/2018 - 13:12:03: Server cvar "sv_bounce" = "1"
+L 20/09/2018 - 13:12:03: Server cvar "sv_cheats" = "2"
+L 20/09/2018 - 13:12:03: Server cvar "sv_clienttrace" = "1"
+L 20/09/2018 - 13:12:03: Server cvar "sv_contact" = ""
+L 20/09/2018 - 13:12:03: Server cvar "sv_friction" = "4"
+L 20/09/2018 - 13:12:03: Server cvar "sv_gravity" = "750"
+L 20/09/2018 - 13:12:03: Server cvar "sv_logblocks" = "0"
+L 20/09/2018 - 13:12:03: Server cvar "sv_maxrate" = "100000"
+L 20/09/2018 - 13:12:03: Server cvar "sv_maxspeed" = "280"
+L 20/09/2018 - 13:12:03: Server cvar "sv_minrate" = "0"
+L 20/09/2018 - 13:12:03: Server cvar "sv_password" = ""
+L 20/09/2018 - 13:12:03: Server cvar "sv_proxies" = "1"
+L 20/09/2018 - 13:12:03: Server cvar "sv_stepsize" = "18"
+L 20/09/2018 - 13:12:03: Server cvar "sv_stopspeed" = "100"
+L 20/09/2018 - 13:12:03: Server cvar "sv_uploadmax" = "0.5"
+L 20/09/2018 - 13:12:03: Server cvar "sv_voiceenable" = "0"
+L 20/09/2018 - 13:12:03: Server cvar "sv_wateraccelerate" = "10"
+L 20/09/2018 - 13:12:03: Server cvar "sv_waterfriction" = "1"
+L 20/09/2018 - 13:12:03: Server cvars end
+L 20/09/2018 - 13:12:03: Server cvar "sv_gravity" = "800"
+L 20/09/2018 - 13:12:03: Log file closed
+L 20/09/2018 - 13:12:03: Log file started (file "logs\2018-09-20.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 20/09/2018 - 13:12:03: Server cvar "sv_gravity" = "750"
+L 20/09/2018 - 13:12:04: Started map "osprey" (CRC "1324875629")
+L 20/09/2018 - 13:12:10: Server shutdown
+L 20/09/2018 - 13:12:10: Log file closed
+L 20/09/2018 - 13:12:55: Log file started (file "logs\2018-09-20.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 20/09/2018 - 13:12:55: Server cvar "sv_maxrate" = "100000"
+L 20/09/2018 - 13:12:55: Server cvar "sv_aim" = "0"
+L 20/09/2018 - 13:12:55: Server cvar "sv_voiceenable" = "0"
+L 20/09/2018 - 13:12:55: Server cvar "sv_cheats" = "2"
+L 20/09/2018 - 13:12:55: Server cvar "mp_banana" = "1"
+L 20/09/2018 - 13:12:55: Server cvar "sv_gravity" = "750"
+L 20/09/2018 - 13:12:55: Server cvar "sv_maxspeed" = "280"
+L 20/09/2018 - 13:12:55: Started map "osprey" (CRC "1324875629")
+L 20/09/2018 - 13:12:55: Server cvar "sv_voiceenable" = "1"
+L 20/09/2018 - 13:12:56: Log file closed
+L 20/09/2018 - 13:12:56: Log file started (file "logs\2018-09-20.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 20/09/2018 - 13:12:56: Server cvar "sv_voiceenable" = "0"
+L 20/09/2018 - 13:13:06: "kek<1><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 20/09/2018 - 13:13:06: "kek<1><STEAM_0:1:105068535><>" STEAM USERID validated
+L 20/09/2018 - 13:13:08: "kek<2><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 20/09/2018 - 13:13:09: "kek<2><STEAM_0:1:105068535><>" STEAM USERID validated
+L 20/09/2018 - 13:13:12: "kek<2><STEAM_0:1:105068535><players>" has entered the game
+L 20/09/2018 - 13:13:42: "kek<2><STEAM_0:1:105068535><players>" stats: frags="24.90" deaths="0" health="1" 
+L 20/09/2018 - 13:14:09: Log file closed
+L 20/09/2018 - 13:14:09: Log file started (file "logs\2018-09-20.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 20/09/2018 - 13:14:09: Loading map "osprey"
+L 20/09/2018 - 13:14:09: Server cvars start
+L 20/09/2018 - 13:14:09: Server cvar "adminsfile" = "admins.txt"
+L 20/09/2018 - 13:14:09: Server cvar "allow_spectators" = "1.0"
+L 20/09/2018 - 13:14:09: Server cvar "coop" = "0"
+L 20/09/2018 - 13:14:09: Server cvar "deathmatch" = "1"
+L 20/09/2018 - 13:14:09: Server cvar "edgefriction" = "2"
+L 20/09/2018 - 13:14:09: Server cvar "gamebuild" = "6142"
+L 20/09/2018 - 13:14:09: Server cvar "gamename" = "Sven Co-op"
+L 20/09/2018 - 13:14:09: Server cvar "gameversion" = "5.17"
+L 20/09/2018 - 13:14:09: Server cvar "gameversionnum" = "5.17"
+L 20/09/2018 - 13:14:09: Server cvar "mapvotecfgfile" = "mapvote.cfg"
+L 20/09/2018 - 13:14:09: Server cvar "max_queries_sec" = "3.0"
+L 20/09/2018 - 13:14:09: Server cvar "max_queries_sec_global" = "30"
+L 20/09/2018 - 13:14:09: Server cvar "max_queries_window" = "60"
+L 20/09/2018 - 13:14:09: Server cvar "mp_banana" = "1"
+L 20/09/2018 - 13:14:09: Server cvar "mp_consistency" = "0"
+L 20/09/2018 - 13:14:09: Server cvar "mp_footsteps" = "1"
+L 20/09/2018 - 13:14:09: Server cvar "mp_logfile" = "1"
+L 20/09/2018 - 13:14:09: Server cvar "mp_nextmap_cycle" = "campaign_vote1"
+L 20/09/2018 - 13:14:09: Server cvar "mp_notimelimit" = "0.0"
+L 20/09/2018 - 13:14:09: Server cvar "pausable" = "0"
+L 20/09/2018 - 13:14:09: Server cvar "skillcfgfile" = "skill.cfg"
+L 20/09/2018 - 13:14:09: Server cvar "sv_accelerate" = "10"
+L 20/09/2018 - 13:14:09: Server cvar "sv_admin_icon" = "gfx/icons/admin.tga"
+L 20/09/2018 - 13:14:09: Server cvar "sv_aim" = "0"
+L 20/09/2018 - 13:14:09: Server cvar "sv_airaccelerate" = "10"
+L 20/09/2018 - 13:14:09: Server cvar "sv_allowupload" = "1"
+L 20/09/2018 - 13:14:09: Server cvar "sv_alltalk" = "0"
+L 20/09/2018 - 13:14:09: Server cvar "sv_bounce" = "1"
+L 20/09/2018 - 13:14:09: Server cvar "sv_cheats" = "2"
+L 20/09/2018 - 13:14:09: Server cvar "sv_clienttrace" = "1"
+L 20/09/2018 - 13:14:09: Server cvar "sv_contact" = ""
+L 20/09/2018 - 13:14:09: Server cvar "sv_friction" = "4"
+L 20/09/2018 - 13:14:09: Server cvar "sv_gravity" = "750"
+L 20/09/2018 - 13:14:09: Server cvar "sv_logblocks" = "0"
+L 20/09/2018 - 13:14:09: Server cvar "sv_maxrate" = "100000"
+L 20/09/2018 - 13:14:09: Server cvar "sv_maxspeed" = "280"
+L 20/09/2018 - 13:14:09: Server cvar "sv_minrate" = "0"
+L 20/09/2018 - 13:14:09: Server cvar "sv_password" = ""
+L 20/09/2018 - 13:14:09: Server cvar "sv_proxies" = "1"
+L 20/09/2018 - 13:14:09: Server cvar "sv_stepsize" = "18"
+L 20/09/2018 - 13:14:09: Server cvar "sv_stopspeed" = "100"
+L 20/09/2018 - 13:14:09: Server cvar "sv_uploadmax" = "0.5"
+L 20/09/2018 - 13:14:09: Server cvar "sv_voiceenable" = "0"
+L 20/09/2018 - 13:14:09: Server cvar "sv_wateraccelerate" = "10"
+L 20/09/2018 - 13:14:09: Server cvar "sv_waterfriction" = "1"
+L 20/09/2018 - 13:14:09: Server cvars end
+L 20/09/2018 - 13:14:09: Server cvar "sv_gravity" = "800"
+L 20/09/2018 - 13:14:09: Log file closed
+L 20/09/2018 - 13:14:09: Log file started (file "logs\2018-09-20.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 20/09/2018 - 13:14:09: Server cvar "sv_gravity" = "750"
+L 20/09/2018 - 13:14:10: Started map "osprey" (CRC "1324875629")
+L 20/09/2018 - 13:14:12: "kek<2><STEAM_0:1:105068535><players>" has entered the game
+L 20/09/2018 - 13:15:01: "kek<2><STEAM_0:1:105068535><players>" stats: frags="17.31" deaths="2" health="1" 
+L 20/09/2018 - 13:15:05: Log file closed
+L 20/09/2018 - 13:15:05: Log file started (file "logs\2018-09-20.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 20/09/2018 - 13:15:05: Loading map "osprey"
+L 20/09/2018 - 13:15:05: Server cvars start
+L 20/09/2018 - 13:15:05: Server cvar "adminsfile" = "admins.txt"
+L 20/09/2018 - 13:15:05: Server cvar "allow_spectators" = "1.0"
+L 20/09/2018 - 13:15:05: Server cvar "coop" = "0"
+L 20/09/2018 - 13:15:05: Server cvar "deathmatch" = "1"
+L 20/09/2018 - 13:15:05: Server cvar "edgefriction" = "2"
+L 20/09/2018 - 13:15:05: Server cvar "gamebuild" = "6142"
+L 20/09/2018 - 13:15:05: Server cvar "gamename" = "Sven Co-op"
+L 20/09/2018 - 13:15:05: Server cvar "gameversion" = "5.17"
+L 20/09/2018 - 13:15:05: Server cvar "gameversionnum" = "5.17"
+L 20/09/2018 - 13:15:05: Server cvar "mapvotecfgfile" = "mapvote.cfg"
+L 20/09/2018 - 13:15:05: Server cvar "max_queries_sec" = "3.0"
+L 20/09/2018 - 13:15:05: Server cvar "max_queries_sec_global" = "30"
+L 20/09/2018 - 13:15:05: Server cvar "max_queries_window" = "60"
+L 20/09/2018 - 13:15:05: Server cvar "mp_banana" = "1"
+L 20/09/2018 - 13:15:05: Server cvar "mp_consistency" = "0"
+L 20/09/2018 - 13:15:05: Server cvar "mp_footsteps" = "1"
+L 20/09/2018 - 13:15:05: Server cvar "mp_logfile" = "1"
+L 20/09/2018 - 13:15:05: Server cvar "mp_nextmap_cycle" = "campaign_vote1"
+L 20/09/2018 - 13:15:05: Server cvar "mp_notimelimit" = "0.0"
+L 20/09/2018 - 13:15:05: Server cvar "pausable" = "0"
+L 20/09/2018 - 13:15:05: Server cvar "skillcfgfile" = "skill.cfg"
+L 20/09/2018 - 13:15:05: Server cvar "sv_accelerate" = "10"
+L 20/09/2018 - 13:15:05: Server cvar "sv_admin_icon" = "gfx/icons/admin.tga"
+L 20/09/2018 - 13:15:05: Server cvar "sv_aim" = "0"
+L 20/09/2018 - 13:15:05: Server cvar "sv_airaccelerate" = "10"
+L 20/09/2018 - 13:15:05: Server cvar "sv_allowupload" = "1"
+L 20/09/2018 - 13:15:05: Server cvar "sv_alltalk" = "0"
+L 20/09/2018 - 13:15:05: Server cvar "sv_bounce" = "1"
+L 20/09/2018 - 13:15:05: Server cvar "sv_cheats" = "2"
+L 20/09/2018 - 13:15:05: Server cvar "sv_clienttrace" = "1"
+L 20/09/2018 - 13:15:05: Server cvar "sv_contact" = ""
+L 20/09/2018 - 13:15:05: Server cvar "sv_friction" = "4"
+L 20/09/2018 - 13:15:05: Server cvar "sv_gravity" = "750"
+L 20/09/2018 - 13:15:05: Server cvar "sv_logblocks" = "0"
+L 20/09/2018 - 13:15:05: Server cvar "sv_maxrate" = "100000"
+L 20/09/2018 - 13:15:05: Server cvar "sv_maxspeed" = "280"
+L 20/09/2018 - 13:15:05: Server cvar "sv_minrate" = "0"
+L 20/09/2018 - 13:15:05: Server cvar "sv_password" = ""
+L 20/09/2018 - 13:15:05: Server cvar "sv_proxies" = "1"
+L 20/09/2018 - 13:15:05: Server cvar "sv_stepsize" = "18"
+L 20/09/2018 - 13:15:05: Server cvar "sv_stopspeed" = "100"
+L 20/09/2018 - 13:15:05: Server cvar "sv_uploadmax" = "0.5"
+L 20/09/2018 - 13:15:05: Server cvar "sv_voiceenable" = "0"
+L 20/09/2018 - 13:15:05: Server cvar "sv_wateraccelerate" = "10"
+L 20/09/2018 - 13:15:05: Server cvar "sv_waterfriction" = "1"
+L 20/09/2018 - 13:15:05: Server cvars end
+L 20/09/2018 - 13:15:05: Server cvar "sv_gravity" = "800"
+L 20/09/2018 - 13:15:05: Log file closed
+L 20/09/2018 - 13:15:05: Log file started (file "logs\2018-09-20.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 20/09/2018 - 13:15:05: Server cvar "sv_gravity" = "750"
+L 20/09/2018 - 13:15:06: Started map "osprey" (CRC "1324875629")
+L 20/09/2018 - 13:15:07: "kek<2><STEAM_0:1:105068535><players>" has entered the game
+L 20/09/2018 - 13:15:37: "kek<2><STEAM_0:1:105068535><players>" stats: frags="38.37" deaths="0" health="1" 
+L 20/09/2018 - 13:16:03: "kek<2><STEAM_0:1:105068535><players>" disconnected
+L 20/09/2018 - 13:16:08: Server shutdown
+L 20/09/2018 - 13:16:08: Log file closed
+L 20/09/2018 - 13:23:17: Log file started (file "logs\2018-09-20.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 20/09/2018 - 13:23:17: Server cvar "sv_maxrate" = "100000"
+L 20/09/2018 - 13:23:17: Server cvar "sv_aim" = "0"
+L 20/09/2018 - 13:23:17: Server cvar "sv_voiceenable" = "0"
+L 20/09/2018 - 13:23:17: Server cvar "sv_cheats" = "2"
+L 20/09/2018 - 13:23:17: Server cvar "mp_banana" = "1"
+L 20/09/2018 - 13:23:17: Server cvar "sv_gravity" = "750"
+L 20/09/2018 - 13:23:17: Server cvar "sv_maxspeed" = "280"
+L 20/09/2018 - 13:23:18: Started map "osprey" (CRC "1324875629")
+L 20/09/2018 - 13:23:18: Server cvar "sv_voiceenable" = "1"
+L 20/09/2018 - 13:23:19: Log file closed
+L 20/09/2018 - 13:23:19: Log file started (file "logs\2018-09-20.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 20/09/2018 - 13:23:19: Server cvar "sv_voiceenable" = "0"
+L 20/09/2018 - 13:23:26: "kek<1><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 20/09/2018 - 13:23:26: "kek<1><STEAM_0:1:105068535><>" STEAM USERID validated
+L 20/09/2018 - 13:23:28: "kek<2><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 20/09/2018 - 13:23:28: "kek<2><STEAM_0:1:105068535><>" STEAM USERID validated
+L 20/09/2018 - 13:23:32: "kek<2><STEAM_0:1:105068535><players>" has entered the game
+L 20/09/2018 - 13:23:41: "kek<2><STEAM_0:1:105068535><players>" say "glow red"
+L 20/09/2018 - 13:24:02: "kek<2><STEAM_0:1:105068535><players>" stats: frags="2.69" deaths="1" health="0" 
+L 20/09/2018 - 13:24:15: "kek<2><STEAM_0:1:105068535><players>" disconnected
+L 20/09/2018 - 13:24:20: Server shutdown
+L 20/09/2018 - 13:24:20: Log file closed
+L 20/09/2018 - 13:27:38: Log file started (file "logs\2018-09-20.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 20/09/2018 - 13:27:38: Server cvar "sv_maxrate" = "100000"
+L 20/09/2018 - 13:27:38: Server cvar "sv_aim" = "0"
+L 20/09/2018 - 13:27:38: Server cvar "sv_voiceenable" = "0"
+L 20/09/2018 - 13:27:38: Server cvar "sv_cheats" = "2"
+L 20/09/2018 - 13:27:38: Server cvar "mp_banana" = "1"
+L 20/09/2018 - 13:27:38: Server cvar "sv_gravity" = "750"
+L 20/09/2018 - 13:27:38: Server cvar "sv_maxspeed" = "280"
+L 20/09/2018 - 13:27:39: Started map "osprey" (CRC "1324875629")
+L 20/09/2018 - 13:27:39: Server cvar "sv_voiceenable" = "1"
+L 20/09/2018 - 13:27:40: Log file closed
+L 20/09/2018 - 13:27:40: Log file started (file "logs\2018-09-20.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 20/09/2018 - 13:27:40: Server cvar "sv_voiceenable" = "0"
+L 20/09/2018 - 13:27:49: "kek<1><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 20/09/2018 - 13:27:49: "kek<1><STEAM_0:1:105068535><>" STEAM USERID validated
+L 20/09/2018 - 13:27:51: "kek<2><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 20/09/2018 - 13:27:51: "kek<2><STEAM_0:1:105068535><>" STEAM USERID validated
+L 20/09/2018 - 13:27:54: "kek<2><STEAM_0:1:105068535><players>" has entered the game
+L 20/09/2018 - 13:28:41: "kek<2><STEAM_0:1:105068535><players>" stats: frags="13.00" deaths="1" health="1" 
+L 20/09/2018 - 13:29:11: "kek<2><STEAM_0:1:105068535><players>" stats: frags="222.80" deaths="2" health="1" 
+L 20/09/2018 - 13:29:24: "kek<2><STEAM_0:1:105068535><players>" disconnected
+L 20/09/2018 - 13:29:28: Log file closed
+L 20/09/2018 - 13:29:28: Log file started (file "logs\2018-09-20.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 20/09/2018 - 13:29:28: Loading map "osprey"
+L 20/09/2018 - 13:29:28: Server cvars start
+L 20/09/2018 - 13:29:28: Server cvar "adminsfile" = "admins.txt"
+L 20/09/2018 - 13:29:28: Server cvar "allow_spectators" = "1.0"
+L 20/09/2018 - 13:29:28: Server cvar "coop" = "0"
+L 20/09/2018 - 13:29:28: Server cvar "deathmatch" = "1"
+L 20/09/2018 - 13:29:28: Server cvar "edgefriction" = "2"
+L 20/09/2018 - 13:29:28: Server cvar "gamebuild" = "6142"
+L 20/09/2018 - 13:29:28: Server cvar "gamename" = "Sven Co-op"
+L 20/09/2018 - 13:29:28: Server cvar "gameversion" = "5.17"
+L 20/09/2018 - 13:29:28: Server cvar "gameversionnum" = "5.17"
+L 20/09/2018 - 13:29:28: Server cvar "mapvotecfgfile" = "mapvote.cfg"
+L 20/09/2018 - 13:29:28: Server cvar "max_queries_sec" = "3.0"
+L 20/09/2018 - 13:29:28: Server cvar "max_queries_sec_global" = "30"
+L 20/09/2018 - 13:29:28: Server cvar "max_queries_window" = "60"
+L 20/09/2018 - 13:29:28: Server cvar "mp_banana" = "1"
+L 20/09/2018 - 13:29:28: Server cvar "mp_consistency" = "0"
+L 20/09/2018 - 13:29:28: Server cvar "mp_footsteps" = "1"
+L 20/09/2018 - 13:29:28: Server cvar "mp_logfile" = "1"
+L 20/09/2018 - 13:29:28: Server cvar "mp_nextmap_cycle" = "campaign_vote1"
+L 20/09/2018 - 13:29:28: Server cvar "mp_notimelimit" = "0.0"
+L 20/09/2018 - 13:29:28: Server cvar "pausable" = "0"
+L 20/09/2018 - 13:29:28: Server cvar "skillcfgfile" = "skill.cfg"
+L 20/09/2018 - 13:29:28: Server cvar "sv_accelerate" = "10"
+L 20/09/2018 - 13:29:28: Server cvar "sv_admin_icon" = "gfx/icons/admin.tga"
+L 20/09/2018 - 13:29:28: Server cvar "sv_aim" = "0"
+L 20/09/2018 - 13:29:28: Server cvar "sv_airaccelerate" = "10"
+L 20/09/2018 - 13:29:28: Server cvar "sv_allowupload" = "1"
+L 20/09/2018 - 13:29:28: Server cvar "sv_alltalk" = "0"
+L 20/09/2018 - 13:29:28: Server cvar "sv_bounce" = "1"
+L 20/09/2018 - 13:29:28: Server cvar "sv_cheats" = "2"
+L 20/09/2018 - 13:29:28: Server cvar "sv_clienttrace" = "1"
+L 20/09/2018 - 13:29:28: Server cvar "sv_contact" = ""
+L 20/09/2018 - 13:29:28: Server cvar "sv_friction" = "4"
+L 20/09/2018 - 13:29:28: Server cvar "sv_gravity" = "750"
+L 20/09/2018 - 13:29:28: Server cvar "sv_logblocks" = "0"
+L 20/09/2018 - 13:29:28: Server cvar "sv_maxrate" = "100000"
+L 20/09/2018 - 13:29:28: Server cvar "sv_maxspeed" = "280"
+L 20/09/2018 - 13:29:28: Server cvar "sv_minrate" = "0"
+L 20/09/2018 - 13:29:28: Server cvar "sv_password" = ""
+L 20/09/2018 - 13:29:28: Server cvar "sv_proxies" = "1"
+L 20/09/2018 - 13:29:28: Server cvar "sv_stepsize" = "18"
+L 20/09/2018 - 13:29:28: Server cvar "sv_stopspeed" = "100"
+L 20/09/2018 - 13:29:28: Server cvar "sv_uploadmax" = "0.5"
+L 20/09/2018 - 13:29:28: Server cvar "sv_voiceenable" = "0"
+L 20/09/2018 - 13:29:28: Server cvar "sv_wateraccelerate" = "10"
+L 20/09/2018 - 13:29:28: Server cvar "sv_waterfriction" = "1"
+L 20/09/2018 - 13:29:28: Server cvars end
+L 20/09/2018 - 13:29:28: Server cvar "sv_gravity" = "800"
+L 20/09/2018 - 13:29:28: Log file closed
+L 20/09/2018 - 13:29:28: Log file started (file "logs\2018-09-20.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 20/09/2018 - 13:29:28: Server cvar "sv_gravity" = "750"
+L 20/09/2018 - 13:29:29: Started map "osprey" (CRC "1324875629")
+L 20/09/2018 - 13:29:35: Server shutdown
+L 20/09/2018 - 13:29:35: Log file closed
+L 20/09/2018 - 13:37:06: Log file started (file "logs\2018-09-20.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 20/09/2018 - 13:37:06: Server cvar "sv_maxrate" = "100000"
+L 20/09/2018 - 13:37:06: Server cvar "sv_aim" = "0"
+L 20/09/2018 - 13:37:06: Server cvar "sv_voiceenable" = "0"
+L 20/09/2018 - 13:37:06: Server cvar "sv_cheats" = "2"
+L 20/09/2018 - 13:37:06: [AFB] AFBase 1.4.0 PUBLIC - Plugin init
+L 20/09/2018 - 13:37:06: [AFB] Loading expansions.
+L 20/09/2018 - 13:37:06: [AFB] Registering expansion: AdminFuckery Base (SID: AFB) by Zode
+L 20/09/2018 - 13:37:06: [AFB] Registering expansion: AdminFuckery2 Player Commands (SID: AF2P) by Zode
+L 20/09/2018 - 13:37:06: [AFB] Registering expansion: AdminFuckery2 Entity Commands (SID: AF2E) by Zode
+L 20/09/2018 - 13:37:06: [AFB] Registering expansion: AdminFuckery2 Fun Commands (SID: AF2F) by Zode
+L 20/09/2018 - 13:37:06: [AFB] Registering expansion: AdminFuckery2 Menu System (SID: AF2MS) by Zode
+L 20/09/2018 - 13:37:06: [AFB] Expansions loaded!
+L 20/09/2018 - 13:37:06: Server cvar "mp_banana" = "1"
+L 20/09/2018 - 13:37:06: Server cvar "sv_gravity" = "750"
+L 20/09/2018 - 13:37:06: Server cvar "sv_maxspeed" = "280"
+L 20/09/2018 - 13:37:06: [AFB] Map init(s) called in expansion(s).
+L 20/09/2018 - 13:37:07: [AFB] Map activate(s) called in expansion(s).
+L 20/09/2018 - 13:37:07: Started map "osprey" (CRC "1324875629")
+L 20/09/2018 - 13:37:07: Server cvar "sv_voiceenable" = "1"
+L 20/09/2018 - 13:37:07: Log file closed
+L 20/09/2018 - 13:37:07: Log file started (file "logs\2018-09-20.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 20/09/2018 - 13:37:07: Server cvar "sv_voiceenable" = "0"
+L 20/09/2018 - 13:37:22: "kek<1><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 20/09/2018 - 13:37:22: [AFB] User kek connected from 47.132.2.210:27005
+L 20/09/2018 - 13:37:23: "kek<1><STEAM_0:1:105068535><>" STEAM USERID validated
+L 20/09/2018 - 13:37:24: "kek<2><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 20/09/2018 - 13:37:24: [AFB] User kek connected from 47.132.2.210:27005
+L 20/09/2018 - 13:37:25: "kek<2><STEAM_0:1:105068535><>" STEAM USERID validated
+L 20/09/2018 - 13:37:28: [AFB] User cache missing. Getting ID from engine..
+L 20/09/2018 - 13:37:28: [AFB] Granted access (abcdefghijklmnopqrstuvwyxz) to STEAM_0:1:105068535
+L 20/09/2018 - 13:37:28: "kek<2><STEAM_0:1:105068535><players>" has entered the game
+L 20/09/2018 - 13:38:20: "kek<2><STEAM_0:1:105068535><players>" killed "kek<2><STEAM_0:1:105068535><players>" with "weapon_gauss"
+L 20/09/2018 - 13:38:28: "kek<2><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="2" health="1" 
+L 20/09/2018 - 13:38:35: "kek<2><STEAM_0:1:105068535><players>" disconnected
+L 20/09/2018 - 13:38:40: Log file closed
+L 20/09/2018 - 13:38:40: Log file started (file "logs\2018-09-20.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 20/09/2018 - 13:38:40: Loading map "osprey"
+L 20/09/2018 - 13:38:40: Server cvars start
+L 20/09/2018 - 13:38:40: Server cvar "adminsfile" = "admins.txt"
+L 20/09/2018 - 13:38:40: Server cvar "allow_spectators" = "1.0"
+L 20/09/2018 - 13:38:40: Server cvar "coop" = "0"
+L 20/09/2018 - 13:38:40: Server cvar "deathmatch" = "1"
+L 20/09/2018 - 13:38:40: Server cvar "edgefriction" = "2"
+L 20/09/2018 - 13:38:40: Server cvar "gamebuild" = "6142"
+L 20/09/2018 - 13:38:40: Server cvar "gamename" = "Sven Co-op"
+L 20/09/2018 - 13:38:40: Server cvar "gameversion" = "5.17"
+L 20/09/2018 - 13:38:40: Server cvar "gameversionnum" = "5.17"
+L 20/09/2018 - 13:38:40: Server cvar "mapvotecfgfile" = "mapvote.cfg"
+L 20/09/2018 - 13:38:40: Server cvar "max_queries_sec" = "3.0"
+L 20/09/2018 - 13:38:40: Server cvar "max_queries_sec_global" = "30"
+L 20/09/2018 - 13:38:40: Server cvar "max_queries_window" = "60"
+L 20/09/2018 - 13:38:40: Server cvar "mp_banana" = "1"
+L 20/09/2018 - 13:38:40: Server cvar "mp_consistency" = "0"
+L 20/09/2018 - 13:38:40: Server cvar "mp_footsteps" = "1"
+L 20/09/2018 - 13:38:40: Server cvar "mp_logfile" = "1"
+L 20/09/2018 - 13:38:40: Server cvar "mp_nextmap_cycle" = "campaign_vote1"
+L 20/09/2018 - 13:38:40: Server cvar "mp_notimelimit" = "0.0"
+L 20/09/2018 - 13:38:40: Server cvar "pausable" = "0"
+L 20/09/2018 - 13:38:40: Server cvar "skillcfgfile" = "skill.cfg"
+L 20/09/2018 - 13:38:40: Server cvar "sv_accelerate" = "10"
+L 20/09/2018 - 13:38:40: Server cvar "sv_admin_icon" = "gfx/icons/admin.tga"
+L 20/09/2018 - 13:38:40: Server cvar "sv_aim" = "0"
+L 20/09/2018 - 13:38:40: Server cvar "sv_airaccelerate" = "10"
+L 20/09/2018 - 13:38:40: Server cvar "sv_allowupload" = "1"
+L 20/09/2018 - 13:38:40: Server cvar "sv_alltalk" = "0"
+L 20/09/2018 - 13:38:40: Server cvar "sv_bounce" = "1"
+L 20/09/2018 - 13:38:40: Server cvar "sv_cheats" = "2"
+L 20/09/2018 - 13:38:40: Server cvar "sv_clienttrace" = "1"
+L 20/09/2018 - 13:38:40: Server cvar "sv_contact" = ""
+L 20/09/2018 - 13:38:40: Server cvar "sv_friction" = "4"
+L 20/09/2018 - 13:38:40: Server cvar "sv_gravity" = "750"
+L 20/09/2018 - 13:38:40: Server cvar "sv_logblocks" = "0"
+L 20/09/2018 - 13:38:40: Server cvar "sv_maxrate" = "100000"
+L 20/09/2018 - 13:38:40: Server cvar "sv_maxspeed" = "280"
+L 20/09/2018 - 13:38:40: Server cvar "sv_minrate" = "0"
+L 20/09/2018 - 13:38:40: Server cvar "sv_password" = ""
+L 20/09/2018 - 13:38:40: Server cvar "sv_proxies" = "1"
+L 20/09/2018 - 13:38:40: Server cvar "sv_stepsize" = "18"
+L 20/09/2018 - 13:38:40: Server cvar "sv_stopspeed" = "100"
+L 20/09/2018 - 13:38:40: Server cvar "sv_uploadmax" = "0.5"
+L 20/09/2018 - 13:38:40: Server cvar "sv_voiceenable" = "0"
+L 20/09/2018 - 13:38:40: Server cvar "sv_wateraccelerate" = "10"
+L 20/09/2018 - 13:38:40: Server cvar "sv_waterfriction" = "1"
+L 20/09/2018 - 13:38:40: Server cvars end
+L 20/09/2018 - 13:38:40: Server cvar "sv_gravity" = "800"
+L 20/09/2018 - 13:38:40: Log file closed
+L 20/09/2018 - 13:38:40: Log file started (file "logs\2018-09-20.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 20/09/2018 - 13:38:40: Server cvar "sv_gravity" = "750"
+L 20/09/2018 - 13:38:40: [AFB] Map init(s) called in expansion(s).
+L 20/09/2018 - 13:38:40: [AFB] Map activate(s) called in expansion(s).
+L 20/09/2018 - 13:38:40: Started map "osprey" (CRC "1324875629")
+L 20/09/2018 - 13:38:40: Server shutdown
+L 20/09/2018 - 13:38:40: Log file closed
+L 20/09/2018 - 13:41:43: Log file started (file "logs\2018-09-20.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 20/09/2018 - 13:41:43: Server cvar "sv_maxrate" = "100000"
+L 20/09/2018 - 13:41:43: Server cvar "sv_aim" = "0"
+L 20/09/2018 - 13:41:43: Server cvar "sv_voiceenable" = "0"
+L 20/09/2018 - 13:41:43: Server cvar "sv_cheats" = "2"
+L 20/09/2018 - 13:41:43: [AFB] AFBase 1.4.0 PUBLIC - Plugin init
+L 20/09/2018 - 13:41:43: [AFB] Loading expansions.
+L 20/09/2018 - 13:41:43: [AFB] Registering expansion: AdminFuckery Base (SID: AFB) by Zode
+L 20/09/2018 - 13:41:43: [AFB] Registering expansion: AdminFuckery2 Player Commands (SID: AF2P) by Zode
+L 20/09/2018 - 13:41:43: [AFB] Registering expansion: AdminFuckery2 Entity Commands (SID: AF2E) by Zode
+L 20/09/2018 - 13:41:43: [AFB] Registering expansion: AdminFuckery2 Fun Commands (SID: AF2F) by Zode
+L 20/09/2018 - 13:41:43: [AFB] Registering expansion: AdminFuckery2 Menu System (SID: AF2MS) by Zode
+L 20/09/2018 - 13:41:43: [AFB] Expansions loaded!
+L 20/09/2018 - 13:41:43: Server cvar "mp_banana" = "1"
+L 20/09/2018 - 13:41:43: Server cvar "sv_gravity" = "750"
+L 20/09/2018 - 13:41:43: Server cvar "sv_maxspeed" = "280"
+L 20/09/2018 - 13:41:44: [AFB] Map init(s) called in expansion(s).
+L 20/09/2018 - 13:41:44: [AFB] Map activate(s) called in expansion(s).
+L 20/09/2018 - 13:41:44: Started map "osprey" (CRC "1324875629")
+L 20/09/2018 - 13:41:44: Server cvar "sv_voiceenable" = "1"
+L 20/09/2018 - 13:41:45: Log file closed
+L 20/09/2018 - 13:41:45: Log file started (file "logs\2018-09-20.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 20/09/2018 - 13:41:45: Server cvar "sv_voiceenable" = "0"
+L 20/09/2018 - 13:41:55: "kek<1><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 20/09/2018 - 13:41:55: [AFB] User kek connected from 47.132.2.210:27005
+L 20/09/2018 - 13:41:56: "kek<1><STEAM_0:1:105068535><>" STEAM USERID validated
+L 20/09/2018 - 13:41:57: "kek<2><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 20/09/2018 - 13:41:57: [AFB] User kek connected from 47.132.2.210:27005
+L 20/09/2018 - 13:41:58: "kek<2><STEAM_0:1:105068535><>" STEAM USERID validated
+L 20/09/2018 - 13:42:01: [AFB] User cache missing. Getting ID from engine..
+L 20/09/2018 - 13:42:01: [AFB] Granted access (abcdefghijklmnopqrstuvwyxz) to STEAM_0:1:105068535
+L 20/09/2018 - 13:42:01: "kek<2><STEAM_0:1:105068535><players>" has entered the game
+L 20/09/2018 - 13:42:57: "kek<2><STEAM_0:1:105068535><players>" stats: frags="17.39" deaths="2" health="1" 
+L 20/09/2018 - 13:43:05: Log file closed
+L 20/09/2018 - 13:43:05: Log file started (file "logs\2018-09-20.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 20/09/2018 - 13:43:05: Loading map "osprey"
+L 20/09/2018 - 13:43:05: Server cvars start
+L 20/09/2018 - 13:43:05: Server cvar "adminsfile" = "admins.txt"
+L 20/09/2018 - 13:43:05: Server cvar "allow_spectators" = "1.0"
+L 20/09/2018 - 13:43:05: Server cvar "coop" = "0"
+L 20/09/2018 - 13:43:05: Server cvar "deathmatch" = "1"
+L 20/09/2018 - 13:43:05: Server cvar "edgefriction" = "2"
+L 20/09/2018 - 13:43:05: Server cvar "gamebuild" = "6142"
+L 20/09/2018 - 13:43:05: Server cvar "gamename" = "Sven Co-op"
+L 20/09/2018 - 13:43:05: Server cvar "gameversion" = "5.17"
+L 20/09/2018 - 13:43:05: Server cvar "gameversionnum" = "5.17"
+L 20/09/2018 - 13:43:05: Server cvar "mapvotecfgfile" = "mapvote.cfg"
+L 20/09/2018 - 13:43:05: Server cvar "max_queries_sec" = "3.0"
+L 20/09/2018 - 13:43:05: Server cvar "max_queries_sec_global" = "30"
+L 20/09/2018 - 13:43:05: Server cvar "max_queries_window" = "60"
+L 20/09/2018 - 13:43:05: Server cvar "mp_banana" = "1"
+L 20/09/2018 - 13:43:05: Server cvar "mp_consistency" = "0"
+L 20/09/2018 - 13:43:05: Server cvar "mp_footsteps" = "1"
+L 20/09/2018 - 13:43:05: Server cvar "mp_logfile" = "1"
+L 20/09/2018 - 13:43:05: Server cvar "mp_nextmap_cycle" = "campaign_vote1"
+L 20/09/2018 - 13:43:05: Server cvar "mp_notimelimit" = "0.0"
+L 20/09/2018 - 13:43:05: Server cvar "pausable" = "0"
+L 20/09/2018 - 13:43:05: Server cvar "skillcfgfile" = "skill.cfg"
+L 20/09/2018 - 13:43:05: Server cvar "sv_accelerate" = "10"
+L 20/09/2018 - 13:43:05: Server cvar "sv_admin_icon" = "gfx/icons/admin.tga"
+L 20/09/2018 - 13:43:05: Server cvar "sv_aim" = "0"
+L 20/09/2018 - 13:43:05: Server cvar "sv_airaccelerate" = "10"
+L 20/09/2018 - 13:43:05: Server cvar "sv_allowupload" = "1"
+L 20/09/2018 - 13:43:05: Server cvar "sv_alltalk" = "0"
+L 20/09/2018 - 13:43:05: Server cvar "sv_bounce" = "1"
+L 20/09/2018 - 13:43:05: Server cvar "sv_cheats" = "2"
+L 20/09/2018 - 13:43:05: Server cvar "sv_clienttrace" = "1"
+L 20/09/2018 - 13:43:05: Server cvar "sv_contact" = ""
+L 20/09/2018 - 13:43:05: Server cvar "sv_friction" = "4"
+L 20/09/2018 - 13:43:05: Server cvar "sv_gravity" = "750"
+L 20/09/2018 - 13:43:05: Server cvar "sv_logblocks" = "0"
+L 20/09/2018 - 13:43:05: Server cvar "sv_maxrate" = "100000"
+L 20/09/2018 - 13:43:05: Server cvar "sv_maxspeed" = "280"
+L 20/09/2018 - 13:43:05: Server cvar "sv_minrate" = "0"
+L 20/09/2018 - 13:43:05: Server cvar "sv_password" = ""
+L 20/09/2018 - 13:43:05: Server cvar "sv_proxies" = "1"
+L 20/09/2018 - 13:43:05: Server cvar "sv_stepsize" = "18"
+L 20/09/2018 - 13:43:05: Server cvar "sv_stopspeed" = "100"
+L 20/09/2018 - 13:43:05: Server cvar "sv_uploadmax" = "0.5"
+L 20/09/2018 - 13:43:05: Server cvar "sv_voiceenable" = "0"
+L 20/09/2018 - 13:43:05: Server cvar "sv_wateraccelerate" = "10"
+L 20/09/2018 - 13:43:05: Server cvar "sv_waterfriction" = "1"
+L 20/09/2018 - 13:43:05: Server cvars end
+L 20/09/2018 - 13:43:05: Server cvar "sv_gravity" = "800"
+L 20/09/2018 - 13:43:05: Log file closed
+L 20/09/2018 - 13:43:05: Log file started (file "logs\2018-09-20.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 20/09/2018 - 13:43:05: Server cvar "sv_gravity" = "750"
+L 20/09/2018 - 13:43:06: [AFB] Map init(s) called in expansion(s).
+L 20/09/2018 - 13:43:06: [AFB] Map activate(s) called in expansion(s).
+L 20/09/2018 - 13:43:06: Started map "osprey" (CRC "1324875629")
+L 20/09/2018 - 13:43:06: [AFB] User kek connected from 47.132.2.210:27005
+L 20/09/2018 - 13:43:09: [AFB] User cache missing. Getting ID from engine..
+L 20/09/2018 - 13:43:09: [AFB] Granted access (abcdefghijklmnopqrstuvwyxz) to STEAM_0:1:105068535
+L 20/09/2018 - 13:43:09: "kek<2><STEAM_0:1:105068535><players>" has entered the game
+L 20/09/2018 - 13:43:39: "kek<2><STEAM_0:1:105068535><players>" stats: frags="39.64" deaths="0" health="1" 
+L 20/09/2018 - 13:44:05: "kek<2><STEAM_0:1:105068535><players>" disconnected
+L 20/09/2018 - 13:44:12: Server shutdown
+L 20/09/2018 - 13:44:12: Log file closed

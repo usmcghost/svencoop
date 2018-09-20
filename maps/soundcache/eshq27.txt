@@ -118,12 +118,8 @@ weapons/explode3.wav
 weapons/explode4.wav
 weapons/explode5.wav
 misc/r_tele3.wav
-player/hud_nightvision.wav
-items/flashlight2.wav
 NICKWADE
-sandwich/2pac.ogg
 puchi/spportal/threetwoone.wav
-fvox/hev_shutdown.wav
 sandwich/aaaa.ogg
 vox/adios.wav
 misc/motv/aesthetic.mp3
@@ -132,36 +128,27 @@ sanksound/Efectos/jaaa.wav
 scientist/scream15.wav
 sanksound/Efectos/argh.wav
 sanksound/Efectos/allahu.wav
-allclear.wav
 keenzone/x2s_1.wav
 america.ogg
-misc/motv/japaneseanimes.mp3
-sandwich/aaaah.wav
 hgrunt/ass.wav
 hgrunt/ass!.wav
-voice_commands/tucumanos/fireassis.wav
 atatata.ogg
-awoo.ogg
 chatsounds/ayesir.mp3
+sank/dum_n01.mp3
 suicide2.wav
-balls.wav
 sank/steppingonbeach.mp3
-sandwich/beatit.ogg
 nickwade/blyat.ogg
 hgrunt/bogies!.wav
-voice_commands/tucumanos/atiendo_boludos.ogg
 w00tguy/botrace/boo.wav
 sank/boomheadshot.mp3
 sanksound/Efectos/headshot.wav
 sonic_the_hedgehog/sonic_final_boss.wav
-brababa.wav
-sank/brb_n01.mp3
 sank/bye_n01.mp3
 mikutron/chatsounds/eructo.wav
 keen/goodbyetele.wav
 otis/candy.wav
+sandwich/tomjones.ogg
 nickwade/cashmeoutside.ogg
-cena.wav
 nickwade/china.ogg
 gman/gman_choose2.wav
 keen/dukechristmas.wav
@@ -173,125 +160,92 @@ ambience/goal_1.wav
 sanksound/Efectos/continued.wav
 sanksound/Efectos/wascool.wav
 sandwich/crawling.ogg
-fvox/near_death.wav
 misc/motv/enthusiasm.mp3
-cyka.ogg
-otis/imdead.wav
+nickwade/cyka.ogg
 sank/damnson_n01.mp3
-daway.ogg
 chatsounds/dawei.mp3
-voice_commands/tucumanos/enemydown.wav
-sank/defeat.mp3
-sank/denied_n01.mp3
-sanksound/Efectos/denunciado.wav
+scientist/youneedmedic.wav
 nickwade/destroythechild.ogg
 4ways/die1.wav
 keen/disneyland.wav
-sank/done_n01.mp3
-sank/dum_n01.mp3
 sank/tamtamtam_n01.mp3
 sandwich/whistle.ogg
-scientist/c1a0_sci_dis5a
+scientist/c1a0_sci_dis5a.wav
 voice_commands/tucumanos/ct_enemys.wav
 sank/english.wav
-misc/motv/error.mp3
 sank/excellent_n01.mp3
 mikutron/chatsounds/extrathicc.ogg
-sank/ez.mp3
 mikutron/chatsounds/ez.wav
-sank/faggot_n01.mp3
+nickwade/megafaggot.ogg
 sank/failed_n01.mp3
 sank/retard2_n01.mp3
 vox/failure.wav
-voice_commands/tucumanos/fallback.wav
 vox/fast.wav
-sank/fatality_n01.mp3
 sandwich/ffs.ogg
 nickwade/yourefine.ogg
-sank/finishhim_n01.mp3
+fvox/flatline.wav
 nickwade/flickadawrist.ogg
 misc/motv/flute.mp3
 fml.ogg
 voice_commands/tucumanos/followme.wav
 scientist/c3a2_sci_fool.wav
 nickwade/footlettuce.ogg
-nickwade/fortnitedeath.ogg
-fvox/minor_fracture.wav
 failiture.wav
 sank/hefuckup_n01.mp3
 sank/dafuq_n01.mp3
 nickwade/fusrodah.ogg
 voice_commands/tucumanos/gaben.ogg
-sank/gameover_n01.mp3
-gameoveryeah.ogg
 w00tguy/botrace/gasp3.wav
-gatorade.ogg
 sank/gay_n01.mp3
-sank/getoverhere_n01.mp3
-sank/gg.mp3
-chatsounds/gmi2.ogg
+scientist/c1a0_sci_dis14a.wav
 voice_commands/tucumanos/com_go.wav
-godlike.wav
 scientist/c1a0_sci_dis1d.wav
 vox/goodbye.wav
 sank/gotyou_n01.mp3
-voice_commands/tucumanos/fire.wav
-sank/thug_n01.mp3
+hgrunt/grenade!.wav
 mikutron/chatsounds/GTA.wav
-scientist/c1a0_sci_dis14a.wav
 sank/gtg_n01.mp3
 chew.ogg
 sanksound/Efectos/wujaja.wav
-sank/hax_n01.mp3
 haha2.wav
 svencoop2/weirdlaugh1.wav
-misc/motv/teedus.mp3
+sank/hax_n01.mp3
 scientist/seeheadcrab.wav
 headshot1.wav
-heaven.wav
 sandwich/huehuehue.ogg
 scientist/hello.wav
+fvox/hev_logon.wav
 sank/hi_n01.mp3
 holyshit.wav
 sanksound/Efectos/wiki2.wav
 hgrunt/hostiles!.wav
-sank/hot_n01.mp3
+hgrunt/hot!.wav
 hotaliensex.ogg
-houndeye/he_attack3.wav
-houndeye/he_alert1.wav
-sank/humiliation.mp3
+fvox/blood_loss.wav
 sank/idea_n01.mp3
-sank/idgaf_n01.mp3
 ufo.ogg
 sank/illuminatitrap_n01.mp3
 sank/impressive_n01.mp3
-sandwich/risitas.wav
-chatsounds/jiji.mp3
 nickwade/johncena.ogg
 nickwade/jump.ogg
 jurassic.ogg
 nickwade/justdoit.ogg
 kamehameha.ogg
-kawaii.wav
 sank/kiss_n01.mp3
-sank/kissmyass.mp3
-sank/ko.mp3
 sank/kobe.mp3
 kombat.ogg
 nickwade/leedle.ogg
 sank/leeroy_n01.mp3
-incoming/df.wav
+sandwich/risitas.wav
 svencoop2/weirdlaugh2.wav
 sandwich/greatagain.ogg
-tfc/speech/saveme2.wav
 nickwade/milk.ogg
-mineraft.wav
+nickwade/cod_missionfailed.ogg
 misc/motv/mlg2.mp3
-nickwade/mlgsad.ogg
+nickwade/mlgsad2.ogg
 otis/mmmm.wav
 nickwade/momgetthecamera.ogg
 sank/goodmorning_n01.mp3
-fvox/morphine_shot.wav
 hgrunt/move!.wav
 yarfde/movebit.ogg
 hgrunt/movement.wav
@@ -300,126 +254,92 @@ hgrunt/negative.wav
 nickwade/nein.ogg
 vox/nice.wav
 mikutron/chatsounds/nico_nico_nii.wav
-nickwade/nigga.ogg
 scientist/scream10.wav
 sanksound/Efectos/no.wav
 misc/motv/nogod.mp3
-voice_commands/tucumanos/negative03.wav
 keen/apunono.wav
-chatsounds/jojo_nono.mp3
 sank/noo_n01.mp3
 sank/no_n01.mp3
 noooo.wav
-sandwich/noo.wav
 nope.wav
-sandwich/noplease.wav
 scientist/c1a0_sci_dis15a.wav
 number9.ogg
-chatsounds/jojo_ohno.mp3
 misc/motv/ohmygah.mp3
-chatsounds/jojo_ohmygod.mp3
-sank/ohno.mp3
-sandwich/ohno.wav
 nickwade/ohyeahmrkrabs.ogg
 vox/ok.wav
-omaewa.wav
-sank/nom_n01.mp3
+chatsounds/jojo_ohmygod.mp3
 nickwade/oof.ogg
 gman/gman_otherwise.wav
-misc/party2.wav
-sank/pentakill.mp3
 sank/pills_n01.mp3
 sank/peanuts_n01.mp3
 pirates.ogg
-sank/bombpl.wav
 voice_commands/tucumanos/com_getinpos.wav
-nickwade/potc.ogg
 sank/prank.mp3
 nickwade/yousoprecious.ogg
-sank/predator.mp3
 vox/endgame.wav
 nickwade/watchyourprofanity.ogg
 sank/pussy_n01.mp3
 sanksound/Efectos/pwnd.wav
 sank/rape.mp3
-voice_commands/tucumanos/regroup.wav
-misc/broken_tram3.wav
+nickwade/nigga.ogg
 prick.wav
 holo/tr_holo_retry.wav
+misc/reveille1.wav
 mikutron/chatsounds/riders.wav
-otis/of1a5_ot01.wav
+voice_commands/tucumanos/rip_n01.mp3
 hgrunt/roger.wav
 scientist/c1a0_sci_dis1c.wav
-hunger/thambs/runmanrun.wav
-sank/runnn_n01.mp3
 run.wav
-voice_commands/tucumanos/rip_n01.mp3
 sanksound/Efectos/visteado.wav
 gta2/faces.ogg
 misc/motv/how_could_this.mp3
 sad4.wav
-sad69.ogg
 sandwich/sanic.ogg
 scientist/c1a0_sci_catscream.wav
-fvox/seek_medic.wav
 hgrunt/shit.wav
-sanksound/Efectos/showup.wav
 sanksound/Efectos/hongos.wav
 nickwade/xpshutdownsound.ogg
 nickwade/shutupcyka.ogg
 sank/wickedsick.mp3
 nickwade/skidaddle.ogg
 nickwade/slip.ogg
-swed.wav
-squeek/sqk_hunt3.wav
 sank/sob.mp3
 sandwich/soniic.ogg
 keen/cg_rdmtrain01.wav
 nickwade/touchamyspaget.ogg
 misc/motv/spin_me.mp3
 killingspree.wav
-scientist/sci_pain3.wav
 nickwade/xpstartupsound.ogg
 shutup.wav
+scientist/sci_pain3.wav
 nickwade/wheresmysupersuit.ogg
 surprise.wav
-misc/bbcover.wav
-sanksound/Efectos/teemo.wav
-tengomiedo.wav
-tentacle/te_sing1.wav
 sandwich/thriller.ogg
+sank/thug_n01.mp3
+sandwich/2pac.ogg
 nickwade/titanic.ogg
 sanksound/Efectos/tooeasy.wav
 misc/motv/followthetrain.mp3
 sank/itsatrap_n01.mp3
 sank/triple_n01.mp3
-sandwich/tomjones.ogg
 sank/victory2.mp3
 voice_commands/tucumanos/position.wav
 sandwich/trumpwall.ogg
+scientist/whatyoudoing.wav
 sanksound/Efectos/win.wav
 sonic_the_hedgehog/sonic_ending.wav
-sanksound/Efectos/wojojo.wav
+allclear.wav
 sanksound/Efectos/wombocombo.wav
-wow.wav
 sanksound/Efectos/wtf.wav
-wtf3.wav
-scientist/c1a0_sci_dis13a.wav
 sank/yeaaa.mp3
-sank/yee_n01.mp3
 sank/yee2_n01.mp3
 otis/youbet.wav
 scientist/yees.wav
-scientist/yesletsgo.wav
-nickwade/youdonethis.ogg
-tfc/items/inv3.wav
-ambience/flameburst1.wav
-zode/thunder.ogg
-weapons/cbar_hitbod1.wav
 items/smallmedkit1.wav
 items/airtank1.wav
 weapons/cbar_hit1.wav
 weapons/cbar_hit2.wav
+weapons/cbar_hitbod1.wav
 weapons/cbar_hitbod2.wav
 weapons/cbar_hitbod3.wav
 weapons/cbar_miss1.wav
@@ -546,6 +466,7 @@ hornet/ag_buzz3.wav
 hornet/ag_hornethit1.wav
 hornet/ag_hornethit2.wav
 hornet/ag_hornethit3.wav
+misc/bbcover.wav
 misc/bbimpact.wav
 weapons/g_bounce1.wav
 weapons/g_bounce2.wav
@@ -554,6 +475,7 @@ weapons/mine_deploy.wav
 weapons/mine_activate.wav
 weapons/mine_charge.wav
 squeek/sqk_hunt2.wav
+squeek/sqk_hunt3.wav
 squeek/sqk_blast1.wav
 squeek/sqk_die1.wav
 squeek/sqk_hunt1.wav
@@ -1162,12 +1084,12 @@ HG_GREN3 hgrunt/(p110 t40) clik(p120) get!(e78) down!(t30) clik
 HG_GREN4 hgrunt/clik(p110) (t40) of!(e75) god! clik(p110)
 HG_GREN5 hgrunt/clik no! clik
 HG_GREN6 hgrunt/clik move! clik(p120)
-HG_ALERT0 hgrunt/(t30) squad!, we!(e80) got!(e80) bastard!(t20 p105), clik(p110)
+HG_ALERT0 hgrunt/(t30) squad!, we!(e80) got!(e80) hostiles!(t20 p105), clik(p110)
 HG_ALERT1 hgrunt/clik(p110) target! clik
 HG_ALERT2 hgrunt/clik movement! clik
 HG_ALERT3 hgrunt/(t40) shit!(t20), (t50) we! got! hostiles!(p120 t0) clik
-HG_ALERT4 hgrunt/(t20) clik(p110) squad!, get!(e80) bastard!, clik(p110) clik
-HG_ALERT5 hgrunt/(t20) clik squad!, neutralize!(e90) bastard! clik
+HG_ALERT4 hgrunt/(t20) clik(p110) squad!, eliminate(e80) bogies!, clik(p110) clik
+HG_ALERT5 hgrunt/(t20) clik squad!, neutralize!(e90) bogies! clik
 HG_ALERT6 hgrunt/(t30) clik clik move!(e75) in! clik(p120)
 HG_MONST0 hgrunt/clik(p110) (t50) bogies!(t0), my! sector!(t0) clik
 HG_MONST1 hgrunt/clik(p110) (t40) clik(p120) we!(e75) got! bogies! clik
@@ -1209,7 +1131,7 @@ HG_QUEST7 hgrunt/clik(p120) (t30) echo(e75) mission is go clik(p120) clik(p120)
 HG_QUEST8 hgrunt/clik(p110) (t30) fire(e75) team, weapons(e75) check ok clik(p120) clik
 HG_QUEST9 hgrunt/clik(p110) (t30) fire(e75) team, objective foxtrot niner clik(p120)
 HG_QUEST10 hgrunt/clik (t30) ok(e75) mission, zero(e75) niner clik
-HG_QUEST11 hgrunt/clik (t30) squad, stay(e80) alert(e80) four freeman, over clik
+HG_QUEST11 hgrunt/clik (t30) squad, stay(e80) alert(e80) four bogies, over clik
 HG_ANSWER0 hgrunt/clik(p110) (t20) uhh roger(e75) that, clik(p120) clik
 HG_ANSWER1 hgrunt/clik(p120) (t10) yessir clik
 HG_ANSWER2 hgrunt/clik(p120) (t30) affirmative, sir clik
@@ -1488,214 +1410,110 @@ DB2 danger, liquid biohazard released, evacuate area
 DB3 danger, biohazard detected in immediate area
 TR_A three, two, one, deeoo(p110)
 TR_B deeoo(p110) (p102 t20) target system deactivated
-HEV_AAx ,
-
-HEV_A0 ,
-
-HEV_A1 ,
-
-HEV_A2 ,
-
-HEV_A3 ,
-
-HEV_A4 ,
-
-HEV_A5 ,
-
-HEV_A6 ,
-
-HEV_A7 ,
-
-HEV_A8 ,
-
-HEV_A9 ,
-
-HEV_A10 ,
-
-HEV_DEAD0 ,
-
-HEV_DEAD1 ,
-
-HEV_MED0 ,
-
-HEV_MED1 ,
-
-HEV_MED2 ,
-
-HEV_HEAL0 ,
-
-HEV_HEAL1 ,
-
-HEV_HEAL2 ,
-
-HEV_HEAL3 ,
-
-HEV_HEAL4 ,
-
-HEV_HEAL5 ,
-
-HEV_HEAL6 ,
-
-HEV_HEAL7 ,
-
-HEV_HEAL8 ,
-
-HEV_DMG0 ,
-
-HEV_DMG1 ,
-
-HEV_DMG2 ,
-
-HEV_DMG3 ,
-
-HEV_DMG4 ,
-
-HEV_DMG5 ,
-
-HEV_DMG6 ,
-
-HEV_DMG7 ,
-
-HEV_HLTH0 ,
-
-HEV_HLTH1 ,
-
-HEV_HLTH2 ,
-
-HEV_HLTH3 ,
-
-HEV_HLTH4 ,
-
-HEV_HLTH5 ,
-
-HEV_HLTH6 ,
-
-HEV_SHOCK ,
-
-HEV_FIRE ,
-
-HEV_AIM_ON ,
-
-HEV_AIM_OFF ,
-
-HEV_BATTERY ,
-
-HEV_MEDKIT ,
-
-HEV_PISTOL ,
-
-HEV_SHOTGUN ,
-
-HEV_GRENADE ,
-
-HEV_ASSAULT ,
-
-HEV_44PISTOL ,
-
-HEV_RPG ,
-
-HEV_SATCHEL ,
-
-HEV_TRIPMINE ,
-
-HEV_HORNET ,
-
-HEV_SQUEEK ,
-
-HEV_EGON ,
-
-HEV_GAUSS ,
-
-HEV_XBOW ,
-
-HEV_9MM ,
-
-HEV_44AMMO ,
-
-HEV_BUCKSHOT ,
-
-HEV_BOLTS ,
-
-HEV_RPGAMMO ,
-
-HEV_AGRENADE ,
-
-HEV_EGONPOWER ,
-
-HEV_D00 ,
-
-HEV_D01 ,
-
-HEV_0P ,
-
-HEV_1P ,
-
-HEV_2P ,
-
-HEV_3P ,
-
-HEV_4P ,
-
-HEV_5P ,
-
-HEV_6P ,
-
-HEV_7P ,
-
-HEV_8P ,
-
-HEV_9P ,
-
-HEV_10P ,
-
-HEV_11P ,
-
-HEV_12P ,
-
-HEV_13P ,
-
-HEV_14P ,
-
-HEV_15P ,
-
-HEV_16P ,
-
-HEV_17P ,
-
-HEV_18P ,
-
-HEV_19P ,
-
-HEV_AMO0 ,
-
-HEV_V0 ,
-
-HEV_V1 ,
-
-HEV_E0 ,
-
-HEV_E1 ,
-
-HEV_E2 ,
-
-HEV_E3 ,
-
-HEV_E4 ,
-
-HEV_E5 ,
-
-HEV_DET0 ,
-
-HEV_DET1 ,
-
-HEV_DET2 ,
-
-HEV_DET3 ,
-
-HEV_DET4 ,
-
-HEV_DET5 ,
-
+HEV_AAx fvox/bell, HEV_logon, powerarmor_on, atmospherics_on,vitalsigns_on, automedic_on, weaponselect_on, munitionview_on, communications_on, safe_day
+HEV_A0 fvox/bell, HEV_logon
+HEV_A1 fvox/blip blip(p130) powermove_on
+HEV_A2 fvox/blip blip powerarmor_on
+HEV_A3 fvox/blip blip(p130) atmospherics_on
+HEV_A4 fvox/blip blip vitalsigns_on boop, boop, boop
+HEV_A5 fvox/blip blip(p130) munitionview_on
+HEV_A6 fvox/blip blip communications_on
+HEV_A7 fvox/blip blip(p70) weaponselect_on
+HEV_A8 fvox/blip blip(p70) automedic_on
+HEV_A9 fvox/fuzz power_level_is onehundred percent
+HEV_A10 fvox/safe_day, bell
+HEV_DEAD0 fvox/beep beep, beep beep, beep, beep, flatline
+HEV_DEAD1 fvox/beep beep, beep beep, beep, flatline
+HEV_MED0 fvox/(p140) boop, boop, boop, (p100) innsufficient_medical
+HEV_MED1 fvox/(p140) boop, boop, boop, (p100) automedic_on
+HEV_MED2 fvox/(p140) boop, boop, boop, (p100) administering_medical
+HEV_HEAL0 fvox/(p140) boop, boop, boop, (p100) wound_sterilized, blip(p130 v50), blip(p130 v40), hiss, morphine_shot
+HEV_HEAL1 fvox/(p140) boop, boop, boop, (p100) torniquette_applied, bleeding_stopped
+HEV_HEAL2 fvox/(p140) boop, boop, boop, (p100) bleeding_stopped
+HEV_HEAL3 fvox/(p140) boop, boop, boop, (p100) blood_plasma
+HEV_HEAL4 fvox/(p140) boop, boop, boop, (p100) hiss, antitoxin_shot
+HEV_HEAL5 fvox/(p140) boop, boop, boop, (p100) hiss, antidote_shot
+HEV_HEAL6 fvox/(p140) boop, boop, boop, (p100) hiss, wound_sterilized
+HEV_HEAL7 fvox/(p140) boop, boop, boop, (p100) hiss, morphine_shot
+HEV_HEAL8 fvox/(p140) boop, boop, boop, (p100) medical_repaired
+HEV_DMG0 fvox/(p160) boop, boop, boop, (p100) minor_lacerations
+HEV_DMG1 fvox/(p160) boop, boop, boop, (p100) major_lacerations
+HEV_DMG2 fvox/(p160) boop, boop, boop, (p100) internal_bleeding
+HEV_DMG3 fvox/(p160) boop, boop, boop, (p100) blood_toxins
+HEV_DMG4 fvox/(p160) boop, boop, boop, (p100) minor_fracture
+HEV_DMG5 fvox/(p160) boop, boop, boop, (p100) major_fracture
+HEV_DMG6 fvox/(p160) boop, boop, boop, (p100) blood_loss
+HEV_DMG7 fvox/(p140) boop, boop, boop, (p100) seek_medic
+HEV_HLTH0 fvox/(p120) beep, beep, (p100) health_dropping
+HEV_HLTH1 fvox/(p120) beep, beep, (p100) health_dropping2
+HEV_HLTH2 fvox/(p120) beep, beep, beep, (p100) health_critical
+HEV_HLTH3 fvox/(p120) beep, beep, beep, (p100) near_death
+HEV_HLTH4 fvox/(p140) beep, beep, (p100) health_dropping2, evacuate_area
+HEV_HLTH5 fvox/(p140) beep, beep, beep, (p100) health_critical, evacuate_area
+HEV_HLTH6 fvox/(p140) beep, beep, beep, (p100) near_death, evacuate_area immediately
+HEV_SHOCK fvox/(p120) beep, beep, (p100) warning, shock_damage
+HEV_FIRE fvox/(p120) beep, beep, (p100) warning, heat_damage
+HEV_AIM_ON fvox/blip targetting_system activated
+HEV_AIM_OFF fvox/blip targetting_system deactivated
+HEV_BATTERY fvox/blip get_battery acquired
+HEV_MEDKIT fvox/blip get_medkit(v80)
+HEV_PISTOL fvox/blip get_pistol acquired
+HEV_SHOTGUN fvox/blip get_shotgun
+HEV_GRENADE fvox/blip get_grenade acquired
+HEV_ASSAULT fvox/blip get_assault acquired
+HEV_44PISTOL fvox/blip get_44pistol acquired
+HEV_RPG fvox/blip get_rpg acquired
+HEV_SATCHEL fvox/blip get_satchel acquired
+HEV_TRIPMINE fvox/blip get_tripmine acquired
+HEV_HORNET fvox/blip get_alien_wpn
+HEV_SQUEEK fvox/blip get_alien_wpn
+HEV_EGON fvox/blip get_egon acquired
+HEV_GAUSS fvox/blip get_gauss acquired
+HEV_XBOW fvox/blip get_crossbow acquired
+HEV_9MM fvox/blip get_9mmclip acquired
+HEV_44AMMO fvox/blip get_44ammo acquired
+HEV_BUCKSHOT fvox/blip get_buckshot acquired
+HEV_BOLTS fvox/blip get_bolts acquired
+HEV_RPGAMMO fvox/blip get_rpgammo acquired
+HEV_AGRENADE fvox/blip get_assaultgren acquired
+HEV_EGONPOWER fvox/blip get_egonpower acquired
+HEV_D00 fvox/fuzz fuzz(p130), power_restored
+HEV_D01 fvox/fuzz fuzz(p80), hev_shutdown
+HEV_0P fvox/fuzz fuzz, power_below five percent
+HEV_1P fvox/fuzz fuzz, power_restored(e30), ten percent
+HEV_2P fvox/fuzz fuzz, power_restored(e30), fifteen percent
+HEV_3P fvox/fuzz fuzz, power_restored(e30), twenty percent
+HEV_4P fvox/fuzz fuzz, power_restored(e30), twenty five percent
+HEV_5P fvox/fuzz fuzz, power_restored(e30), thirty percent
+HEV_6P fvox/fuzz fuzz, power_restored(e30), thirty five percent
+HEV_7P fvox/fuzz fuzz, power_restored(e30), fourty percent
+HEV_8P fvox/fuzz fuzz, power_restored(e30), fourty five percent
+HEV_9P fvox/fuzz fuzz, power_restored(e30), fifty percent
+HEV_10P fvox/fuzz fuzz, power_restored(e30), fifty five percent
+HEV_11P fvox/fuzz fuzz, power_restored(e30), sixty percent
+HEV_12P fvox/fuzz fuzz, power_restored(e30), sixty five percent
+HEV_13P fvox/fuzz fuzz, power_restored(e30), seventy percent
+HEV_14P fvox/fuzz fuzz, power_restored(e30), seventy five percent
+HEV_15P fvox/fuzz fuzz, power_restored(e30), eighty percent
+HEV_16P fvox/fuzz fuzz, power_restored(e30), eighty five percent
+HEV_17P fvox/fuzz fuzz, power_restored(e30), ninety percent
+HEV_18P fvox/fuzz fuzz, power_restored(e30), ninety five percent
+HEV_19P fvox/fuzz fuzz, power_level_is onehundred percent
+HEV_AMO0 fvox/blip ammo_depleted
+HEV_V0 fvox/blip, voice_on
+HEV_V1 fvox/blip, voice_off
+HEV_E0 fvox/buzz buzz, armor_gone
+HEV_E1 fvox/buzz, armor_gone
+HEV_E2 fvox/buzz, hev_critical_fail
+HEV_E3 fvox/buzz, hev_general_fail
+HEV_E4 fvox/buzz, hev_damage
+HEV_E5 fvox/buzz, powermove_overload
+HEV_DET0 fvox/blip blip blip, biohazard_detected
+HEV_DET1 fvox/blip blip blip, chemical_detected
+HEV_DET2 fvox/blip blip blip, radiation_detected
+HEV_DET3 fvox/blip blip blip, bio_reading
+HEV_DET4 fvox/blip blip blip, antitoxin_shot(e50), onehundred percent
+HEV_DET5 fvox/blip blip blip, antitoxin_shot(e25) radiation_detected(e50), onehundred percent
 BA_OK0 barney/teamup2
 BA_OK1 barney/dobettertogether
 BA_OK2 barney/imwithyou
@@ -1715,7 +1533,7 @@ BA_HELLO2 barney/howyoudoing
 BA_HELLO3 barney/haybuddy
 BA_HELLO4 barney/hayfella
 BA_HELLO5 barney/heybuddy
-BA_HELLO6 barney/heyfella
+BA_HELLO6 barney/somethingstinky
 BA_QUESTION0 barney/beertopside
 BA_QUESTION1 barney/wayout
 BA_QUESTION2 barney/getanyworse
@@ -1794,7 +1612,7 @@ BA_SHOT1 barney/ba_dotoyou
 BA_SHOT2 barney/ba_watchit
 BA_SHOT3 barney/ba_whatyou
 BA_SHOT4 barney/ba_friends
-BA_SHOT5 barney/ba_pissme
+BA_SHOT5 barney/ba_pissme(e80)
 BA_MAD0 barney/ba_stepoff
 BA_MAD1 barney/ba_iwish
 BA_MAD2 barney/ba_uwish
@@ -1888,7 +1706,7 @@ SC_STARE0 scientist/yees
 SC_STARE1 scientist/areyouthink
 SC_STARE2 scientist/noidea
 SC_HELLO0 scientist/hellothere
-SC_HELLO1 scientist/freemanalive
+SC_HELLO1 scientist/greetings
 SC_HELLO2 scientist/afellowsci
 SC_HELLO3 scientist/greetings2
 SC_HELLO4 scientist/hello
@@ -2040,7 +1858,7 @@ SC_SCREAM14 scientist/sci_fear15
 SC_SCARED0 scientist/whatyoudoing
 SC_SCARED1 scientist/stopattacking
 SC_SCARED2 scientist/youinsane
-SC_PHELLO0 scientist/hellofreeman
+SC_PHELLO0 scientist/hellothere
 SC_PHELLO1 scientist/greetings2
 SC_PHELLO2 scientist/goodtoseeyou
 SC_PHELLO3 scientist/greetings
@@ -2531,35 +2349,6 @@ RO_TELE_POWER2 bshift/rosenberg/ro_tele_power2
 RO_TELE_POWER3 bshift/rosenberg/ro_tele_power3
 RO_TELE_POWER4 bshift/rosenberg/ro_tele_power4
 RO_TELE_POWER5 bshift/rosenberg/ro_tele_power5
-ESHQ05_1 deeoo train tunnel lock activated
-ESHQ08_1 buzwarn buzwarn invasion detected on level four
-ESHQ09_1 bizwarn bizwarn warning. security system has been breached. all personnel must leave lab
-ESHQ09_2 bizwarn bizwarn warning. radiation hazard. main reactor is damaged
-ESHQ09_3 emergency shut down activated
-ESHQ16_1 buzwarn buzwarn warning. explosion in maintenance sector
-ESHQ16_2 bizwarn bizwarn warning. lab sector power supply malfunction. access lock activated
-ESHQ16_3 bizwarn bizwarn warning. lab sector security system malfunction. access has not been blocked
-ESHQ17_1 deeoo warning. lab sector secondary power supply activated. all cleanup and security personnel must go to lab sector
-ESHQ17_2 common/npc_step1(v50) npc_step2(v75) npc_step3(v100) npc_step4(v130) npc_step2 npc_step2 npc_step3 npc_step1 npc_step4(v100) npc_step3(v75) npc_step1(v50) npc_step4(v25)
-ESHQ17_3 bizwarn bizwarn alert. illegal heat detected in rocket silo maintenance zone
-ESHQ17_4 bizwarn bizwarn alert. open fire in lab sector detected
-ESHQ17_5 bizwarn bizwarn alert. lab sector call failure. danger to personnel life expected
-ESHQ17_6 player/pl_metal1 pl_metal3 pl_metal4(v80) pl_metal1(v60) pl_metal2(v40) pl_metal3(v20)
-ESHQ21_1 buzwarn buzwarn warning. forbidden life forms detected on level one
-ESHQ21_2 power supply failure expected
-ESHQ21_3 rocket has been activated
-ESHQ21_4 bizwarn bizwarn alert. rocket hit expected. all personnel must leave base
-ESHQ32_1 deeoo warning. control system malfunction. communication failure detected
-ESHQ32_2 deeoo alert. flooding of(p90) electric(p70)
-ESHQ40_1 bizwarn bizwarn alert. handling system malfunction. automatic control is down
-ESHQ41_1 bizwarn bizwarn biohazard alert. unauthorized life forms detected on level three
-ESHQ41_2 security lock down activated
-ESHQ43_1 bizwarn bizwarn alert. system control failure. command center is inoperative
-ESHQ43_2 bizwarn bizwarn high radiation alert. electromagnetic pipe is disengaged
-ESHQ58_1 woop woop inoperative weapon detected in sector four
-SC_PHELLO5 scientist/hellothere
-SC_PHELLO6 scientist/freeman
 }
 CUSTOMMATERIALS {
-../../maps/eshq_materials.txt
 }

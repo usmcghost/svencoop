@@ -1,0 +1,48 @@
+Angelscript log opened
+Server started logging Angelscript on map 'eshq27' at: 2018-09-20 12:25:09
+ERROR: c:/svends/svencoop/scripts/plugins/DynamicDifficulty7.as (7, 1) : Unexpected token '<'
+ERROR: c:/svends/svencoop/scripts/plugins/DynamicDifficulty7.as (301, 195) : Unexpected token '<string constant>'
+ERROR: c:/svends/svencoop/scripts/plugins/DynamicDifficulty7.as (432, 214) : Unexpected token '<string constant>'
+ERROR: c:/svends/svencoop/scripts/plugins/DynamicDifficulty7.as (438, 79) : Expected identifier
+ERROR: c:/svends/svencoop/scripts/plugins/DynamicDifficulty7.as (438, 79) : Instead found ':'
+ERROR: c:/svends/svencoop/scripts/plugins/DynamicDifficulty7.as (653, 285) : Unexpected token '<string constant>'
+ERROR: c:/svends/svencoop/scripts/plugins/DynamicDifficulty7.as (905, 71) : Unexpected token '<'
+ERROR: c:/svends/svencoop/scripts/plugins/DynamicDifficulty7.as (5368, 73) : Unexpected token '<'
+ERROR: c:/svends/svencoop/scripts/plugins/DynamicDifficulty7.as (5377, 113) : Unexpected token '<'
+ERROR: c:/svends/svencoop/scripts/plugins/DynamicDifficulty7.as (5381, 126) : Unexpected token '<'
+ERROR: c:/svends/svencoop/scripts/plugins/DynamicDifficulty7.as (5381, 197) : Unexpected token '<'
+ERROR: c:/svends/svencoop/scripts/plugins/DynamicDifficulty7.as (5381, 222) : Unexpected token '<'
+ERROR: c:/svends/svencoop/scripts/plugins/DynamicDifficulty7.as (5462, 73) : Unexpected token '<'
+ERROR: c:/svends/svencoop/scripts/plugins/DynamicDifficulty7.as (5545, 73) : Unexpected token '<'
+ERROR: c:/svends/svencoop/scripts/plugins/DynamicDifficulty7.as (5562, 73) : Unexpected token '<'
+ERROR: c:/svends/svencoop/scripts/plugins/DynamicDifficulty7.as (5625, 73) : Unexpected token '<'
+ERROR: c:/svends/svencoop/scripts/plugins/DynamicDifficulty7.as (5739, 73) : Unexpected token '<'
+ERROR: c:/svends/svencoop/scripts/plugins/DynamicDifficulty7.as (6226, 73) : Unexpected token '<'
+ERROR: c:/svends/svencoop/scripts/plugins/DynamicDifficulty7.as (6251, 73) : Unexpected token '<'
+ERROR: Plugin script compilation failed
+1 Plugin(s) failed compilation
+Server stopped logging Angelscript at: 2018-09-20 12:26:58
+Angelscript log opened
+Server started logging Angelscript on map 'osprey' at: 2018-09-20 12:36:00
+ERROR: c:/svends/svencoop/scripts/plugins/DynamicDifficulty7.as (7, 1) : Unexpected token '<'
+ERROR: c:/svends/svencoop/scripts/plugins/DynamicDifficulty7.as (301, 195) : Unexpected token '<string constant>'
+ERROR: c:/svends/svencoop/scripts/plugins/DynamicDifficulty7.as (432, 214) : Unexpected token '<string constant>'
+ERROR: c:/svends/svencoop/scripts/plugins/DynamicDifficulty7.as (438, 79) : Expected identifier
+ERROR: c:/svends/svencoop/scripts/plugins/DynamicDifficulty7.as (438, 79) : Instead found ':'
+ERROR: c:/svends/svencoop/scripts/plugins/DynamicDifficulty7.as (653, 285) : Unexpected token '<string constant>'
+ERROR: c:/svends/svencoop/scripts/plugins/DynamicDifficulty7.as (905, 71) : Unexpected token '<'
+ERROR: c:/svends/svencoop/scripts/plugins/DynamicDifficulty7.as (5368, 73) : Unexpected token '<'
+ERROR: c:/svends/svencoop/scripts/plugins/DynamicDifficulty7.as (5377, 113) : Unexpected token '<'
+ERROR: c:/svends/svencoop/scripts/plugins/DynamicDifficulty7.as (5381, 126) : Unexpected token '<'
+ERROR: c:/svends/svencoop/scripts/plugins/DynamicDifficulty7.as (5381, 197) : Unexpected token '<'
+ERROR: c:/svends/svencoop/scripts/plugins/DynamicDifficulty7.as (5381, 222) : Unexpected token '<'
+ERROR: c:/svends/svencoop/scripts/plugins/DynamicDifficulty7.as (5462, 73) : Unexpected token '<'
+ERROR: c:/svends/svencoop/scripts/plugins/DynamicDifficulty7.as (5545, 73) : Unexpected token '<'
+ERROR: c:/svends/svencoop/scripts/plugins/DynamicDifficulty7.as (5562, 73) : Unexpected token '<'
+ERROR: c:/svends/svencoop/scripts/plugins/DynamicDifficulty7.as (5625, 73) : Unexpected token '<'
+ERROR: c:/svends/svencoop/scripts/plugins/DynamicDifficulty7.as (5739, 73) : Unexpected token '<'
+ERROR: c:/svends/svencoop/scripts/plugins/DynamicDifficulty7.as (6226, 73) : Unexpected token '<'
+ERROR: c:/svends/svencoop/scripts/plugins/DynamicDifficulty7.as (6251, 73) : Unexpected token '<'
+ERROR: Plugin script compilation failed
+1 Plugin(s) failed compilation
+Server stopped logging Angelscript at: 2018-09-20 12:38:51

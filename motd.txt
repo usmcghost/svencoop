@@ -1,3 +1,15 @@
-This server is running Sven Co-op v5.0
+Welcome to USA East Coast Svencoop
 
-http://www.svencoop.com/
+Plugins currently in use:
+
+ChatSounds(type .listsounds in console)
+SimpleGlow (type !glow <color> in chat)
+Vox (type !vox <message> in chat)
+
+Admin:
+
+kek
+
+Steam Group Page:
+
+None yet.  Please come back soon!

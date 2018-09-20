@@ -1,67 +1,26 @@
-//========================================
-//
-//	This file lists all plugins that are loaded by the game
-//	Plugins use Angelscript
-//
-//========================================
 "plugins"
 {
-    "plugin"
-    {
-        "name" "Nightvision"
-        "script" "Nightvision"
-    }
-    "plugin"
-    {
-        "name" "AFKManager"
-        "script" "AFKManager"
-        "concommandns" "afkm"
-    }
-	"plugin"
+	 "plugin"
 	{
-		"name" "AntiRush"
-		"script" "AntiRush"
-		"concommandns" "rush"
+		     "name" "AntiRush"
+	     	 "script" "AntiRush"
+		     "concommandns" "rush"
 	}
 
      "plugin"
-     {
+    {
              "name" "SimpleGlow"
              "script" "Zode/SimpleGlow"
              "concommandns" "sglow"
-     }
-    "plugin"
-    {
-        "name" "InfiniteFlashlight"
-        "script" "InfiniteFlashlight"
-        "concommandns" "ifl"
     }
-
-        "plugin"
-        {
-                "name" "ChatSounds"
-                "script" "ChatSounds"
-        }
-    "plugin"
+     "plugin"
     {
-        "name" "AFBase"
-        "script" "AFBase"
-    }  
-	"plugin"
+             "name" "ChatSounds"
+             "script" "ChatSounds"
+    }
+	 "plugin"
 	{
-		"name" "Dropper"
-		"script" "CubeMath/Dropper"
-	}
-	
-	"plugin"
-	{
-		"name" "SinkingShip"
-		"script" "cubemath/SinkingShip2"
-	}
-	"plugin"
-	{
-		"name" "EntityManager"
-		"script" "EntityManager"
-		"concommandns" "entmngr"
+			 "name" "Vox"
+			 "script" "Vox"
 	}
 }

@@ -22,3 +22,39 @@ ERROR: c:/svends/svencoop/scripts/plugins/InfiniteFlashlight.as (494, 1) : Unexp
 ERROR: Plugin script compilation failed
 2 Plugin(s) failed compilation
 Server stopped logging Angelscript at: 2018-09-19 00:26:33
+Angelscript log opened
+Server started logging Angelscript on map 'stadium4' at: 2018-09-19 00:27:43
+ERROR: c:/svends/svencoop/scripts/plugins/AFKManager.as (7, 1) : Unexpected token '<'
+ERROR: c:/svends/svencoop/scripts/plugins/AFKManager.as (444, 193) : Unexpected token '<string constant>'
+ERROR: c:/svends/svencoop/scripts/plugins/AFKManager.as (495, 1) : Unexpected token '<'
+ERROR: Plugin script compilation failed
+ERROR: c:/svends/svencoop/scripts/plugins/InfiniteFlashlight.as (7, 1) : Unexpected token '<'
+ERROR: c:/svends/svencoop/scripts/plugins/InfiniteFlashlight.as (444, 193) : Unexpected token '<string constant>'
+ERROR: c:/svends/svencoop/scripts/plugins/InfiniteFlashlight.as (494, 1) : Unexpected token '<'
+ERROR: Plugin script compilation failed
+2 Plugin(s) failed compilation
+Server stopped logging Angelscript at: 2018-09-19 00:30:32
+Angelscript log opened
+Server started logging Angelscript on map 'stadium4' at: 2018-09-19 00:34:02
+ERROR: c:/svends/svencoop/scripts/plugins/AFKManager.as (7, 1) : Unexpected token '<'
+ERROR: c:/svends/svencoop/scripts/plugins/AFKManager.as (444, 193) : Unexpected token '<string constant>'
+ERROR: c:/svends/svencoop/scripts/plugins/AFKManager.as (495, 1) : Unexpected token '<'
+ERROR: Plugin script compilation failed
+ERROR: c:/svends/svencoop/scripts/plugins/InfiniteFlashlight.as (7, 1) : Unexpected token '<'
+ERROR: c:/svends/svencoop/scripts/plugins/InfiniteFlashlight.as (444, 193) : Unexpected token '<string constant>'
+ERROR: c:/svends/svencoop/scripts/plugins/InfiniteFlashlight.as (494, 1) : Unexpected token '<'
+ERROR: Plugin script compilation failed
+2 Plugin(s) failed compilation
+Server stopped logging Angelscript at: 2018-09-19 00:36:08
+Angelscript log opened
+Server started logging Angelscript on map 'suspension' at: 2018-09-19 00:36:13
+ERROR: c:/svends/svencoop/scripts/plugins/AFKManager.as (7, 1) : Unexpected token '<'
+ERROR: c:/svends/svencoop/scripts/plugins/AFKManager.as (444, 193) : Unexpected token '<string constant>'
+ERROR: c:/svends/svencoop/scripts/plugins/AFKManager.as (495, 1) : Unexpected token '<'
+ERROR: Plugin script compilation failed
+ERROR: c:/svends/svencoop/scripts/plugins/InfiniteFlashlight.as (7, 1) : Unexpected token '<'
+ERROR: c:/svends/svencoop/scripts/plugins/InfiniteFlashlight.as (444, 193) : Unexpected token '<string constant>'
+ERROR: c:/svends/svencoop/scripts/plugins/InfiniteFlashlight.as (494, 1) : Unexpected token '<'
+ERROR: Plugin script compilation failed
+2 Plugin(s) failed compilation
+Server stopped logging Angelscript at: 2018-09-19 00:38:20

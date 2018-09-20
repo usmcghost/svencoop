@@ -87,3 +87,434 @@ L 19/09/2018 - 00:26:24: [AFB] User kek connected from 47.132.2.210:27005
 L 19/09/2018 - 00:26:24: "kek<3><STEAM_0:1:105068535><>" STEAM USERID validated
 L 19/09/2018 - 00:26:33: Server shutdown
 L 19/09/2018 - 00:26:33: Log file closed
+L 19/09/2018 - 00:27:43: Log file started (file "logs\2018-09-19.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 19/09/2018 - 00:27:43: [AFB] AFBase 1.3.2 PUBLIC - Plugin init
+L 19/09/2018 - 00:27:43: [AFB] Loading expansions.
+L 19/09/2018 - 00:27:43: [AFB] Registering expansion: AdminFuckery Base (SID: AFB) by Zode
+L 19/09/2018 - 00:27:43: [AFB] Registering expansion: AdminFuckery2 Player Commands (SID: AF2P) by Zode
+L 19/09/2018 - 00:27:43: [AFB] Registering expansion: AdminFuckery2 Entity Commands (SID: AF2E) by Zode
+L 19/09/2018 - 00:27:43: [AFB] Registering expansion: AdminFuckery2 Fun Commands (SID: AF2F) by Zode
+L 19/09/2018 - 00:27:43: [AFB] Expansions loaded!
+L 19/09/2018 - 00:27:43: Server cvar "sv_maxspeed" = "270"
+L 19/09/2018 - 00:27:44: [AFB] Map init.
+L 19/09/2018 - 00:27:45: Started map "stadium4" (CRC "-1537396155")
+L 19/09/2018 - 00:27:45: Server cvar "sv_voiceenable" = "1"
+L 19/09/2018 - 00:27:45: Server cvar "sv_voiceenable" = "0"
+L 19/09/2018 - 00:27:45: Log file closed
+L 19/09/2018 - 00:27:45: Log file started (file "logs\2018-09-19.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 19/09/2018 - 00:27:55: "kek<1><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 19/09/2018 - 00:27:55: [AFB] User kek connected from 47.132.2.210:27005
+L 19/09/2018 - 00:27:55: "kek<1><STEAM_0:1:105068535><>" STEAM USERID validated
+L 19/09/2018 - 00:27:57: "kek<2><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 19/09/2018 - 00:27:58: [AFB] User kek connected from 47.132.2.210:27005
+L 19/09/2018 - 00:27:58: "kek<2><STEAM_0:1:105068535><>" STEAM USERID validated
+L 19/09/2018 - 00:28:02: [AFB] Granted access (abcdefghijklmnopqrstuvwyxz) to STEAM_0:1:105068535
+L 19/09/2018 - 00:28:02: "kek<2><STEAM_0:1:105068535><players>" has entered the game
+L 19/09/2018 - 00:28:13: "USCGghost<3><STEAM_0:1:8852493><>" connected, address "24.44.128.197:27005"
+L 19/09/2018 - 00:28:13: [AFB] User USCGghost connected from 24.44.128.197:27005
+L 19/09/2018 - 00:28:13: "USCGghost<3><STEAM_0:1:8852493><>" STEAM USERID validated
+L 19/09/2018 - 00:28:32: "kek<2><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="100" 
+L 19/09/2018 - 00:28:43: "USCGghost<4><STEAM_0:1:8852493><>" connected, address "24.44.128.197:27005"
+L 19/09/2018 - 00:28:43: [AFB] User USCGghost connected from 24.44.128.197:27005
+L 19/09/2018 - 00:28:43: "USCGghost<4><STEAM_0:1:8852493><>" STEAM USERID validated
+L 19/09/2018 - 00:28:48: "USCGghost<5><STEAM_0:1:8852493><>" connected, address "24.44.128.197:27005"
+L 19/09/2018 - 00:28:48: [AFB] User USCGghost connected from 24.44.128.197:27005
+L 19/09/2018 - 00:28:48: "USCGghost<5><STEAM_0:1:8852493><>" STEAM USERID validated
+L 19/09/2018 - 00:29:02: "kek<2><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="100" 
+L 19/09/2018 - 00:29:07: "USCGghost<6><STEAM_0:1:8852493><>" connected, address "24.44.128.197:27005"
+L 19/09/2018 - 00:29:07: [AFB] User USCGghost connected from 24.44.128.197:27005
+L 19/09/2018 - 00:29:07: "USCGghost<6><STEAM_0:1:8852493><>" STEAM USERID validated
+L 19/09/2018 - 00:29:11: "USCGghost<7><STEAM_0:1:8852493><>" connected, address "24.44.128.197:27005"
+L 19/09/2018 - 00:29:11: [AFB] User USCGghost connected from 24.44.128.197:27005
+L 19/09/2018 - 00:29:11: "USCGghost<7><STEAM_0:1:8852493><>" STEAM USERID validated
+L 19/09/2018 - 00:29:29: "USCGghost<8><STEAM_0:1:8852493><>" connected, address "24.44.128.197:27005"
+L 19/09/2018 - 00:29:30: [AFB] User USCGghost connected from 24.44.128.197:27005
+L 19/09/2018 - 00:29:30: "USCGghost<8><STEAM_0:1:8852493><>" STEAM USERID validated
+L 19/09/2018 - 00:29:32: "kek<2><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="100" 
+L 19/09/2018 - 00:29:33: "USCGghost<9><STEAM_0:1:8852493><>" connected, address "24.44.128.197:27005"
+L 19/09/2018 - 00:29:33: [AFB] User USCGghost connected from 24.44.128.197:27005
+L 19/09/2018 - 00:29:33: "USCGghost<9><STEAM_0:1:8852493><>" STEAM USERID validated
+L 19/09/2018 - 00:30:02: "kek<2><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="100" 
+L 19/09/2018 - 00:30:28: "kek<2><STEAM_0:1:105068535><players>" disconnected
+L 19/09/2018 - 00:30:32: Server shutdown
+L 19/09/2018 - 00:30:32: Log file closed
+L 19/09/2018 - 00:30:47: Log file started (file "logs\2018-09-19.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 19/09/2018 - 00:31:02: Server shutdown
+L 19/09/2018 - 00:31:02: Log file closed
+L 19/09/2018 - 00:31:05: Log file started (file "logs\2018-09-19.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 19/09/2018 - 00:31:36: Server shutdown
+L 19/09/2018 - 00:31:36: Log file closed
+L 19/09/2018 - 00:32:26: Log file started (file "logs\2018-09-19.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 19/09/2018 - 00:33:02: Server shutdown
+L 19/09/2018 - 00:33:02: Log file closed
+L 19/09/2018 - 00:33:11: Log file started (file "logs\2018-09-19.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 19/09/2018 - 00:33:32: Server shutdown
+L 19/09/2018 - 00:33:32: Log file closed
+L 19/09/2018 - 00:34:02: Log file started (file "logs\2018-09-19.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 19/09/2018 - 00:34:02: [AFB] AFBase 1.3.2 PUBLIC - Plugin init
+L 19/09/2018 - 00:34:02: [AFB] Loading expansions.
+L 19/09/2018 - 00:34:02: [AFB] Registering expansion: AdminFuckery Base (SID: AFB) by Zode
+L 19/09/2018 - 00:34:02: [AFB] Registering expansion: AdminFuckery2 Player Commands (SID: AF2P) by Zode
+L 19/09/2018 - 00:34:02: [AFB] Registering expansion: AdminFuckery2 Entity Commands (SID: AF2E) by Zode
+L 19/09/2018 - 00:34:02: [AFB] Registering expansion: AdminFuckery2 Fun Commands (SID: AF2F) by Zode
+L 19/09/2018 - 00:34:02: [AFB] Expansions loaded!
+L 19/09/2018 - 00:34:02: Server cvar "sv_maxspeed" = "270"
+L 19/09/2018 - 00:34:03: [AFB] Map init.
+L 19/09/2018 - 00:34:04: Started map "stadium4" (CRC "-1537396155")
+L 19/09/2018 - 00:34:04: Server cvar "sv_voiceenable" = "1"
+L 19/09/2018 - 00:34:04: Server cvar "sv_voiceenable" = "0"
+L 19/09/2018 - 00:34:04: Log file closed
+L 19/09/2018 - 00:34:04: Log file started (file "logs\2018-09-19.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 19/09/2018 - 00:34:15: "kek<1><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 19/09/2018 - 00:34:15: [AFB] User kek connected from 47.132.2.210:27005
+L 19/09/2018 - 00:34:16: "kek<1><STEAM_0:1:105068535><>" STEAM USERID validated
+L 19/09/2018 - 00:34:18: "kek<2><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 19/09/2018 - 00:34:18: [AFB] User kek connected from 47.132.2.210:27005
+L 19/09/2018 - 00:34:18: "kek<2><STEAM_0:1:105068535><>" STEAM USERID validated
+L 19/09/2018 - 00:34:22: [AFB] Granted access (abcdefghijklmnopqrstuvwyxz) to STEAM_0:1:105068535
+L 19/09/2018 - 00:34:22: "kek<2><STEAM_0:1:105068535><players>" has entered the game
+L 19/09/2018 - 00:34:35: "USCGghost<3><STEAM_0:1:8852493><>" connected, address "24.44.128.197:27005"
+L 19/09/2018 - 00:34:35: [AFB] User USCGghost connected from 24.44.128.197:27005
+L 19/09/2018 - 00:34:35: "USCGghost<3><STEAM_0:1:8852493><>" STEAM USERID validated
+L 19/09/2018 - 00:34:39: "USCGghost<4><STEAM_0:1:8852493><>" connected, address "24.44.128.197:27005"
+L 19/09/2018 - 00:34:39: [AFB] User USCGghost connected from 24.44.128.197:27005
+L 19/09/2018 - 00:34:39: "USCGghost<4><STEAM_0:1:8852493><>" STEAM USERID validated
+L 19/09/2018 - 00:34:52: "kek<2><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="92" 
+L 19/09/2018 - 00:35:00: "USCGghost<5><STEAM_0:1:8852493><>" connected, address "24.44.128.197:27005"
+L 19/09/2018 - 00:35:00: [AFB] User USCGghost connected from 24.44.128.197:27005
+L 19/09/2018 - 00:35:00: "USCGghost<5><STEAM_0:1:8852493><>" STEAM USERID validated
+L 19/09/2018 - 00:35:04: "USCGghost<6><STEAM_0:1:8852493><>" connected, address "24.44.128.197:27005"
+L 19/09/2018 - 00:35:04: [AFB] User USCGghost connected from 24.44.128.197:27005
+L 19/09/2018 - 00:35:04: "USCGghost<6><STEAM_0:1:8852493><>" STEAM USERID validated
+L 19/09/2018 - 00:35:22: "kek<2><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="92" 
+L 19/09/2018 - 00:35:23: "kek<2><STEAM_0:1:105068535><players>" disconnected
+L 19/09/2018 - 00:36:08: Server shutdown
+L 19/09/2018 - 00:36:08: Log file closed
+L 19/09/2018 - 00:36:13: Log file started (file "logs\2018-09-19.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 19/09/2018 - 00:36:13: [AFB] AFBase 1.3.2 PUBLIC - Plugin init
+L 19/09/2018 - 00:36:13: [AFB] Loading expansions.
+L 19/09/2018 - 00:36:13: [AFB] Registering expansion: AdminFuckery Base (SID: AFB) by Zode
+L 19/09/2018 - 00:36:13: [AFB] Registering expansion: AdminFuckery2 Player Commands (SID: AF2P) by Zode
+L 19/09/2018 - 00:36:13: [AFB] Registering expansion: AdminFuckery2 Entity Commands (SID: AF2E) by Zode
+L 19/09/2018 - 00:36:13: [AFB] Registering expansion: AdminFuckery2 Fun Commands (SID: AF2F) by Zode
+L 19/09/2018 - 00:36:13: [AFB] Expansions loaded!
+L 19/09/2018 - 00:36:14: Server cvar "mp_banana" = "0"
+L 19/09/2018 - 00:36:14: Server cvar "sv_maxspeed" = "270"
+L 19/09/2018 - 00:36:17: [AFB] Map init.
+L 19/09/2018 - 00:36:18: Started map "suspension" (CRC "972486897")
+L 19/09/2018 - 00:36:18: Server cvar "sv_voiceenable" = "1"
+L 19/09/2018 - 00:36:18: Server cvar "sv_voiceenable" = "0"
+L 19/09/2018 - 00:36:18: Log file closed
+L 19/09/2018 - 00:36:18: Log file started (file "logs\2018-09-19.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 19/09/2018 - 00:36:28: "kek<1><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 19/09/2018 - 00:36:28: [AFB] User kek connected from 47.132.2.210:27005
+L 19/09/2018 - 00:36:28: "kek<1><STEAM_0:1:105068535><>" STEAM USERID validated
+L 19/09/2018 - 00:36:30: "kek<2><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 19/09/2018 - 00:36:30: [AFB] User kek connected from 47.132.2.210:27005
+L 19/09/2018 - 00:36:30: "kek<2><STEAM_0:1:105068535><>" STEAM USERID validated
+L 19/09/2018 - 00:36:34: [AFB] Granted access (abcdefghijklmnopqrstuvwyxz) to STEAM_0:1:105068535
+L 19/09/2018 - 00:36:34: "kek<2><STEAM_0:1:105068535><players>" has entered the game
+L 19/09/2018 - 00:37:04: "kek<2><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="100" 
+L 19/09/2018 - 00:37:31: "USCGghost<3><STEAM_0:1:8852493><>" connected, address "24.44.128.197:27005"
+L 19/09/2018 - 00:37:31: [AFB] User USCGghost connected from 24.44.128.197:27005
+L 19/09/2018 - 00:37:31: "USCGghost<3><STEAM_0:1:8852493><>" STEAM USERID validated
+L 19/09/2018 - 00:37:34: "kek<2><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="100" 
+L 19/09/2018 - 00:37:35: "USCGghost<4><STEAM_0:1:8852493><>" connected, address "24.44.128.197:27005"
+L 19/09/2018 - 00:37:35: [AFB] User USCGghost connected from 24.44.128.197:27005
+L 19/09/2018 - 00:37:35: "USCGghost<4><STEAM_0:1:8852493><>" STEAM USERID validated
+L 19/09/2018 - 00:38:04: "kek<2><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="100" 
+L 19/09/2018 - 00:38:20: Server shutdown
+L 19/09/2018 - 00:38:20: Log file closed
+L 19/09/2018 - 00:39:37: Log file started (file "logs\2018-09-19.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 19/09/2018 - 00:39:37: [AFB] AFBase 1.3.2 PUBLIC - Plugin init
+L 19/09/2018 - 00:39:37: [AFB] Loading expansions.
+L 19/09/2018 - 00:39:37: [AFB] Registering expansion: AdminFuckery Base (SID: AFB) by Zode
+L 19/09/2018 - 00:39:37: [AFB] Registering expansion: AdminFuckery2 Player Commands (SID: AF2P) by Zode
+L 19/09/2018 - 00:39:37: [AFB] Registering expansion: AdminFuckery2 Entity Commands (SID: AF2E) by Zode
+L 19/09/2018 - 00:39:37: [AFB] Registering expansion: AdminFuckery2 Fun Commands (SID: AF2F) by Zode
+L 19/09/2018 - 00:39:37: [AFB] Expansions loaded!
+L 19/09/2018 - 00:39:37: Server cvar "sv_maxspeed" = "270"
+L 19/09/2018 - 00:39:38: [AFB] Map init.
+L 19/09/2018 - 00:39:39: Started map "stadium4" (CRC "-1537396155")
+L 19/09/2018 - 00:39:39: Server cvar "sv_voiceenable" = "1"
+L 19/09/2018 - 00:39:39: Server cvar "sv_voiceenable" = "0"
+L 19/09/2018 - 00:39:39: Log file closed
+L 19/09/2018 - 00:39:39: Log file started (file "logs\2018-09-19.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 19/09/2018 - 00:39:42: "kek<1><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 19/09/2018 - 00:39:42: [AFB] User kek connected from 47.132.2.210:27005
+L 19/09/2018 - 00:39:43: "kek<1><STEAM_0:1:105068535><>" STEAM USERID validated
+L 19/09/2018 - 00:39:45: [AFB] Granted access (abcdefghijklmnopqrstuvwyxz) to STEAM_0:1:105068535
+L 19/09/2018 - 00:39:45: "kek<1><STEAM_0:1:105068535><players>" has entered the game
+L 19/09/2018 - 00:39:54: "USCGghost<2><STEAM_0:1:8852493><>" connected, address "24.44.128.197:27005"
+L 19/09/2018 - 00:39:54: [AFB] User USCGghost connected from 24.44.128.197:27005
+L 19/09/2018 - 00:39:54: "USCGghost<2><STEAM_0:1:8852493><>" STEAM USERID validated
+L 19/09/2018 - 00:39:57: "USCGghost<3><STEAM_0:1:8852493><>" connected, address "24.44.128.197:27005"
+L 19/09/2018 - 00:39:58: [AFB] User USCGghost connected from 24.44.128.197:27005
+L 19/09/2018 - 00:39:58: "USCGghost<3><STEAM_0:1:8852493><>" STEAM USERID validated
+L 19/09/2018 - 00:40:15: "kek<1><STEAM_0:1:105068535><players>" disconnected
+L 19/09/2018 - 00:41:11: Server shutdown
+L 19/09/2018 - 00:41:11: Log file closed
+L 19/09/2018 - 00:41:31: Log file started (file "logs\2018-09-19.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 19/09/2018 - 00:41:32: [AFB] AFBase 1.3.2 PUBLIC - Plugin init
+L 19/09/2018 - 00:41:32: [AFB] Loading expansions.
+L 19/09/2018 - 00:41:32: [AFB] Registering expansion: AdminFuckery Base (SID: AFB) by Zode
+L 19/09/2018 - 00:41:32: [AFB] Registering expansion: AdminFuckery2 Player Commands (SID: AF2P) by Zode
+L 19/09/2018 - 00:41:32: [AFB] Registering expansion: AdminFuckery2 Entity Commands (SID: AF2E) by Zode
+L 19/09/2018 - 00:41:32: [AFB] Registering expansion: AdminFuckery2 Fun Commands (SID: AF2F) by Zode
+L 19/09/2018 - 00:41:32: [AFB] Expansions loaded!
+L 19/09/2018 - 00:41:32: Server cvar "sv_maxspeed" = "230"
+L 19/09/2018 - 00:41:32: Server cvar "sv_airaccelerate" = "2"
+L 19/09/2018 - 00:41:32: [AFB] Map init.
+L 19/09/2018 - 00:41:33: Started map "poke646_lobby" (CRC "1696333814")
+L 19/09/2018 - 00:41:33: Server cvar "sv_voiceenable" = "1"
+L 19/09/2018 - 00:41:33: Server cvar "sv_voiceenable" = "0"
+L 19/09/2018 - 00:41:33: Log file closed
+L 19/09/2018 - 00:41:33: Log file started (file "logs\2018-09-19.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 19/09/2018 - 00:41:44: "kek<1><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 19/09/2018 - 00:41:44: [AFB] User kek connected from 47.132.2.210:27005
+L 19/09/2018 - 00:41:44: "kek<1><STEAM_0:1:105068535><>" STEAM USERID validated
+L 19/09/2018 - 00:42:06: "kek<2><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 19/09/2018 - 00:42:06: [AFB] User kek connected from 47.132.2.210:27005
+L 19/09/2018 - 00:42:06: "kek<2><STEAM_0:1:105068535><>" STEAM USERID validated
+L 19/09/2018 - 00:42:21: Server shutdown
+L 19/09/2018 - 00:42:21: Log file closed
+L 19/09/2018 - 00:42:41: Log file started (file "logs\2018-09-19.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 19/09/2018 - 00:42:41: [AFB] AFBase 1.3.2 PUBLIC - Plugin init
+L 19/09/2018 - 00:42:41: [AFB] Loading expansions.
+L 19/09/2018 - 00:42:41: [AFB] Registering expansion: AdminFuckery Base (SID: AFB) by Zode
+L 19/09/2018 - 00:42:41: [AFB] Registering expansion: AdminFuckery2 Player Commands (SID: AF2P) by Zode
+L 19/09/2018 - 00:42:41: [AFB] Registering expansion: AdminFuckery2 Entity Commands (SID: AF2E) by Zode
+L 19/09/2018 - 00:42:41: [AFB] Registering expansion: AdminFuckery2 Fun Commands (SID: AF2F) by Zode
+L 19/09/2018 - 00:42:41: [AFB] Expansions loaded!
+L 19/09/2018 - 00:42:41: Server cvar "mp_banana" = "0"
+L 19/09/2018 - 00:42:41: Server cvar "sv_gravity" = "750"
+L 19/09/2018 - 00:42:41: Server cvar "sv_maxspeed" = "270"
+L 19/09/2018 - 00:42:41: [AFB] Map init.
+L 19/09/2018 - 00:42:42: Started map "eshq27" (CRC "-320390915")
+L 19/09/2018 - 00:42:42: Server cvar "sv_voiceenable" = "1"
+L 19/09/2018 - 00:42:42: Server cvar "sv_voiceenable" = "0"
+L 19/09/2018 - 00:42:42: Log file closed
+L 19/09/2018 - 00:42:42: Log file started (file "logs\2018-09-19.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 19/09/2018 - 00:42:45: "kek<1><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 19/09/2018 - 00:42:45: [AFB] User kek connected from 47.132.2.210:27005
+L 19/09/2018 - 00:42:46: "kek<1><STEAM_0:1:105068535><>" STEAM USERID validated
+L 19/09/2018 - 00:42:47: "kek<2><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 19/09/2018 - 00:42:47: [AFB] User kek connected from 47.132.2.210:27005
+L 19/09/2018 - 00:42:48: "kek<2><STEAM_0:1:105068535><>" STEAM USERID validated
+L 19/09/2018 - 00:42:51: [AFB] Granted access (abcdefghijklmnopqrstuvwyxz) to STEAM_0:1:105068535
+L 19/09/2018 - 00:42:51: "kek<2><STEAM_0:1:105068535><players>" has entered the game
+L 19/09/2018 - 00:43:09: "USCGghost<3><STEAM_0:1:8852493><>" connected, address "24.44.128.197:27005"
+L 19/09/2018 - 00:43:09: [AFB] User USCGghost connected from 24.44.128.197:27005
+L 19/09/2018 - 00:43:09: "USCGghost<3><STEAM_0:1:8852493><>" STEAM USERID validated
+L 19/09/2018 - 00:43:15: "USCGghost<4><STEAM_0:1:8852493><>" connected, address "24.44.128.197:27005"
+L 19/09/2018 - 00:43:16: [AFB] User USCGghost connected from 24.44.128.197:27005
+L 19/09/2018 - 00:43:16: "USCGghost<4><STEAM_0:1:8852493><>" STEAM USERID validated
+L 19/09/2018 - 00:43:21: "kek<2><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="100" 
+L 19/09/2018 - 00:43:41: "USCGghost<5><STEAM_0:1:8852493><>" connected, address "24.44.128.197:27005"
+L 19/09/2018 - 00:43:41: [AFB] User USCGghost connected from 24.44.128.197:27005
+L 19/09/2018 - 00:43:41: "USCGghost<5><STEAM_0:1:8852493><>" STEAM USERID validated
+L 19/09/2018 - 00:43:47: Server shutdown
+L 19/09/2018 - 00:43:47: Log file closed
+L 19/09/2018 - 00:43:56: Log file started (file "logs\2018-09-19.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 19/09/2018 - 00:43:56: [AFB] AFBase 1.3.2 PUBLIC - Plugin init
+L 19/09/2018 - 00:43:56: [AFB] Loading expansions.
+L 19/09/2018 - 00:43:56: [AFB] Registering expansion: AdminFuckery Base (SID: AFB) by Zode
+L 19/09/2018 - 00:43:56: [AFB] Registering expansion: AdminFuckery2 Player Commands (SID: AF2P) by Zode
+L 19/09/2018 - 00:43:56: [AFB] Registering expansion: AdminFuckery2 Entity Commands (SID: AF2E) by Zode
+L 19/09/2018 - 00:43:56: [AFB] Registering expansion: AdminFuckery2 Fun Commands (SID: AF2F) by Zode
+L 19/09/2018 - 00:43:56: [AFB] Expansions loaded!
+L 19/09/2018 - 00:43:56: Server cvar "sv_maxspeed" = "270"
+L 19/09/2018 - 00:43:57: [AFB] Map init.
+L 19/09/2018 - 00:43:58: Started map "hl_c00" (CRC "-549465392")
+L 19/09/2018 - 00:43:58: Server cvar "sv_voiceenable" = "1"
+L 19/09/2018 - 00:43:58: Server cvar "sv_voiceenable" = "0"
+L 19/09/2018 - 00:43:58: Log file closed
+L 19/09/2018 - 00:43:58: Log file started (file "logs\2018-09-19.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 19/09/2018 - 00:44:01: "kek<1><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 19/09/2018 - 00:44:01: [AFB] User kek connected from 47.132.2.210:27005
+L 19/09/2018 - 00:44:02: "kek<1><STEAM_0:1:105068535><>" STEAM USERID validated
+L 19/09/2018 - 00:44:04: "kek<2><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 19/09/2018 - 00:44:04: [AFB] User kek connected from 47.132.2.210:27005
+L 19/09/2018 - 00:44:04: "kek<2><STEAM_0:1:105068535><>" STEAM USERID validated
+L 19/09/2018 - 00:44:07: [AFB] Granted access (abcdefghijklmnopqrstuvwyxz) to STEAM_0:1:105068535
+L 19/09/2018 - 00:44:07: "kek<2><STEAM_0:1:105068535><players>" has entered the game
+L 19/09/2018 - 00:44:10: "USCGghost<3><STEAM_0:1:8852493><>" connected, address "24.44.128.197:27005"
+L 19/09/2018 - 00:44:10: [AFB] User USCGghost connected from 24.44.128.197:27005
+L 19/09/2018 - 00:44:11: "USCGghost<3><STEAM_0:1:8852493><>" STEAM USERID validated
+L 19/09/2018 - 00:44:14: "USCGghost<4><STEAM_0:1:8852493><>" connected, address "24.44.128.197:27005"
+L 19/09/2018 - 00:44:14: [AFB] User USCGghost connected from 24.44.128.197:27005
+L 19/09/2018 - 00:44:14: "USCGghost<4><STEAM_0:1:8852493><>" STEAM USERID validated
+L 19/09/2018 - 00:44:27: "kek<2><STEAM_0:1:105068535><players>" disconnected
+L 19/09/2018 - 00:44:32: Server shutdown
+L 19/09/2018 - 00:44:32: Log file closed
+L 19/09/2018 - 00:47:45: Log file started (file "logs\2018-09-19.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 19/09/2018 - 00:47:45: Server cvar "sv_maxspeed" = "270"
+L 19/09/2018 - 00:47:46: Started map "osprey" (CRC "1324875629")
+L 19/09/2018 - 00:47:46: Server cvar "sv_voiceenable" = "1"
+L 19/09/2018 - 00:47:47: Server cvar "sv_voiceenable" = "0"
+L 19/09/2018 - 00:47:47: Log file closed
+L 19/09/2018 - 00:47:47: Log file started (file "logs\2018-09-19.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 19/09/2018 - 00:47:55: "kek<1><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 19/09/2018 - 00:47:55: "kek<1><STEAM_0:1:105068535><>" STEAM USERID validated
+L 19/09/2018 - 00:47:57: "kek<2><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 19/09/2018 - 00:47:58: "kek<2><STEAM_0:1:105068535><>" STEAM USERID validated
+L 19/09/2018 - 00:47:58: "USCGghost<3><STEAM_0:1:8852493><>" connected, address "24.44.128.197:27005"
+L 19/09/2018 - 00:47:58: "USCGghost<3><STEAM_0:1:8852493><>" STEAM USERID validated
+L 19/09/2018 - 00:48:01: "kek<2><STEAM_0:1:105068535><players>" has entered the game
+L 19/09/2018 - 00:48:01: "USCGghost<4><STEAM_0:1:8852493><>" connected, address "24.44.128.197:27005"
+L 19/09/2018 - 00:48:01: "USCGghost<4><STEAM_0:1:8852493><>" STEAM USERID validated
+L 19/09/2018 - 00:48:12: "USCGghost<4><STEAM_0:1:8852493><players>" has entered the game
+L 19/09/2018 - 00:48:22: "kek<2><STEAM_0:1:105068535><players>" say "bogies"
+L 19/09/2018 - 00:48:31: "kek<2><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="100" 
+L 19/09/2018 - 00:48:42: "USCGghost<4><STEAM_0:1:8852493><players>" stats: frags="0.00" deaths="0" health="100" 
+L 19/09/2018 - 00:49:01: "kek<2><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="100" 
+L 19/09/2018 - 00:49:12: "USCGghost<4><STEAM_0:1:8852493><players>" stats: frags="0.00" deaths="0" health="100" 
+L 19/09/2018 - 00:49:31: "kek<2><STEAM_0:1:105068535><players>" stats: frags="5.12" deaths="1" health="0" 
+L 19/09/2018 - 00:49:41: Log file closed
+L 19/09/2018 - 00:49:41: Log file started (file "logs\2018-09-19.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 19/09/2018 - 00:49:41: Loading map "stadium4"
+L 19/09/2018 - 00:49:41: Server cvars start
+L 19/09/2018 - 00:49:41: Server cvar "adminsfile" = "admins.txt"
+L 19/09/2018 - 00:49:41: Server cvar "allow_spectators" = "1.0"
+L 19/09/2018 - 00:49:41: Server cvar "coop" = "0"
+L 19/09/2018 - 00:49:41: Server cvar "deathmatch" = "1"
+L 19/09/2018 - 00:49:41: Server cvar "edgefriction" = "2"
+L 19/09/2018 - 00:49:41: Server cvar "gamebuild" = "6142"
+L 19/09/2018 - 00:49:41: Server cvar "gamename" = "Sven Co-op"
+L 19/09/2018 - 00:49:41: Server cvar "gameversion" = "5.17"
+L 19/09/2018 - 00:49:41: Server cvar "gameversionnum" = "5.17"
+L 19/09/2018 - 00:49:41: Server cvar "mapvotecfgfile" = "mapvote.cfg"
+L 19/09/2018 - 00:49:41: Server cvar "max_queries_sec" = "3.0"
+L 19/09/2018 - 00:49:41: Server cvar "max_queries_sec_global" = "30"
+L 19/09/2018 - 00:49:41: Server cvar "max_queries_window" = "60"
+L 19/09/2018 - 00:49:41: Server cvar "mp_banana" = "1.0"
+L 19/09/2018 - 00:49:41: Server cvar "mp_consistency" = "0"
+L 19/09/2018 - 00:49:41: Server cvar "mp_footsteps" = "1"
+L 19/09/2018 - 00:49:41: Server cvar "mp_logfile" = "1"
+L 19/09/2018 - 00:49:41: Server cvar "mp_nextmap_cycle" = "campaign_vote1"
+L 19/09/2018 - 00:49:41: Server cvar "mp_notimelimit" = "0.0"
+L 19/09/2018 - 00:49:41: Server cvar "pausable" = "0"
+L 19/09/2018 - 00:49:41: Server cvar "skillcfgfile" = "skill.cfg"
+L 19/09/2018 - 00:49:41: Server cvar "sv_accelerate" = "10"
+L 19/09/2018 - 00:49:41: Server cvar "sv_admin_icon" = "gfx/icons/admin.tga"
+L 19/09/2018 - 00:49:41: Server cvar "sv_aim" = "0"
+L 19/09/2018 - 00:49:41: Server cvar "sv_airaccelerate" = "10"
+L 19/09/2018 - 00:49:41: Server cvar "sv_allowupload" = "1"
+L 19/09/2018 - 00:49:41: Server cvar "sv_alltalk" = "0"
+L 19/09/2018 - 00:49:41: Server cvar "sv_bounce" = "1"
+L 19/09/2018 - 00:49:41: Server cvar "sv_cheats" = "2"
+L 19/09/2018 - 00:49:41: Server cvar "sv_clienttrace" = "1"
+L 19/09/2018 - 00:49:41: Server cvar "sv_contact" = ""
+L 19/09/2018 - 00:49:41: Server cvar "sv_friction" = "4"
+L 19/09/2018 - 00:49:41: Server cvar "sv_gravity" = "800"
+L 19/09/2018 - 00:49:41: Server cvar "sv_logblocks" = "0"
+L 19/09/2018 - 00:49:41: Server cvar "sv_maxrate" = "0"
+L 19/09/2018 - 00:49:41: Server cvar "sv_maxspeed" = "270"
+L 19/09/2018 - 00:49:41: Server cvar "sv_minrate" = "0"
+L 19/09/2018 - 00:49:41: Server cvar "sv_password" = ""
+L 19/09/2018 - 00:49:41: Server cvar "sv_proxies" = "1"
+L 19/09/2018 - 00:49:41: Server cvar "sv_stepsize" = "18"
+L 19/09/2018 - 00:49:41: Server cvar "sv_stopspeed" = "100"
+L 19/09/2018 - 00:49:41: Server cvar "sv_uploadmax" = "0.5"
+L 19/09/2018 - 00:49:41: Server cvar "sv_voiceenable" = "0"
+L 19/09/2018 - 00:49:41: Server cvar "sv_wateraccelerate" = "10"
+L 19/09/2018 - 00:49:41: Server cvar "sv_waterfriction" = "1"
+L 19/09/2018 - 00:49:41: Server cvars end
+L 19/09/2018 - 00:49:41: Log file closed
+L 19/09/2018 - 00:49:41: Log file started (file "logs\2018-09-19.log") (game "svencoop") (version "48/5.0.1.0/7964")
+L 19/09/2018 - 00:49:43: Started map "stadium4" (CRC "-1537396155")
+L 19/09/2018 - 00:49:46: "kek<5><STEAM_0:1:105068535><>" connected, address "47.132.2.210:27005"
+L 19/09/2018 - 00:49:46: "kek<5><STEAM_0:1:105068535><>" STEAM USERID validated
+L 19/09/2018 - 00:49:46: "USCGghost<6><STEAM_0:1:8852493><>" connected, address "24.44.128.197:27005"
+L 19/09/2018 - 00:49:47: "USCGghost<6><STEAM_0:1:8852493><>" STEAM USERID validated
+L 19/09/2018 - 00:49:49: "kek<5><STEAM_0:1:105068535><players>" has entered the game
+L 19/09/2018 - 00:49:55: "USCGghost<6><STEAM_0:1:8852493><players>" has entered the game
+L 19/09/2018 - 00:50:19: "kek<5><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="100" 
+L 19/09/2018 - 00:50:25: "USCGghost<6><STEAM_0:1:8852493><players>" stats: frags="0.00" deaths="0" health="100" 
+L 19/09/2018 - 00:50:41: "kek<5><STEAM_0:1:105068535><players>" say "bogies"
+L 19/09/2018 - 00:50:49: "kek<5><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="100" 
+L 19/09/2018 - 00:50:55: "USCGghost<6><STEAM_0:1:8852493><players>" stats: frags="0.00" deaths="0" health="100" 
+L 19/09/2018 - 00:51:04: "USCGghost<6><STEAM_0:1:8852493><players>" say "bogies"
+L 19/09/2018 - 00:51:13: "kek<5><STEAM_0:1:105068535><players>" say ".listsounds in console"
+L 19/09/2018 - 00:51:19: "kek<5><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="100" 
+L 19/09/2018 - 00:51:25: "USCGghost<6><STEAM_0:1:8852493><players>" say "bogies"
+L 19/09/2018 - 00:51:25: "USCGghost<6><STEAM_0:1:8852493><players>" stats: frags="0.00" deaths="0" health="100" 
+L 19/09/2018 - 00:51:29: "kek<5><STEAM_0:1:105068535><players>" say "ass"
+L 19/09/2018 - 00:51:35: "kek<5><STEAM_0:1:105068535><players>" say "ass!"
+L 19/09/2018 - 00:51:49: "kek<5><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="100" 
+L 19/09/2018 - 00:51:55: "USCGghost<6><STEAM_0:1:8852493><players>" stats: frags="0.00" deaths="0" health="100" 
+L 19/09/2018 - 00:52:03: "kek<5><STEAM_0:1:105068535><players>" say "lol"
+L 19/09/2018 - 00:52:19: "kek<5><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="92" 
+L 19/09/2018 - 00:52:22: "kek<5><STEAM_0:1:105068535><players>" say ".listsounds"
+L 19/09/2018 - 00:52:25: "USCGghost<6><STEAM_0:1:8852493><players>" stats: frags="0.00" deaths="0" health="100" 
+L 19/09/2018 - 00:52:34: "kek<5><STEAM_0:1:105068535><players>" say "shutdown"
+L 19/09/2018 - 00:52:43: "kek<5><STEAM_0:1:105068535><players>" say "potc"
+L 19/09/2018 - 00:52:46: "USCGghost<6><STEAM_0:1:8852493><players>" say ".listsounds"
+L 19/09/2018 - 00:52:49: "kek<5><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="92" 
+L 19/09/2018 - 00:52:51: "kek<5><STEAM_0:1:105068535><players>" say "in the console"
+L 19/09/2018 - 00:52:55: "USCGghost<6><STEAM_0:1:8852493><players>" stats: frags="0.00" deaths="0" health="100" 
+L 19/09/2018 - 00:53:12: "USCGghost<6><STEAM_0:1:8852493><players>" say "headcrabs"
+L 19/09/2018 - 00:53:19: "kek<5><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="92" 
+L 19/09/2018 - 00:53:21: "kek<5><STEAM_0:1:105068535><players>" say "emitters"
+L 19/09/2018 - 00:53:25: "USCGghost<6><STEAM_0:1:8852493><players>" say "hotaliensex"
+L 19/09/2018 - 00:53:26: "USCGghost<6><STEAM_0:1:8852493><players>" stats: frags="0.00" deaths="0" health="100" 
+L 19/09/2018 - 00:53:37: "kek<5><STEAM_0:1:105068535><players>" say "rotors"
+L 19/09/2018 - 00:53:45: "kek<5><STEAM_0:1:105068535><players>" say "notshuttingdown"
+L 19/09/2018 - 00:53:49: "kek<5><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="92" 
+L 19/09/2018 - 00:53:56: "USCGghost<6><STEAM_0:1:8852493><players>" stats: frags="0.00" deaths="0" health="100" 
+L 19/09/2018 - 00:54:11: "kek<5><STEAM_0:1:105068535><players>" say "mlgsad"
+L 19/09/2018 - 00:54:19: "kek<5><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="92" 
+L 19/09/2018 - 00:54:26: "USCGghost<6><STEAM_0:1:8852493><players>" stats: frags="0.00" deaths="0" health="100" 
+L 19/09/2018 - 00:54:39: "kek<5><STEAM_0:1:105068535><players>" say "adios"
+L 19/09/2018 - 00:54:44: "kek<5><STEAM_0:1:105068535><players>" say "ah!"
+L 19/09/2018 - 00:54:46: "kek<5><STEAM_0:1:105068535><players>" say "ah!"
+L 19/09/2018 - 00:54:49: "kek<5><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="92" 
+L 19/09/2018 - 00:54:56: "USCGghost<6><STEAM_0:1:8852493><players>" stats: frags="0.00" deaths="0" health="100" 
+L 19/09/2018 - 00:54:56: "kek<5><STEAM_0:1:105068535><players>" say "footlettuce"
+L 19/09/2018 - 00:55:11: "kek<5><STEAM_0:1:105068535><players>" say "ohyeahmrkrabs"
+L 19/09/2018 - 00:55:19: "kek<5><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="92" 
+L 19/09/2018 - 00:55:26: "USCGghost<6><STEAM_0:1:8852493><players>" stats: frags="0.10" deaths="0" health="100" 
+L 19/09/2018 - 00:55:43: "kek<5><STEAM_0:1:105068535><players>" say "flute"
+L 19/09/2018 - 00:55:49: "kek<5><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="92" 
+L 19/09/2018 - 00:55:56: "USCGghost<6><STEAM_0:1:8852493><players>" stats: frags="0.10" deaths="0" health="100" 
+L 19/09/2018 - 00:55:59: "kek<5><STEAM_0:1:105068535><players>" say "glow turqiouse"
+L 19/09/2018 - 00:56:02: "kek<5><STEAM_0:1:105068535><players>" say "glow menu"
+L 19/09/2018 - 00:56:19: "kek<5><STEAM_0:1:105068535><players>" stats: frags="0.00" deaths="0" health="87" 
+L 19/09/2018 - 00:56:26: "USCGghost<6><STEAM_0:1:8852493><players>" stats: frags="0.10" deaths="0" health="100" 
+L 19/09/2018 - 00:56:49: "kek<5><STEAM_0:1:105068535><players>" stats: frags="-15.17" deaths="0" health="81" 
+L 19/09/2018 - 00:56:56: "USCGghost<6><STEAM_0:1:8852493><players>" stats: frags="0.10" deaths="0" health="100" 
+L 19/09/2018 - 00:57:01: "kek<5><STEAM_0:1:105068535><players>" say "bogies"
+L 19/09/2018 - 00:57:08: "kek<5><STEAM_0:1:105068535><players>" killed "kek<5><STEAM_0:1:105068535><players>" with "rpg_rocket"
+L 19/09/2018 - 00:57:15: "kek<5><STEAM_0:1:105068535><players>" say "oof"
+L 19/09/2018 - 00:57:22: "kek<5><STEAM_0:1:105068535><players>" say "rape"
+L 19/09/2018 - 00:57:26: "USCGghost<6><STEAM_0:1:8852493><players>" stats: frags="2.82" deaths="0" health="97" 
+L 19/09/2018 - 00:57:41: "kek<5><STEAM_0:1:105068535><players>" stats: frags="-14.36" deaths="1" health="100" 
+L 19/09/2018 - 00:57:43: "kek<5><STEAM_0:1:105068535><players>" say "candy"
+L 19/09/2018 - 00:57:56: "kek<5><STEAM_0:1:105068535><players>" say "blyat"
+L 19/09/2018 - 00:58:11: "kek<5><STEAM_0:1:105068535><players>" stats: frags="-14.36" deaths="1" health="100" 
+L 19/09/2018 - 00:58:12: "USCGghost<6><STEAM_0:1:8852493><players>" say "bylat"
+L 19/09/2018 - 00:58:14: "USCGghost<6><STEAM_0:1:8852493><players>" stats: frags="6.08" deaths="1" health="100" 
+L 19/09/2018 - 00:58:19: "USCGghost<6><STEAM_0:1:8852493><players>" say "awoo"
+L 19/09/2018 - 00:58:28: "kek<5><STEAM_0:1:105068535><players>" say "cyka"
+L 19/09/2018 - 00:58:32: "USCGghost<6><STEAM_0:1:8852493><players>" say "kawaii"
+L 19/09/2018 - 00:58:41: "kek<5><STEAM_0:1:105068535><players>" stats: frags="-14.36" deaths="1" health="100" 
+L 19/09/2018 - 00:58:44: "USCGghost<6><STEAM_0:1:8852493><players>" stats: frags="6.08" deaths="1" health="100" 
+L 19/09/2018 - 00:58:47: "kek<5><STEAM_0:1:105068535><players>" say "milk"
+L 19/09/2018 - 00:58:54: "USCGghost<6><STEAM_0:1:8852493><players>" say "nein"
+L 19/09/2018 - 00:59:03: "kek<5><STEAM_0:1:105068535><players>" say "jump"
+L 19/09/2018 - 00:59:11: "kek<5><STEAM_0:1:105068535><players>" stats: frags="-14.36" deaths="1" health="100" 
+L 19/09/2018 - 00:59:11: "USCGghost<6><STEAM_0:1:8852493><players>" say "jump"
+L 19/09/2018 - 00:59:14: "USCGghost<6><STEAM_0:1:8852493><players>" stats: frags="6.08" deaths="1" health="100" 
+L 19/09/2018 - 00:59:35: "kek<5><STEAM_0:1:105068535><players>" say "triple"
+L 19/09/2018 - 00:59:41: "kek<5><STEAM_0:1:105068535><players>" stats: frags="-14.36" deaths="1" health="100" 
+L 19/09/2018 - 00:59:44: "USCGghost<6><STEAM_0:1:8852493><players>" stats: frags="6.08" deaths="1" health="100" 
+L 19/09/2018 - 00:59:46: "kek<5><STEAM_0:1:105068535><players>" say "startup"
+L 19/09/2018 - 01:00:11: "kek<5><STEAM_0:1:105068535><players>" stats: frags="-14.36" deaths="1" health="54" 
+L 19/09/2018 - 01:00:13: "worldspawn<generic_ent><NoAuthID><neutral>" killed "USCGghost<6><STEAM_0:1:8852493><players>" with "worldspawn"
+L 19/09/2018 - 01:00:14: "kek<5><STEAM_0:1:105068535><players>" killed "kek<5><STEAM_0:1:105068535><players>" with "rpg_rocket"
+L 19/09/2018 - 01:00:14: "USCGghost<6><STEAM_0:1:8852493><players>" stats: frags="6.08" deaths="2" health="0" 
+L 19/09/2018 - 01:00:20: "kek<5><STEAM_0:1:105068535><players>" say "sad2"
+L 19/09/2018 - 01:00:37: "kek<5><STEAM_0:1:105068535><players>" disconnected
+L 19/09/2018 - 01:00:40: "USCGghost<6><STEAM_0:1:8852493><players>" disconnected
+L 19/09/2018 - 01:00:44: Server shutdown
+L 19/09/2018 - 01:00:44: Log file closed
